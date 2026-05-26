@@ -1943,7 +1943,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923078596013,Ameer Hamza,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign,,2026-02-10,2026-02-12
 +923155585206,Sherry,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called,,2026-02-10,2026-02-12
 +923053435696,haqj00036,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign,,2026-02-12,2026-02-13
-+923340207608,Shazil Shoaib,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-lums-campaign,,2026-02-12,2026-02-13
++923340207608,Shazil Shoaib,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|bcat-meta-lums-campaign|khizar,120246555929610215,2026-02-12,2026-05-26
 +923172103576,~anushayyy~,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign,,2026-02-12,2026-02-13
 +923332886402,mushtaq,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign,,2026-02-12,2026-02-13
 +923429445876,panhwaramir958,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign,,2026-02-12,2026-02-13
@@ -7078,20 +7078,28 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923181097388,FAiZAN,,Male,WhatsApp,WhatsApp Secondary,Other,bcat|called|khizar,120238466084490215,2026-05-24,2026-05-25
 +923167319924,Hasnain,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,aizah|bcat|khizar|mdcat-meta-kpk-campaign,,2026-05-23,2026-05-24
 +923113376170,All,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,bcat|khizar|mdcat-meta-sindh-campaign|zubair,120246448980730215,2026-05-23,2026-05-24
-+923215188453,🌷🧚‍♀️🧘‍♀️💃,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,120246555929610215,2026-05-24,2026-05-25
++923215188453,🌷🧚‍♀️🧘‍♀️💃,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,120246555929610215,2026-05-24,2026-05-26
 +923223217882,,lamastore754@gmail.com,Female,In App,In App,Other,bcat-mobile-app|khizar,,2026-05-24,2026-05-26
 +923007900000,Uzair,,Male,WhatsApp,WhatsApp Secondary,Other,bcat|khizar,120246555929610215,2026-05-24,2026-05-26
 +923445794291,sswrajput,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,bcat|hassan|khizar,,2026-05-24,2026-05-26
 +923477242510,Tayyaba,,Female,WhatsApp,WhatsApp Secondary,Other,bcat|khizar,120246555929610215,2026-05-24,2026-05-25
 +923122427472,qhjahavajggg,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,bcat|irrelevant|khizar,120246448980730215,2026-05-24,2026-05-26
 +923331672426,muhammad javeeddareshak,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-05-26,2026-05-26
-+923461642351,sulman ali,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar|irrelevant,120246555929610215,2026-05-25,2026-05-26
-+923277299768,Zeeshan,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,aizah|bcat|khizar|mdcat-meta-punjab-campaign|irrelevant,120246449017510215,2026-05-25,2026-05-26
-+923486748909,Suleman Gulli🥰💔💔,,Male,WhatsApp,WhatsApp Outbound,Other,bcat|khizar|irrelevant,,2026-05-25,2026-05-26
-+923459548955,,bakkarrajput42@gmail.com,Male,In App,In App,Other,khizar|bcat-mobile-app,,2026-05-26,2026-05-26
++923461642351,sulman ali,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|irrelevant|khizar,120246555929610215,2026-05-25,2026-05-26
++923277299768,Zeeshan,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,aizah|bcat|irrelevant|khizar|mdcat-meta-punjab-campaign,120246449017510215,2026-05-25,2026-05-26
++923486748909,Suleman Gulli🥰💔💔,,Male,WhatsApp,WhatsApp Outbound,Other,bcat|irrelevant|khizar,,2026-05-25,2026-05-26
++923459548955,,bakkarrajput42@gmail.com,Male,In App,In App,Other,bcat-mobile-app|khizar,,2026-05-26,2026-05-26
 +923064237120,Ali Yousaf Ali Yousaf,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-05-25,2026-05-25
 +923153784880,khaskheliyounis75,,Male,WhatsApp,WhatsApp Secondary,Other,bcat|khizar,120246914210330215,2026-05-25,2026-05-25
 +923214638500,Ameer Hamza,,Male,WhatsApp,WhatsApp Secondary,Other,bcat|khizar,,2026-05-25,2026-05-25
-+923469602760,no name,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,a-levels|bcat-meta-iba-campaign|khizar|irrelevant,120246555929610215,2026-05-25,2026-05-25
-+923329425375,,tahamuhmmad08@gmail.com,Male,In App,In App,Other,khizar|bcat-mobile-app,,2026-05-25,2026-05-25
-+923226383069,💯🌾❤️‍🔥سنگوری💔🌹🇦🇫,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-05-25,2026-05-25
++923469602760,no name,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,a-levels|bcat-meta-iba-campaign|irrelevant|khizar,120246555929610215,2026-05-25,2026-05-26
++923329425375,,tahamuhmmad08@gmail.com,Male,In App,In App,Other,bcat-mobile-app|khizar,,2026-05-25,2026-05-26
++923226383069,💯🌾❤️‍🔥سنگوری💔🌹🇦🇫,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-05-25,2026-05-26
++923337276799,Akhtar Memon,,Male,WhatsApp,WhatsApp Secondary,Other,bcat|khizar,120246555929610215,2026-05-26,2026-05-26
++923000200838,Karachi Dental Clinic,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar|ecat|anas,120246555929610215,2026-05-26,2026-05-26
++923054579060,Ahmed Raza,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar|a-levels,120246555929610215,2026-05-26,2026-05-26
++923103651977,🥰🥰🥰🥰🥰🥰🥰🥰,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,bcat|khizar,,2026-05-26,2026-05-26
++923363590625,arifchshoaib,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-05-26,2026-05-26
++923112881111,Rashid Gill,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-05-26,2026-05-26
++923103678182,Miku~~~,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-05-26,2026-05-26
++923093907649,,kakasiqeeq@gmail.com,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-05-26,2026-05-26
