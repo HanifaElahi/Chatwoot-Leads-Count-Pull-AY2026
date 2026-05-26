@@ -1,0 +1,48 @@
+name: Daily Leads Count Pull
+
+on:
+  schedule:
+    # Runs daily at 03:00 UTC (08:00 PKT / GMT+5)
+    - cron: '0 3 * * *'
+  workflow_dispatch:  # allow manual trigger from Actions tab
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit summaries back
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily pull (all products) + push to gsheet
+        env:
+          CHATWOOT_BASE_URL: ${{ secrets.CHATWOOT_BASE_URL }}
+          CHATWOOT_ACCOUNT_ID: ${{ secrets.CHATWOOT_ACCOUNT_ID }}
+          CHATWOOT_API_TOKEN: ${{ secrets.CHATWOOT_API_TOKEN }}
+          GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
+          GOOGLE_PRIVATE_KEY: ${{ secrets.GOOGLE_PRIVATE_KEY }}
+          DAILY_COUNTS_SPREADSHEET_ID: ${{ secrets.DAILY_COUNTS_SPREADSHEET_ID }}
+        run: bash scripts/run_all.sh
+
+      - name: Commit updated summaries
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add summary/*/all_leads.csv README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: daily leads pull $(date -u +%Y-%m-%d)"
+            git push
+          fi
