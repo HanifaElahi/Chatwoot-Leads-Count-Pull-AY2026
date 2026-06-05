@@ -25,7 +25,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923055177804,M Amir,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120238466084490215,2026-05-22,2026-05-23
 +923322448209,Salman Sohail,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120238466084490215,2026-05-22,2026-05-23
 +923333916354,,duas3507@gmail.com,Uncategorized,WhatsApp,WhatsApp Outbound,Other,anas|ecat-web-signup,,2026-05-22,2026-05-23
-+923222158336,محمد اطہر علی ولدمحمد علی,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120238466084490215,2026-05-03,2026-06-03
++923222158336,محمد اطہر علی ولدمحمد علی,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120238466084490215,2026-05-03,2026-06-04
 +923332239075,Syed Wajid Ali,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120238466084490215,2026-05-22,2026-05-23
 +923372374345,,zayanbaig037@gmail.com,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Google Search,anas|called|ecat-landing-page|ecat-landing-page-form,,2026-02-11,2026-05-23
 +923334319919,Humara Gul,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign|ecat-meta-giki-campaign,120238470645360215,2026-04-14,2026-05-23
@@ -59,7 +59,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923005710497,Danyal Abid,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-05-22,2026-05-23
 +923342080814,🦢^᪲᪲᪲,,Uncategorized,WhatsApp,WhatsApp Primary,Other,anas|ecat,,2026-05-22,2026-05-23
 +923252531028,Tara ❤️❤️,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120238466084490215,2026-05-22,2026-05-23
-+923354006231,,aimalnoor1202@gmail.com,Female,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-05-22,2026-05-22
++923354006231,,aimalnoor1202@gmail.com,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Other,anas|called|ecat-meta-fast-campaign|ecat-web-signup,120238470645360215,2026-05-22,2026-06-04
 +923208020082,hananyousaf82,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-05-22,2026-05-23
 +923439998208,R~°¥€roghani✨,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,,2026-05-22,2026-05-23
 +923305814921,g,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-05-22,2026-05-23
@@ -129,7 +129,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923491624457,naeemkhan542772,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-05-21,2026-05-23
 +923119298090,Unknown,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign,,2026-05-21,2026-05-22
 +923264811233,Wahab Buzdar,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-fast-calculator|ecat-meta-uet-campaign|ecat-outbounds,,2025-11-09,2026-05-22
-+923200000732,,niazishawaizkhan@gmail.com,Male,WhatsApp,WhatsApp OTP,Other,anas|ecat,,2026-05-21,2026-06-03
++923200000732,,niazishawaizkhan@gmail.com,Male,WhatsApp,WhatsApp OTP,Other,anas|ecat,,2026-05-21,2026-06-04
 +923274051747,Bint_e_Ramzan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120238466084490215,2026-05-21,2026-05-23
 +923465594519,temporaryworld....,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat|ecat-meta-fast-campaign,120238470645360215,2026-05-19,2026-05-31
 +923706894350,Samad Ali,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat|ecat-meta-fast-campaign,,2026-05-21,2026-05-25
@@ -189,7 +189,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923208816518,Aiza,,Female,WhatsApp,WhatsApp Primary,Other,ecat,,2026-05-20,2026-05-21
 +923400058297,아 크 사  칸 왈,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|called,120237066664140215,2026-05-20,2026-05-21
 +923345396621,SyedSajjadRizvi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|called,120237066664140215,2026-05-20,2026-05-21
-+923090485160,Maa Je,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign|ecat-meta-nust-campaign,120237066664140215,2026-04-18,2026-06-03
++923090485160,Maa Je,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign|ecat-meta-nust-campaign,120237066664140215,2026-04-18,2026-06-04
 +923269223440,Hussain shaikh,,Male,WhatsApp,WhatsApp Secondary,Google Search,ecat-landing-page,,2026-05-20,2026-05-21
 +923262743467,♥️,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,anas|called|ecat|ecat-meta-nust-campaign|ecat-web-signup,120237066664140215,2026-05-20,2026-05-26
 +923463564688,"Saqib Karamat, ACMA",,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|called,120237066664140215,2026-05-20,2026-05-21
@@ -261,7 +261,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923445101845,HARIS,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|called,120237066664140215,2026-05-20,2026-05-21
 +923554215672,Musa Ali Balghari,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|called,120237066664140215,2026-05-20,2026-05-21
 +923159311800,MUGHAL QUEEN 👑💖,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|called,120237067235990215,2026-05-20,2026-05-21
-+923403055148,N🥰,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign,120237067235990215,2026-05-20,2026-05-21
++923403055148,N🥰,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-ned-campaign|ecat-syllabus-page|umair,120237067235990215,2026-05-20,2026-06-04
 +923043496810,MUDASSIR MUGHAL,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|called,120238466084490215,2026-05-20,2026-05-21
 +923148008708,々KOKO,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign,120238466084490215,2026-05-20,2026-05-21
 +923253013307,...,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign,120238466084490215,2026-05-19,2026-05-21
@@ -531,7 +531,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923193075450,Khan tunio,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120237067235990215,2026-05-16,2026-05-30
 +923163211433,👑,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign,120237067235990215,2026-05-16,2026-05-17
 +923432699514,,itszulfi98@gmail.com,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-ned-campaign|ecat-meta-nust-campaign|intent-to-pay,120238466084490215,2026-05-11,2026-05-17
-+923008435775,Sadaf Ahsan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign,120238470645360215,2026-05-15,2026-05-17
++923008435775,Sadaf Ahsan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign,120238470645360215,2026-05-15,2026-06-04
 +923297322320,mshahazaibmalik,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|called,120245349790140215,2026-05-16,2026-05-17
 +923095172389,الحمدللہ,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|called,120245349790140215,2026-05-16,2026-05-17
 +923418366283,Dhnraj Koli,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|called,120245349790140215,2026-05-16,2026-05-17
@@ -629,7 +629,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923475089109,😑,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign,120238470645360215,2026-05-15,2026-05-17
 +923339004792,saif Ullah Shah,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign,120238470645360215,2026-05-16,2026-05-17
 +923316538950,Shaista Hayyat,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-fast-campaign|ecat-meta-nust-campaign|ecat-meta-uet-refresher-campaign,120238470645360215,2026-01-22,2026-05-17
-+923008740332,,mirabfatimah203@gmail.com,Female,WhatsApp,WhatsApp Primary|WhatsApp Secondary,Meta Paid,anas|ecat|ecat-meta-fast-campaign|intent-to-pay,120238470645360215,2026-05-16,2026-06-03
++923008740332,,mirabfatimah203@gmail.com,Female,WhatsApp,WhatsApp Primary|WhatsApp Secondary,Meta Paid,anas|ecat|ecat-meta-fast-campaign|intent-to-pay,120238470645360215,2026-05-16,2026-06-04
 +923016421648,Mumtaz Ahmad,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat|ecat-meta-nust-campaign,120237066664140215,2026-05-12,2026-05-17
 +923451601704,mustafachandiya989,,Male,WhatsApp,WhatsApp Secondary,Other,ecat,120245349790140215,2026-05-16,2026-05-17
 +923413806863,Yty,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,ecat,120244051953390215,2026-05-15,2026-05-17
@@ -717,7 +717,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923292233558,Sumaim Khan,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign,120238470645360215,2026-05-13,2026-05-16
 +923442357566,Daniyal Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign,120238470645360215,2026-05-15,2026-05-16
 +923359229938,Shahzib Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign,120238467629860215,2026-05-15,2026-05-16
-+923227663381,imran saab,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-fast-campaign,120238470645360215,2026-04-20,2026-05-16
++923227663381,imran saab,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-fast-campaign|ecat-meta-giki-campaign|umair,120238470645360215,2026-04-20,2026-06-04
 +923336508434,Abdul mueez,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|ecat-meta-uet-refresher-campaign|ecat-outbounds,120237066664140215,2025-11-18,2026-05-16
 +923467271042,°___°,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|called,120237066664140215,2026-05-14,2026-05-16
 +923554868040,Cs عزیز,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|interested,120237066664140215,2026-05-14,2026-05-16
@@ -768,7 +768,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923447552880,ladies choice,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|called,120237066664140215,2026-05-13,2026-05-15
 +923336001055,Ihtisham ul haq,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|called,120237066664140215,2026-05-13,2026-05-15
 +923006994828,Moazma,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,called|ecat-meta-fast-campaign|ecat-outbounds|intent-to-pay|interested,120238470645360215,2026-01-21,2026-05-15
-+923060218894,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120237067235990215,2026-05-13,2026-06-03
++923060218894,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120237067235990215,2026-05-13,2026-06-04
 +923198768879,Abdullah Hussain,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|called,120238470645360215,2026-05-13,2026-05-15
 +923446290258,Abdullah,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|called,120238470645360215,2026-05-13,2026-05-15
 +923456167849,shabbirahmadkhan1100,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|called,120237066664140215,2026-05-13,2026-05-15
@@ -874,7 +874,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923374969269,Murad Khan,guttee1234@gmail.com,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign,120238465807390215,2026-04-14,2026-05-14
 +923345243115,MUHAMMAD ISHTIAQ,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,120237066664140215,2026-05-13,2026-05-14
 +923212417363,Yasir,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,120237066664140215,2026-05-13,2026-05-14
-+923009712523,hafizismail464,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,120237066664140215,2026-05-13,2026-05-14
++923009712523,hafizismail464,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-05-13,2026-06-04
 +923141858447,🦂,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,120237066664140215,2026-05-13,2026-05-14
 +923309773146,Arshad Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,120237066664140215,2026-05-12,2026-05-14
 +923000297534,RaShiD MoEéñ,mohammedrashidmoeen@gmail.com,Male,WhatsApp,WhatsApp OTP,Other,ecat,,2026-05-12,2026-05-14
@@ -1225,7 +1225,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923322348058,drwalimuhammed,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,120237066664140215,2026-05-09,2026-05-10
 +923141539167,,modassirijaz000@gmail.com,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign,120238465807390215,2026-05-09,2026-05-10
 +923448005790,nasirdogarpak786,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign,120238465807390215,2026-05-09,2026-05-10
-+923338089467,Always be happy❤,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign|ecat-meta-nust-campaign,120237066664140215,2026-05-09,2026-06-03
++923338089467,Always be happy❤,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign|ecat-meta-nust-campaign,120237066664140215,2026-05-09,2026-06-04
 +923470604088,shahbaz,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,120237066664140215,2026-05-09,2026-05-10
 +923485117963,Goharnoor,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds,120237066664140215,2025-12-24,2026-05-10
 +923417813606,Samar Baloch,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|called,,2026-05-07,2026-05-10
@@ -1529,7 +1529,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923293431463,nawaznizar28,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign,120244051953390215,2026-05-07,2026-05-08
 +923312024927,Majid Aziz,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|called,120238466084490215,2026-05-06,2026-05-08
 +923448833786,Ahmed fasi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|intent-to-pay|called,,2026-05-06,2026-05-08
-+923238728122,Asifullahsaifi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-05-06,2026-06-03
++923238728122,Asifullahsaifi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-05-06,2026-06-04
 +923135841029,shaistarafiq57,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|ecat-outbounds,120237066664140215,2025-12-28,2026-05-08
 +923354798162,ilyasagha05,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|called,120237066664140215,2026-05-06,2026-05-08
 +923334557665,,shairdadkhashakho@gmail.com,Male,In App,In App,Other,ecat-mobile-app,,2026-05-06,2026-05-08
@@ -1555,7 +1555,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923472697374,Ai Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|called,120237066664140215,2026-05-04,2026-05-06
 +923021523158,Abdul Wakeel 786,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|called,120238465807390215,2026-05-04,2026-05-06
 +923469184282,,,Uncategorized,WhatsApp,WhatsApp Outbound,Google Search,ecat-blog-form|called,,2026-05-04,2026-05-06
-+923006901408,Sh Anwaar,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,call-back|called|ecat-meta-giki-campaign|ecat-meta-nust-campaign|ecat-meta-uet-campaign|ecat-outbounds|follow-up,120238465807390215,2025-11-03,2026-05-06
++923006901408,Sh Anwaar,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,anas|call-back|called|ecat-meta-fast-campaign|ecat-meta-giki-campaign|ecat-meta-nust-campaign|ecat-meta-uet-campaign|ecat-outbounds|follow-up,120238465807390215,2025-11-03,2026-06-04
 +923126962656,Muhammad Usaib,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|ecat-meta-ned-campaign|ecat-outbounds|follow-up,120238465807390215,2025-11-09,2026-05-06
 +923708720223,Kashan,,Male,WhatsApp,WhatsApp Secondary,Other,ecat,,2026-05-05,2026-05-06
 +923365743778,NÕÕR ŪLLÃH,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|called,120238465807390215,2026-05-04,2026-05-06
@@ -1588,7 +1588,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923194623244,,niazmuqadas35@gmail.com,Male,In App,In App,Other,ecat-mobile-app,,2026-05-04,2026-05-06
 +923171008699,,aaliqk666@gmail.com,Male,In App,In App,Other,ecat-mobile-app|called,,2026-05-05,2026-05-06
 +923003049169,Muhammad Zain,,Male,WhatsApp,WhatsApp Secondary,Other,ecat-app-banner|called,,2026-05-04,2026-05-06
-+923705501501,,ranafahadali5501@gmail.com,Male,Both,In App|WhatsApp Secondary,Other,anas|called|ecat|ecat-web-app|ecat-website-leads,,2026-05-05,2026-06-04
++923705501501,,ranafahadali5501@gmail.com,Male,Both,In App|WhatsApp Secondary,Other,anas|called|ecat|ecat-web-app|ecat-website-leads,,2026-05-05,2026-06-05
 +923405887029,Salam,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign,120238470645360215,2026-05-04,2026-05-05
 +923273885980,SS brOken heaRt GiRL💔💔,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign,120238466485100215,2026-05-04,2026-05-05
 +923180299601,BUGTI⚔️,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign,120237067235990215,2026-05-04,2026-05-05
@@ -1622,7 +1622,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923342540688,Alamdar hussain,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign,,2026-01-11,2026-05-05
 +923190524103,haseeburrahman520,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|called,120237066664140215,2026-05-04,2026-05-05
 +923305353866,Shaheen Waziri,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|called,120238465807390215,2026-05-03,2026-05-05
-+923002902551,kashifmehmood1276,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign|ecat-meta-giki-campaign,120238465807390215,2026-05-03,2026-06-03
++923002902551,kashifmehmood1276,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign|ecat-meta-giki-campaign,120238465807390215,2026-05-03,2026-06-04
 +923345561676,Mobina Fazil,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign,120238465807390215,2026-05-03,2026-05-05
 +923213564835,Masood jan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|relevant|interested,120238465807390215,2026-05-03,2026-05-05
 +923366367693,Haseeb Umar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign,120238465807390215,2026-05-03,2026-05-05
@@ -1661,7 +1661,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923339051105,Aman Gul,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|called,120237066664140215,2026-05-03,2026-05-05
 +923101886513,M.Saeed,,Male,WhatsApp,WhatsApp Secondary,Other,ecat,120237066664140215,2026-05-03,2026-05-05
 +923288278187,AHMED💌♥️💯,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|called,120237066664140215,2026-05-03,2026-05-05
-+923346267300,azharalimc,,Male,WhatsApp,WhatsApp Secondary,Other,ecat|called,120237066664140215,2026-05-03,2026-05-05
++923346267300,azharalimc,,Male,WhatsApp,WhatsApp Secondary,Other,anas|called|ecat,120237066664140215,2026-05-03,2026-06-05
 +923012699970,kg563194,,Uncategorized,WhatsApp,WhatsApp Primary,Other,ecat|called,,2026-05-03,2026-05-05
 +923316554076,faizanali12905,,Male,WhatsApp,WhatsApp OTP,Other,ecat|called,,2026-05-03,2026-05-05
 +923488494874,MK,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-iba-campaign|ecat-meta-nust-campaign,,2025-10-31,2026-05-05
@@ -2020,7 +2020,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923715021380,M Ibrahim,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|called,120238466485100215,2026-04-29,2026-04-30
 +923064173575,Hoorfxtima,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|called,120238470645360215,2026-04-29,2026-04-30
 +923130498693,Ahmad Ali,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign,,2026-04-29,2026-04-30
-+923439867836,ᴜsᴍᴀɴ ᴍᴜʀᴀᴅ  🍂,,Male,Both,In App|WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-nust-campaign|ecat-web-app,120237066664140215,2026-04-27,2026-06-03
++923439867836,ᴜsᴍᴀɴ ᴍᴜʀᴀᴅ  🍂,,Male,Both,In App|WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-nust-campaign|ecat-web-app,120237066664140215,2026-04-27,2026-06-04
 +923151314778,Raees,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|called,120237067235990215,2026-04-29,2026-04-30
 +923320928471,Muslimali,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|called,120237067235990215,2026-04-29,2026-04-30
 +923212642961,...,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|called,120237067235990215,2026-04-29,2026-04-30
@@ -3167,7 +3167,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923356899093,Abdullah,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat|ecat-meta-uet-campaign,,2026-02-26,2026-04-15
 +923247737322,♡,sdawood2009@gmail.com,Male,WhatsApp,WhatsApp Primary,Other,ecat|ecat-paid,,2026-04-10,2026-04-15
 +923199972629,Raazia Ahmad,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|called,,2026-04-14,2026-04-15
-+923262886390,,moizmajeed77@gmail.com,Male,Both,In App|WhatsApp Primary,Other,called|contact-us|ecat|ecat-meta-campaign|umair,922444463630567,2026-04-15,2026-06-03
++923262886390,,moizmajeed77@gmail.com,Male,Both,In App|WhatsApp Primary,Other,called|contact-us|ecat|ecat-meta-campaign|umair,922444463630567,2026-04-15,2026-06-04
 +923339229937,falakniaz1970,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2026-04-14,2026-04-15
 +923708919594,ali,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2026-04-14,2026-04-15
 +923445053202,sainaiqbal346,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2026-02-11,2026-04-15
@@ -4721,7 +4721,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923176124253,,,Uncategorized,WhatsApp,WhatsApp Outbound,Google Search,ecat-landing-page-form|called,,2026-03-16,2026-03-18
 +923420013592,,,Uncategorized,WhatsApp,WhatsApp Outbound,Google Search,ecat-landing-page-form|called,,2026-03-16,2026-03-18
 +923715311885,m8530087,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,ecat|irrelevant,,2026-03-16,2026-03-19
-+923405346485,Shaista Naveed,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-03-18,2026-06-03
++923405346485,Shaista Naveed,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-03-18,2026-06-04
 +923268640420,Z b,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2026-03-18,2026-03-19
 +923432037822,mahamarif42@gmail.com,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2026-03-18,2026-03-19
 +923497898824,Junaid Khan,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2026-03-18,2026-03-19
@@ -5092,7 +5092,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923555733014,kashanhaider1123,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|intent-to-pay|verify-payment-ss,,2026-03-13,2026-03-14
 +923110670860,,,Uncategorized,WhatsApp,WhatsApp Outbound,Google Search,ecat-landing-page-form,,2026-03-14,2026-03-14
 +923291717506,,,Uncategorized,WhatsApp,WhatsApp Outbound,Google Search,ecat-landing-page-form|called,,2026-03-12,2026-03-14
-+923449399361,mansoory0344@gmail.com,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign|ecat-meta-nust-campaign,120238470645360215,2026-03-11,2026-06-04
++923449399361,mansoory0344@gmail.com,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign|ecat-meta-nust-campaign,120238470645360215,2026-03-11,2026-06-05
 +923456999774,Syedzada,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2026-03-13,2026-03-14
 +923298608204,,,Uncategorized,WhatsApp,WhatsApp Outbound,Google Search,ecat-landing-page-form,,2026-03-13,2026-03-13
 +923048233305,Shah Group of industry,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,called|ecat-landing-page-form|ecat-meta-nust-campaign,,2026-02-23,2026-03-13
@@ -5266,7 +5266,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923185477880,,,Uncategorized,WhatsApp,WhatsApp Outbound,Google Search,ecat-landing-page-form|called,,2026-03-09,2026-03-10
 +923405191299,umaismeer96,,Female,WhatsApp,WhatsApp Outbound,Other,ecat|intent-to-pay|called,,2026-03-07,2026-03-10
 +923244964708,,malikgee700000@gmail.com,Male,WhatsApp,WhatsApp Outbound,Other,ecat-outbounds|ecat-web-signup,,2026-02-06,2026-03-10
-+923128500034,ENGR,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-landing-page|ecat-meta-uet-campaign,,2026-03-09,2026-06-03
++923128500034,ENGR,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-landing-page|ecat-meta-uet-campaign,,2026-03-09,2026-06-04
 +923314847607,Ghulam Fareed,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-refresher-campaign|called,,2026-03-08,2026-03-10
 +923022226463,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,ecat-akhss,,2026-01-11,2026-03-10
 +923110442248,????,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2026-03-09,2026-03-10
@@ -5513,7 +5513,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923166122791,Abdul Moheet Saqib,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|relevant|interested,,2026-03-06,2026-03-07
 +923350514969,~SK,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2026-03-06,2026-03-07
 +923425647105,,,Uncategorized,WhatsApp,WhatsApp Outbound,Google Search,ecat-landing-page-form,,2026-03-06,2026-03-07
-+923365875807,Warraich,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|ecat-meta-nust-campaign|umair,120238465807390215,2026-03-06,2026-06-04
++923365875807,Warraich,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|ecat-meta-nust-campaign|umair,120238465807390215,2026-03-06,2026-06-04
 +923016252423,Imran Ahmad,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2026-02-03,2026-03-07
 +923334092368,Amir Shahzad,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2026-03-06,2026-03-07
 +923460810524,Azaz Ullah,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-meta-uet-campaign|ecat-outbounds|follow-up,,2025-12-20,2026-03-07
@@ -5551,7 +5551,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923355715695,Mohsin Ali,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-refresher-campaign|called,,2026-03-06,2026-03-08
 +923263530908,,farh98831@gmail.com,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2026-03-06,2026-03-08
 +923219400278,justiceepitome,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-refresher-campaign|called,,2026-03-06,2026-03-08
-+923232169740,Zohra Jabeen,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|ecat-meta-nust-campaign|ecat-meta-uet-refresher-campaign|ecat-outbounds|umair,120238465807390215,2025-11-05,2026-06-03
++923232169740,Zohra Jabeen,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|ecat-meta-nust-campaign|ecat-meta-uet-refresher-campaign|ecat-outbounds|umair,120238465807390215,2025-11-05,2026-06-04
 +923009330987,Anwarullah,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|ecat-meta-uet-refresher-campaign,,2025-11-04,2026-03-08
 +923703839843,Muddassar Iqbal,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|ecat-meta-uet-campaign|ecat-meta-uet-refresher-campaign,,2026-01-13,2026-03-08
 +923422653234,,,Uncategorized,WhatsApp,WhatsApp Outbound,Google Search,ecat-blog-form,,2026-03-07,2026-03-07
@@ -5798,7 +5798,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923211400279,Muazama Waseem,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-refresher-campaign|interested,,2026-03-04,2026-03-05
 +923466745049,Mukhtar Ahmad,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-refresher-campaign|called,,2026-03-04,2026-03-05
 +923264434353,,liondasher2006@gmail.com,Male,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-03-03,2026-03-05
-+923018146709,Aamir Sohail,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|ecat-meta-uet-refresher-campaign|interested|umair,120237066664140215,2026-03-04,2026-06-03
++923018146709,Aamir Sohail,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|ecat-meta-uet-refresher-campaign|interested|umair,120237066664140215,2026-03-04,2026-06-04
 +923008299246,ℤUBAIR ℕIAℤI,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|ecat-meta-uet-refresher-campaign|ecat-outbounds,,2025-11-23,2026-03-05
 +923345303195,,sabatool2007@gmail.com,Female,WhatsApp,WhatsApp Outbound,Google Search,ecat-blog-form,,2026-03-03,2026-03-05
 +923162965085,⟆Abdul⟅ ⟆Mujeeb⟅,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Google Search,called|ecat-landing-page|ecat-meta-iba-campaign|ecat-outbounds|follow-up|free,,2025-12-09,2026-03-05
@@ -7251,7 +7251,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923137695868,gafharali04,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|called,,2026-02-17,2026-02-19
 +923007296508,TBh,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,ecat-dm-to-whatsapp|called,,2026-02-18,2026-02-19
 +923288970507,Malik Awais,,Male,WhatsApp,WhatsApp Secondary,Other,ecat-dm-to-whatsapp|called,,2026-02-17,2026-02-19
-+923422226096,,nijadking6@gmail.com,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|ecat-meta-uet-campaign|umair,120238465807390215,2026-02-17,2026-06-03
++923422226096,,nijadking6@gmail.com,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|ecat-meta-uet-campaign|umair,120238465807390215,2026-02-17,2026-06-04
 +34627399406,Ayesha,,Female,WhatsApp,WhatsApp Primary,Google Search,ecat-blog-leads,,2026-02-17,2026-02-19
 +923222052664,maharalinawaz1234,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|called,,2026-02-17,2026-02-19
 +923327459421,96614bk@gmail.com,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|called,,2026-02-17,2026-02-19
@@ -8644,7 +8644,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923224001363,(- -),maryamtariq91pp@gmail.com,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds|ecat-web-signup,,2025-12-26,2026-02-11
 +923214797037,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,ecat-outbounds,,2026-02-11,2026-02-11
 +923214566247,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,ecat-outbounds,,2026-02-11,2026-02-11
-+923214218434,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,ecat-outbounds,,2026-02-11,2026-02-11
++923214218434,,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Other,anas|ecat-meta-fast-campaign|ecat-outbounds,120238470645360215,2026-02-11,2026-06-05
 +923214047097,🇵🇰,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Other,ecat|ecat-outbounds|follow-up,,2025-12-18,2026-02-11
 +923203026838,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,ecat-outbounds,,2026-02-11,2026-02-11
 +923200441380,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,ecat-outbounds,,2026-02-11,2026-02-11
@@ -9172,7 +9172,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923297764773,Amna🍁,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|ecat-outbounds,,2026-01-11,2026-02-08
 +923024954069,muhammad Mohsin,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|called,,2026-02-06,2026-02-08
 +923075242677,gdgjhdyj,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|called,,2026-02-07,2026-02-08
-+923328651203,Muhammad Rayyan,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|ecat-outbounds,,2025-11-08,2026-02-08
++923328651203,Muhammad Rayyan,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,anas|called|ecat|ecat-meta-uet-campaign|ecat-outbounds,,2025-11-08,2026-06-04
 +923081393053,Rehan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|called,,2026-02-07,2026-02-08
 +923055041675,Myself,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|called,,2026-02-06,2026-02-08
 +923328882708,Faiq Butt,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|ecat-outbounds,,2026-01-20,2026-02-08
@@ -12989,7 +12989,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923220627638,gshsshsh446,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|irrelevant,,2026-01-28,2026-01-30
 +923366125866,Sqazad,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|called,,2026-01-28,2026-01-30
 +923711741614,gggqvjwfarman,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|irrelevant,,2026-01-28,2026-01-30
-+923186967208,UK,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign,,2026-01-02,2026-01-30
++923186967208,UK,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-01-02,2026-06-04
 +923079202464,,rdxjatt7171@gmail.com,Uncategorized,In App,In App,Other,ecat-web-app,,2026-01-29,2026-01-30
 +923318490743,Mujahid Ahsan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|called,,2026-01-28,2026-01-30
 +923417061127,Farming,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Google Search,ecat|ecat-landing-page|ecat-outbounds|irrelevant|others,,2025-12-22,2026-01-30
@@ -13443,7 +13443,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923273583088,SARKAR A♥️Q. JANI,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,called|ecat-meta-iba-campaign|ecat-outbounds|intent-to-pay,,2026-01-21,2026-01-28
 +923196858582,HAFSA KHAN,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|ecat-outbounds,,2026-01-20,2026-01-28
 +923103579696,🤗😄,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-iba-campaign|ecat-outbounds,,2025-12-21,2026-01-28
-+923061609108,Noman Sherani,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-meta-uet-campaign,,2026-01-20,2026-01-28
++923061609108,Noman Sherani,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-landing-page|ecat-meta-nust-campaign|ecat-meta-uet-campaign,,2026-01-20,2026-06-04
 +923298806501,Shahrukh Hashmi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|called,,2026-01-27,2026-01-28
 +923427101743,King,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|ecat-outbounds,,2026-01-15,2026-01-28
 +923450315770,M Shaban tunio,muhammadshabaantunio@gmail.com,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,affordability|ecat-meta-nust-campaign|ecat-outbounds,,2026-01-15,2026-01-28
@@ -13743,7 +13743,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923112525519,Riaz Ahmed,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-iba-campaign,,2026-01-25,2026-01-26
 +923352957475,LANGAH✨,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-iba-campaign,,2025-10-02,2026-01-26
 +923022500019,Nighat Amjad,,Female,WhatsApp,WhatsApp Secondary,Other,ecat,,2026-01-24,2026-01-26
-+923002268727,,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Google Search,called|ecat-landing-page-form|ecat-meta-nust-campaign|umair,120245349719140215,2026-01-25,2026-06-03
++923002268727,,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Google Search,called|ecat-landing-page-form|ecat-meta-nust-campaign|umair,120245349719140215,2026-01-25,2026-06-04
 +923070044300,,,Uncategorized,WhatsApp,WhatsApp Outbound,Google Search,ecat-landing-page-form,,2026-01-25,2026-01-26
 +923062424666,Adil Mahesar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-iba-campaign,,2026-01-25,2026-01-26
 +923047429154,mh1750836,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign,,2026-01-25,2026-01-26
@@ -14105,7 +14105,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923030305294,👑 JATOI 👑,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign,,2026-01-21,2026-01-22
 +923303117991,,,Uncategorized,WhatsApp,WhatsApp Outbound,Organic,ecat-socials-form,,2026-01-21,2026-01-22
 +923299225970,.. .. ..,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-iba-campaign|affordability|free,,2026-01-21,2026-01-22
-+923004119966,Ajwad Amjad,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2026-01-21,2026-01-22
++923004119966,Ajwad Amjad,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-01-21,2026-06-05
 +923168231540,ع.,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign,,2026-01-21,2026-01-22
 +923098136956,Ak Menka 😎,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-iba-campaign,,2026-01-21,2026-01-22
 +923413930454,manthisweekasyouarein,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign,,2026-01-21,2026-01-22
@@ -15168,7 +15168,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923136176856,khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign,,2026-01-12,2026-01-14
 +923091251471,Shoukat Ali,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign,,2026-01-12,2026-01-14
 +923005209887,Meer Muhammad Safdar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2026-01-13,2026-01-14
-+923425521657,rajahamzakhan00,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|ecat-meta-nust-campaign|ecat-outbounds|umair,120238465807390215,2025-12-22,2026-06-03
++923425521657,rajahamzakhan00,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|ecat-meta-nust-campaign|ecat-outbounds|umair,120238465807390215,2025-12-22,2026-06-04
 +923325306774,Fakhar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-01-05,2026-05-26
 +923039002320,...,,Uncategorized,WhatsApp,WhatsApp Primary,Other,ecat,,2026-01-13,2026-01-14
 +923038532422,Abdul Sattar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-meta-uet-campaign,,2026-01-05,2026-01-14
@@ -16085,7 +16085,7 @@ Mahnoor javed",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-camp
 +923346588882,Aslam,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,bcat|ecat-meta-nust-campaign|ecat-outbounds,,2025-12-01,2026-01-10
 +923084194710,Malik Hussain,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|ecat-outbounds,,2025-12-06,2026-01-10
 +923149632214,Muhammad Ali Johar,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds|follow-up,,2025-12-01,2026-01-10
-+923015683820,Imtiyaz Ahmad,,Male,Both,In App|WhatsApp OTP|WhatsApp Outbound|WhatsApp Primary|WhatsApp Secondary,Meta Paid,affordability|aizah|anas|called|contact-us|ecat|ecat-blog-leads|ecat-meta-nust-campaign|ecat-outbounds|ecat-website-leads|umair,,2025-12-02,2026-06-03
++923015683820,Imtiyaz Ahmad,,Male,Both,In App|WhatsApp OTP|WhatsApp Outbound|WhatsApp Primary|WhatsApp Secondary,Meta Paid,affordability|aizah|anas|called|contact-us|ecat|ecat-blog-leads|ecat-meta-nust-campaign|ecat-outbounds|ecat-website-leads|umair,,2025-12-02,2026-06-04
 +923424468647,~ Maπ0$h J@tt ~🌺☠️,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,affordability|ecat-meta-nust-campaign|ecat-outbounds|follow-up,,2025-12-01,2026-01-10
 +923112865250,.,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds,,2025-12-04,2026-01-10
 +923555351835,USMAN ALi SHAH,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds,,2025-12-05,2026-01-10
@@ -17078,7 +17078,7 @@ jaan",,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,ecat|ecat
 +923323902653,Unknown,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign,,2026-01-04,2026-01-06
 +923253692815,Asim,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign,,2026-01-04,2026-01-06
 +923135962726,Gohar Ali,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2026-01-05,2026-01-06
-+923345678123,,m.abdullah.0146@gmail.com,Male,Both,In App|WhatsApp Secondary,Other,anas|ecat|ecat-meta-ned-campaign|ecat-web-app,120238466084490215,2026-01-05,2026-06-03
++923345678123,,m.abdullah.0146@gmail.com,Male,Both,In App|WhatsApp Secondary,Other,anas|ecat|ecat-meta-ned-campaign|ecat-web-app,120238466084490215,2026-01-05,2026-06-04
 +923453179348,Taha Ahmed,taha@maqsad.io,Male,WhatsApp,WhatsApp Outbound,Other,ecat-outbounds,,2025-12-31,2026-01-06
 +923355883008,M Yasir Amin,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign,,2026-01-05,2026-01-06
 +923049777275,stuck,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign,,2026-01-05,2026-01-06
@@ -20076,7 +20076,7 @@ jaan",,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,ecat|ecat
 +923375655863,Arslan jamroz,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds,,2025-12-24,2026-01-01
 +923218590783,ami di jan,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds,,2025-12-24,2026-01-01
 +923214935853,Naveed Ali,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Other,ecat|ecat-outbounds|others,,2025-11-12,2026-01-01
-+923469786766,Basharat,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds,,2025-10-31,2026-01-01
++923469786766,Basharat,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|ecat-outbounds|umair,120237066664140215,2025-10-31,2026-06-04
 +923475177375,nazma  gul,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds,,2025-11-12,2026-01-01
 +923136643201,ALLAH O AKBAR,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds,,2025-11-06,2026-01-01
 +923044483803,Nabbiha,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat|ecat-meta-nust-campaign|ecat-outbounds,,2025-11-03,2026-01-01
@@ -20252,7 +20252,7 @@ jaan",,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,ecat|ecat
 +923468000725,Iqbal Hussain,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds,,2025-12-23,2026-01-01
 +923021615320,Abubakar Khan,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Other,ecat|ecat-outbounds,,2025-10-27,2026-01-01
 +923456814934,Asghar Hussain,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds,,2025-10-27,2026-01-01
-+923455046067,Abu Salem,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|ecat-outbounds|umair,120237066664140215,2025-12-13,2026-06-03
++923455046067,Abu Salem,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|ecat-outbounds|umair,120237066664140215,2025-12-13,2026-06-04
 +923006163672,❤️❤️❤️,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds,,2025-12-13,2026-01-01
 +923006051967,Umar Hayat,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds,,2025-12-13,2026-01-01
 +923176388853,Ali Mehdi,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds,,2025-12-13,2026-01-01
@@ -20271,7 +20271,7 @@ jaan",,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,ecat|ecat
 +923029777000,amaankhanwazir14,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,affordability|ecat|ecat-outbounds,,2025-10-29,2026-01-01
 +923455971988,Asadmehmood,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds,,2025-10-29,2026-01-01
 +923495786411,Saqlain Shajat,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds,,2025-10-29,2026-01-01
-+923112269914,..,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds,,2025-10-03,2026-01-01
++923112269914,..,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign|ecat-meta-nust-campaign|ecat-outbounds,120238466084490215,2025-10-03,2026-06-04
 +923030607978,Fatima,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds,,2025-10-04,2026-01-01
 +923019142365,Salman Butt,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,affordability|ecat-meta-nust-campaign|ecat-outbounds|free,,2025-10-04,2026-01-01
 +923126308044,Tooba Mughal,toobam853@gmail.com,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|ecat-outbounds|intent-to-pay|relevant,,2025-10-04,2026-01-01
@@ -23516,7 +23516,7 @@ jaan",,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,ecat|ecat
 +923032047177,SaraAda,,Female,WhatsApp,WhatsApp Primary,Other,ecat-conversion-page,,2025-10-19,2025-10-20
 +923362285221,,khubaibazeem2008@gmail.com,Male,In App,In App,Other,ecat-mobile-app-banner,,2025-10-20,2025-10-20
 +923322267442,𝑨𝒉𝒎𝒊𝒊💸,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign,,2025-10-19,2025-10-20
-+923118511753,923118511753,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,ecat-akhss|follow-up,,2025-10-13,2025-10-20
++923118511753,923118511753,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Other,ecat-akhss|ecat-web-signup|follow-up,,2025-10-13,2026-06-04
 +923317143691,Yousuf Nouman,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign,,2025-10-19,2025-10-20
 +923700398594,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,ecat-website-leads|intent-to-pay|affordability,,2025-10-19,2025-10-20
 +923337691769,,zaeemusman1712@gmail.com,Male,WhatsApp,WhatsApp Primary,Google Search,ecat-blog-leads,,2025-10-19,2025-10-20
@@ -23968,7 +23968,7 @@ jaan",,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,ecat|ecat
 +923379695497,Khalid 88,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,,2026-05-23,2026-05-24
 +447597291000,Ali Iftikhar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120238465807390215,2026-05-23,2026-05-24
 +923708904053,,mashhoodsiddiqui0828@gmail.com,Male,WhatsApp,WhatsApp Secondary,Other,anas|ecat-app-banner,,2026-05-23,2026-05-24
-+923290509989,,ibrahimnajam428@gmail.com,Male,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,anas|ecat|ecat-web-signup,,2026-05-23,2026-06-03
++923290509989,,ibrahimnajam428@gmail.com,Male,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,anas|ecat|ecat-web-signup,,2026-05-23,2026-06-04
 +923464358056,muhammadadilma744,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120238466084490215,2026-05-23,2026-05-24
 +923442142898,Muzamil,,Male,WhatsApp,WhatsApp Secondary,Google Search,anas|ecat-landing-page,,2026-05-23,2026-05-24
 +923499532736,milyassikhan,,Female,WhatsApp,WhatsApp Secondary,Google Search,anas|ecat-landing-page,,2026-05-23,2026-05-24
@@ -24173,7 +24173,7 @@ jaan",,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,ecat|ecat
 +923028907080,ARSALAN,,Male,WhatsApp,WhatsApp OTP,Other,anas|ecat,,2026-05-25,2026-05-26
 +923097685095,maimoona,,Female,WhatsApp,WhatsApp Secondary,Google Search,anas|ecat-landing-page,,2026-05-25,2026-05-26
 +923020487256,¿,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120238470645360215,2026-05-25,2026-05-26
-+923307981365,,h35310392@gmail.com,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Other,anas|called|ecat-meta-ned-campaign|ecat-web-signup,120247444645670215,2026-05-25,2026-06-03
++923307981365,,h35310392@gmail.com,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Other,anas|called|ecat-meta-ned-campaign|ecat-web-signup,120247444645670215,2026-05-25,2026-06-04
 +923020553240,):,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-05-25,2026-05-26
 +923097414654,Shoukat Jutt 👑,,Male,WhatsApp,WhatsApp Secondary,Other,anas|ecat,120245349719140215,2026-05-25,2026-05-26
 +923142977678,safdarrafi6@gmail.com,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120238466084490215,2026-05-25,2026-05-26
@@ -24256,7 +24256,7 @@ jaan",,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,ecat|ecat
 +923005397870,aliyan saleem,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120246914210330215,2026-05-26,2026-05-27
 +923046929526,Asia Irfan,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-05-26,2026-05-27
 +923714280469,imranali217228😄😄😄,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120246914210330215,2026-05-26,2026-05-27
-+923301471246,***Hamid555***,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-05-26,2026-05-27
++923301471246,***Hamid555***,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat|ecat-meta-nust-campaign|umair,120237066664140215,2026-05-26,2026-06-04
 +923137967925,rovis,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-05-26,2026-05-27
 +923087896731,Irfa  Shahzadii,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-05-26,2026-05-27
 +923333454415,Israr Zehri,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120246914210330215,2026-05-26,2026-05-27
@@ -24360,7 +24360,7 @@ jaan",,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,ecat|ecat
 +923450119780,jmazhar689,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-05-28,2026-05-29
 +923343735867,Alishba,,Female,WhatsApp,WhatsApp Secondary,Google Search,anas|ecat-landing-page,,2026-05-28,2026-05-29
 +923328521995,hadikhan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,,2026-05-28,2026-05-29
-+923330206168,Muhammad,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat|ecat-meta-fast-campaign,120238470645360215,2026-05-28,2026-06-03
++923330206168,Muhammad,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat|ecat-meta-fast-campaign,120238470645360215,2026-05-28,2026-06-04
 +923478253757,,sheena.sheena.123123@gmail.com,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,,2026-05-28,2026-05-29
 +923362218575,,mohammadlakhani954@gmail.com,Male,Both,In App|WhatsApp Outbound,Other,anas|called|ecat-mobile-app|ecat-web-signup,,2026-05-28,2026-06-03
 +923405176737,sardar ❤️,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,,2026-05-28,2026-05-29
@@ -24690,7 +24690,7 @@ jaan",,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,ecat|ecat
 +923302011227,,fatimayameen28@gmail.com,Female,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-05-30,2026-05-30
 +923226821928,,muhammadnaveedashraf663@gmail.com,Male,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,called|ecat-blog-leads|ecat-web-signup|umair,,2026-05-30,2026-06-03
 +923118529560,MalikAbdulMohiz,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-01,2026-06-02
-+923449838157,Hi,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat|ecat-meta-uet-campaign|umair,120245349790140215,2026-05-31,2026-06-03
++923449838157,Hi,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat|ecat-meta-uet-campaign|umair,120245349790140215,2026-05-31,2026-06-04
 +923139792349,Faxal Ur Rehman,,Male,WhatsApp,WhatsApp Primary,Google Search,ecat-blog-leads|umair,,2026-06-01,2026-06-02
 +923452831517,"Ramzan Ali, Life Coach",,Male,WhatsApp,WhatsApp Primary,Other,anas|ecat,,2026-06-01,2026-06-02
 +923363906074,Muhammad Raza,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120238466084490215,2026-05-31,2026-06-01
@@ -24705,7 +24705,7 @@ jaan",,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,ecat|ecat
 +923255495674,,mirsultanmir16@gmail.com,Male,Both,In App|WhatsApp Outbound,Other,anas|ecat-web-app|ecat-web-signup,,2026-06-01,2026-06-02
 +923149969031,Nadir Mehmood,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120238470645360215,2026-06-01,2026-06-02
 +923706130881,:),,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign,120238470645360215,2026-06-01,2026-06-02
-+923477426197,𝐍💖𝐇,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat|ecat-meta-nust-campaign|umair,120237066664140215,2026-05-31,2026-06-03
++923477426197,𝐍💖𝐇,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat|ecat-meta-nust-campaign|umair,120237066664140215,2026-05-31,2026-06-04
 +923261583216,Hamii,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-01,2026-06-03
 +923375873481,M.Saood Afridi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120245349663340215,2026-06-01,2026-06-02
 +923313951919,mirsultanmir16,,Male,WhatsApp,WhatsApp Primary,Other,anas|called|ecat,,2026-06-01,2026-06-02
@@ -24835,7 +24835,7 @@ jaan",,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,ecat|ecat
 +923219551317,MalikAmran,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120247401689810215,2026-06-02,2026-06-03
 +923407276649,ggps249wb,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,anas|called|ecat-landing-page,,2026-06-02,2026-06-03
 +923140946364,malik sani,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120238466084490215,2026-06-02,2026-06-03
-+923006337824,qutabshah123366,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign|ecat-meta-nust-campaign|umair,120237066664140215,2026-06-02,2026-06-03
++923006337824,qutabshah123366,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign|ecat-meta-nust-campaign|umair,120237066664140215,2026-06-02,2026-06-04
 +923033759086,gafarmahardin,,Male,WhatsApp,WhatsApp Secondary,Other,anas|ecat,,2026-06-02,2026-06-03
 +923043632508,Imdad Alee,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120238466084490215,2026-06-02,2026-06-03
 +923557609876,INAYAT HUSSAIN SS Maths,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,,2026-06-02,2026-06-03
@@ -24945,63 +24945,63 @@ jaan",,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,ecat|ecat
 +923334316637,Dr Muhammad Hanif,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120238467629860215,2026-06-01,2026-06-02
 +923136842686,Talha,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-01,2026-06-02
 +923461893888,فصیح زبیر جرال,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,,2026-06-02,2026-06-03
-+923211221041,🫀,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,,2026-06-03,2026-06-03
++923211221041,🫀,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,,2026-06-03,2026-06-04
 +923320263441,Abdul Hayee Ghori,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign|intent-to-pay,120247444645670215,2026-06-02,2026-06-03
-+923249494277,Alhamdulillah,,Female,WhatsApp,WhatsApp Secondary,Google Search,anas|called|ecat-landing-page,,2026-06-03,2026-06-03
-+923211739590,Muhammad bin ahtisham,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-03
++923249494277,Alhamdulillah,,Female,WhatsApp,WhatsApp Secondary,Google Search,anas|called|ecat-landing-page,,2026-06-03,2026-06-04
++923211739590,Muhammad bin ahtisham,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
 +923367227221,,1519afb0-dfdf-498d-a4bd-8b9f7004d480,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-06-02,2026-06-03
 +923426688455,🍁,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-06-02,2026-06-03
 +923212364079,,urushbaiqbal6@gmail.com,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Other,anas|ecat|ecat-web-signup,,2026-06-02,2026-06-03
-+923082679577,ذرشہ خان 🧿,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-03
-+923014333254,saju kamera,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-03
++923082679577,ذرشہ خان 🧿,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923014333254,saju kamera,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-04
 +923001800576,WAZÌRï 😇,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign,120238470645360215,2026-06-02,2026-06-03
 +923183986739,brohisamiullah18,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120247401689810215,2026-06-02,2026-06-03
 +923123118564,~fatima Riaz,,Female,WhatsApp,WhatsApp Primary,Other,anas|called|ecat,,2026-06-02,2026-06-03
-+923284323827,🫥,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-03
++923284323827,🫥,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-04
 +923127970944,Saad,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-02,2026-06-03
 +923244239645,Mian Waseem Riaz,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-02,2026-06-03
 +923299700481,Pak,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-02,2026-06-03
 +923337558174,Haider jan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,,2026-06-02,2026-06-03
-+923311398279,~huma~🤍,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-03
++923311398279,~huma~🤍,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
 +923489006230,Maxxi,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-02,2026-06-03
-+923430311522,sid1978sandhu,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,anas|called|ecat|intent-to-pay,120240773006930215,2026-06-03,2026-06-03
-+923312631783,M.Hamza Azeem,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-03
-+923122169123,alishan,,Female,WhatsApp,WhatsApp Primary,Other,ecat|hassan,,2026-06-03,2026-06-03
-+923354823307,Ismail Malik,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120247401689810215,2026-06-03,2026-06-03
-+923352011045,MUHAMMAD,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-03
++923430311522,sid1978sandhu,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,anas|called|ecat|intent-to-pay,120240773006930215,2026-06-03,2026-06-04
++923312631783,M.Hamza Azeem,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923122169123,alishan,,Female,WhatsApp,WhatsApp Primary,Other,ecat|hassan,,2026-06-03,2026-06-04
++923354823307,Ismail Malik,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120247401689810215,2026-06-03,2026-06-04
++923352011045,MUHAMMAD,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
 +923143054715,fa5771021,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120247401689810215,2026-06-02,2026-06-04
-+923030154931,Ijaz Khan,,Male,WhatsApp,WhatsApp Secondary,Google Search,anas|called|ecat-landing-page|intent-to-pay,,2026-06-03,2026-06-03
-+923473239151,✓,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,,2026-06-03,2026-06-03
-+923022280910,Nastaeen,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign|interested,120247444645670215,2026-06-03,2026-06-03
++923030154931,Ijaz Khan,,Male,WhatsApp,WhatsApp Secondary,Google Search,anas|called|ecat-landing-page|intent-to-pay,,2026-06-03,2026-06-04
++923473239151,✓,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,,2026-06-03,2026-06-04
++923022280910,Nastaeen,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign|interested,120247444645670215,2026-06-03,2026-06-04
 +923092058857,Bilal,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120238466084490215,2026-06-02,2026-06-03
-+923265475104,💔Ali🤕,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120245349960590215,2026-06-03,2026-06-03
-+923065969856,💫,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120245349960590215,2026-06-03,2026-06-03
-+923208700319,Numan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120245349960590215,2026-06-03,2026-06-03
-+923141792543,Tanveer Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120245349960590215,2026-06-03,2026-06-03
++923265475104,💔Ali🤕,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120245349960590215,2026-06-03,2026-06-04
++923065969856,💫,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120245349960590215,2026-06-03,2026-06-04
++923208700319,Numan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120245349960590215,2026-06-03,2026-06-04
++923141792543,Tanveer Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120245349960590215,2026-06-03,2026-06-04
 +923154432491,,rahamathassan48@gmail.com,Male,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-03,2026-06-03
 +923005110525,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-03,2026-06-03
-+923415854069,Ravi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-03
-+923310370857,Muhammad Ahmad khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-03
-+923247697750,malikahmadad12,,Female,WhatsApp,WhatsApp Secondary,Google Search,anas|called|ecat-landing-page,,2026-06-03,2026-06-03
-+923471816536,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-03
-+923161082208,:),,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-03
-+923378285680,Aaraf,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-03
-+923317853530,Ibrahim,,Male,WhatsApp,WhatsApp Secondary,Google Search,anas|called|ecat-landing-page,,2026-06-03,2026-06-03
-+923193547044,Shamoil Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-03
-+923095244904,Jadoon's,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-06-03,2026-06-03
++923415854069,Ravi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923310370857,Muhammad Ahmad khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923247697750,malikahmadad12,,Female,WhatsApp,WhatsApp Secondary,Google Search,anas|called|ecat-landing-page,,2026-06-03,2026-06-04
++923471816536,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923161082208,:),,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923378285680,Aaraf,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923317853530,Ibrahim,,Male,WhatsApp,WhatsApp Secondary,Google Search,anas|called|ecat-landing-page,,2026-06-03,2026-06-04
++923193547044,Shamoil Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923095244904,Jadoon's,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-06-03,2026-06-04
 +923153096811,𝘛𝘏𝘐𝘚 𝘗𝘌𝘙𝘚𝘖𝘕 𝘐𝘚 𝘊𝘏𝘈𝘕𝘎𝘌𝘋,,Male,WhatsApp,WhatsApp Secondary,Google Search,anas|ecat-landing-page|intent-to-pay,,2026-06-02,2026-06-03
-+923499597228,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign,,2026-06-03,2026-06-03
-+923466841861,Jani,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-03
-+923324024626,Warisha Afridi,,Male,WhatsApp,WhatsApp Secondary,Other,anas|called|ecat,120240773006930215,2026-06-03,2026-06-03
-+923180294951,Muhammad Afzal,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-03
-+923143045930,dildarhussain.edu@gmail.c,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,,2026-06-03,2026-06-03
++923499597228,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign,,2026-06-03,2026-06-04
++923466841861,Jani,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-04
++923324024626,Warisha Afridi,,Male,WhatsApp,WhatsApp Secondary,Other,anas|called|ecat,120240773006930215,2026-06-03,2026-06-04
++923180294951,Muhammad Afzal,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-04
++923143045930,dildarhussain.edu@gmail.c,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,,2026-06-03,2026-06-04
 +923454705025,Dr Sadaf Hussain,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,,2026-06-02,2026-06-04
-+923328603525,niazisajju48,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-03
-+923021094287,3...🥀,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-03
-+923286559147,Sadaqat Ali 🥰🥰🥰🥰,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-03
-+923453652882,Mudussara Ashraf,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-03,2026-06-03
++923328603525,niazisajju48,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-04
++923021094287,3...🥀,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-04
++923286559147,Sadaqat Ali 🥰🥰🥰🥰,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-04
++923453652882,Mudussara Ashraf,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-03,2026-06-04
 +923143435240,Z N,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120247401689810215,2026-06-03,2026-06-04
-+923313861093,mir54258,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,,2026-06-03,2026-06-03
++923313861093,mir54258,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,,2026-06-03,2026-06-04
 +923298387427,Abdullah Ahmed,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-02,2026-06-03
 +923342202208,,userisunknown734@gmail.com,Uncategorized,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-02,2026-06-02
 +923062314540,•😉MOHAMMED`•🩵💗🖤•`FARHAN•👑,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-02,2026-06-03
@@ -25094,7 +25094,7 @@ jaan",,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,ecat|ecat
 +923172519523,Muhammad Asif Raza,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238464883480215,2026-06-02,2026-06-03
 +923171736108,Malik Hassanu,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238464883480215,2026-06-02,2026-06-03
 +923416282161,tallat,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120247401689810215,2026-06-02,2026-06-03
-+923119377835,Mariashah,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-02,2026-06-03
++923119377835,Mariashah,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-02,2026-06-04
 +923363787943,azzam.,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign|interested,120247444645670215,2026-06-02,2026-06-03
 +923332697374,junejo,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120238470645360215,2026-06-02,2026-06-03
 +923457091371,Ali dost,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120247401689810215,2026-06-02,2026-06-03
@@ -25106,147 +25106,287 @@ jaan",,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,ecat|ecat
 +923282143347,aqeelsolangi282,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120238466084490215,2026-06-02,2026-06-03
 +923355018828,Ak-1,antashkhan88@gmail.com,Male,WhatsApp,WhatsApp Secondary,Other,anas|ecat,,2026-06-02,2026-06-03
 +923329517115,gm8660656,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120247401689810215,2026-06-02,2026-06-03
-+923133520107,I am happy from my life,,Male,WhatsApp,WhatsApp Secondary,Google Search,ecat-landing-page|anas,,2026-06-04,2026-06-04
-+923701112355,naveedahmed171995,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120245349719140215,2026-06-04,2026-06-04
++923133520107,I am happy from my life,,Male,WhatsApp,WhatsApp Secondary,Google Search,anas|called|ecat-landing-page,,2026-06-04,2026-06-04
++923701112355,naveedahmed171995,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-04,2026-06-04
 +923487609450,ZK ZIA🖤,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-03,2026-06-04
-+923332756782,Sajjad Ahmed,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas|intent-to-pay,120238470645360215,2026-06-04,2026-06-04
-+923021880400,😊زندگی!,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,ecat-landing-page|anas,,2026-06-04,2026-06-04
-+923070423546,.....,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,,2026-06-04,2026-06-04
-+923229824420,NOORANI🥰,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120238465807390215,2026-06-04,2026-06-04
-+923122203831,BAHADAR SAID,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120238465807390215,2026-06-04,2026-06-04
-+923053403571,Dr.Erum,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-04,2026-06-04
-+923305549119,alizasamreen667,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120238465807390215,2026-06-04,2026-06-04
-+923255224444,,safwanmubashir9@gmail.com,Male,Both,In App|WhatsApp Secondary,Other,aizah|anas|bcat-dm-to-whatsapp|contact-us|ecat|intent-to-pay|khizar,,2026-06-03,2026-06-04
-+923481631485,SEYAF KTK,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,ecat-landing-page|anas,,2026-06-04,2026-06-04
-+923088684021,Umar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-03,2026-06-04
-+923368822216,Asif,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,,2026-06-04,2026-06-04
-+923145126001,.. .. .,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923456966369,Malik,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923263846871,Ahmad Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923120027047,~S,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,ecat|anas,,2026-06-04,2026-06-04
++923332756782,Sajjad Ahmed,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign|intent-to-pay,120238470645360215,2026-06-04,2026-06-04
++923021880400,😊زندگی!,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,anas|called|ecat-landing-page,,2026-06-04,2026-06-04
++923070423546,.....,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,,2026-06-04,2026-06-04
++923229824420,NOORANI🥰,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-04,2026-06-04
++923122203831,BAHADAR SAID,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-04,2026-06-04
++923053403571,Dr.Erum,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign,120238470645360215,2026-06-04,2026-06-04
++923305549119,alizasamreen667,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-04,2026-06-04
++923255224444,,safwanmubashir9@gmail.com,Male,Both,In App|WhatsApp Secondary,Other,aizah|anas|bcat-dm-to-whatsapp|called|contact-us|ecat|intent-to-pay|interested|khizar,,2026-06-03,2026-06-04
++923481631485,SEYAF KTK,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,anas|ecat-landing-page,,2026-06-04,2026-06-04
++923088684021,Umar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120238470645360215,2026-06-03,2026-06-04
++923368822216,Asif,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,,2026-06-04,2026-06-04
++923145126001,.. .. .,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923456966369,Malik,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923263846871,Ahmad Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923120027047,~S,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,anas|called|ecat,,2026-06-04,2026-06-04
 +923437525865,,khubaibkhan2756@gmail.com,Male,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-04,2026-06-04
-+923007856395,Amir Ali,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923115490306,.........,,Uncategorized,WhatsApp,WhatsApp Primary,Meta Paid,ecat-meta-campaign|umair,,2026-06-04,2026-06-04
-+923339873478,shahid,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120238465807390215,2026-06-04,2026-06-04
-+923072134372,attarmahar36,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,,2026-06-04,2026-06-04
-+923181345375,MUNAWAR ALI MAHESAR ❣️❣️❣️💫,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120237067235990215,2026-06-04,2026-06-04
-+923224106744,Shagufta Junaid,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-04,2026-06-04
-+923002563098,Zulfiqar Ahmed,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-04,2026-06-04
-+923297269628,Malik Tariq,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923042819084,ab Sath chaly ghea bestie,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,,2026-06-04,2026-06-04
-+923183668376,alikingpitafi,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120237067235990215,2026-06-04,2026-06-04
-+923418065701,❤️,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-04,2026-06-04
-+923493125383,🖤 𝒜𝒽𝓂𝑒𝒹  𝒜𝓁. 🖤,,Male,WhatsApp,WhatsApp Secondary,Other,ecat-syllabus-page|umair,,2026-06-04,2026-06-04
-+923715312579,Akhtar  Academy,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923118167251,Huzoor bakhsh 🔭,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923471358204,BILA JEE 56,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,ecat|anas,120245349790140215,2026-06-04,2026-06-04
-+923486450140,Gull,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923273011362,M Mmmmmmmmmm My Code,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120247401689810215,2026-06-04,2026-06-04
-+923440402606,itx★aleem★ullah,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,,2026-06-04,2026-06-04
-+923325949611,mrromeo5921,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923007856395,Amir Ali,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923115490306,.........,,Uncategorized,WhatsApp,WhatsApp Primary,Meta Paid,called|ecat-meta-campaign|umair,,2026-06-04,2026-06-04
++923339873478,shahid,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-04,2026-06-04
++923072134372,attarmahar36,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,,2026-06-04,2026-06-05
++923181345375,MUNAWAR ALI MAHESAR ❣️❣️❣️💫,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120237067235990215,2026-06-04,2026-06-04
++923224106744,Shagufta Junaid,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120238470645360215,2026-06-04,2026-06-04
++923002563098,Zulfiqar Ahmed,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120238470645360215,2026-06-04,2026-06-04
++923297269628,Malik Tariq,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923042819084,ab Sath chaly ghea bestie,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,,2026-06-04,2026-06-04
++923183668376,alikingpitafi,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120237067235990215,2026-06-04,2026-06-04
++923418065701,❤️,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-06-04,2026-06-04
++923493125383,🖤 𝒜𝒽𝓂𝑒𝒹  𝒜𝓁. 🖤,,Male,WhatsApp,WhatsApp Secondary,Other,called|ecat-syllabus-page|umair,,2026-06-04,2026-06-04
++923715312579,Akhtar  Academy,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923118167251,Huzoor bakhsh 🔭,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923471358204,BILA JEE 56,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,anas|ecat,120245349790140215,2026-06-04,2026-06-04
++923486450140,Gull,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923273011362,M Mmmmmmmmmm My Code,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120247401689810215,2026-06-04,2026-06-04
++923440402606,itx★aleem★ullah,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,,2026-06-04,2026-06-04
++923325949611,mrromeo5921,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
 +923259466168,,mubashirjoyia386@gmail.com,Male,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-04,2026-06-04
-+923243920445,Online Work,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923182967378,Javeria,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120247444645670215,2026-06-04,2026-06-04
-+923426622024,Haseeb Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,,2026-06-04,2026-06-04
-+923181805628,Tariq Mahmood,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923406523764,ismeelali637,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,,2026-06-04,2026-06-04
++923243920445,Online Work,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923182967378,Javeria,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-04,2026-06-04
++923426622024,Haseeb Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,,2026-06-04,2026-06-04
++923181805628,Tariq Mahmood,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923406523764,ismeelali637,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,,2026-06-04,2026-06-04
 +923131773275,Abdul Basit 0313,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923049825104,mzubairctn420,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923701493926,Allah is the greatest ✨💝,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923178857902,Kashif Mahar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923200662120,Imran🥰🥰,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923407269814,CH Abu Bakar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923377041280,Hi 👋,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923225826036,M. Shayan M. Zaviyar Abub,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923314598199,aisha,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923341538908,Sid😊❤️❤️,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923112727339,twins aquib saqib,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923354353325,Advocate Nadia Zeeshan,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
-+923423531630,ＲＥＴＩＲＥ ＶＥＮＯＭ🙃🙂,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-04,2026-06-04
-+923190294539,A,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-03,2026-06-03
-+923272387125,Benazir jamali,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120238466084490215,2026-06-03,2026-06-03
-+923062984859,,jawaddhol04@gmail.com,Male,In App,In App,Other,anas|ecat-mobile-app,,2026-06-03,2026-06-03
-+923326000024,Saba Saeed,,Female,WhatsApp,WhatsApp Secondary,Other,anas|ecat-calculator-page,,2026-06-03,2026-06-03
-+923119673536,𝙅𝙞𝙡𝙡𝙖𝙣𝙞 𝙠𝙝𝙖𝙣 𝙨𝙪𝙡𝙩𝙖𝙣𝙞,,Male,WhatsApp,WhatsApp Secondary,Other,ecat|anas,120237066664140215,2026-06-03,2026-06-03
-+923369010369,Noor Ali🤍,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,,2026-06-03,2026-06-03
-+923306964698,ص,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,,2026-06-03,2026-06-03
-+923268715518,🤍,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120247444645670215,2026-06-03,2026-06-03
-+923337814796,Masroor Ahmad,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-03,2026-06-03
-+923142037795,Hareem Zehra🦋,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-03,2026-06-03
-+923113397424,Farheensoomro,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,ecat-landing-page|anas,,2026-06-03,2026-06-03
-+923139885567,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,ecat-landing-page|anas,,2026-06-03,2026-06-03
-+923433141963,hhhhhhhh,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120238465807390215,2026-06-03,2026-06-03
-+923277787762,Alhmdulliah🌸🌸,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,ecat|anas,120241069252280215,2026-06-03,2026-06-03
-+923700342276,Ths.,,Uncategorized,WhatsApp,WhatsApp Primary,Google Search,ecat-blog-leads|umair|called,,2026-06-03,2026-06-03
-+923317979312,Hamza,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-03
-+923204612206,M.Raza,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-03,2026-06-03
-+923362228213,Taha Ashfaq,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,,2026-06-03,2026-06-03
-+923048281921,GCS,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120238465807390215,2026-06-03,2026-06-03
-+923365391653,Amin,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120238465807390215,2026-06-03,2026-06-03
++923049825104,mzubairctn420,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923701493926,Allah is the greatest ✨💝,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923178857902,Kashif Mahar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923200662120,Imran🥰🥰,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923407269814,CH Abu Bakar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923377041280,Hi 👋,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923225826036,M. Shayan M. Zaviyar Abub,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923314598199,aisha,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923341538908,Sid😊❤️❤️,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923112727339,twins aquib saqib,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923354353325,Advocate Nadia Zeeshan,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923423531630,ＲＥＴＩＲＥ ＶＥＮＯＭ🙃🙂,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-06-04,2026-06-04
++923190294539,A,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-06-03,2026-06-04
++923272387125,Benazir jamali,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120238466084490215,2026-06-03,2026-06-04
++923062984859,,jawaddhol04@gmail.com,Male,In App,In App,Other,anas|ecat-mobile-app,,2026-06-03,2026-06-04
++923326000024,Saba Saeed,,Female,WhatsApp,WhatsApp Secondary,Other,anas|ecat-calculator-page,,2026-06-03,2026-06-04
++923119673536,𝙅𝙞𝙡𝙡𝙖𝙣𝙞 𝙠𝙝𝙖𝙣 𝙨𝙪𝙡𝙩𝙖𝙣𝙞,,Male,WhatsApp,WhatsApp Secondary,Other,anas|ecat,120237066664140215,2026-06-03,2026-06-04
++923369010369,Noor Ali🤍,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign,,2026-06-03,2026-06-04
++923306964698,ص,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign,,2026-06-03,2026-06-04
++923268715518,🤍,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923337814796,Masroor Ahmad,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign,120238470645360215,2026-06-03,2026-06-04
++923142037795,Hareem Zehra🦋,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120238470645360215,2026-06-03,2026-06-04
++923113397424,Farheensoomro,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,anas|called|ecat-landing-page,,2026-06-03,2026-06-04
++923139885567,.,,Female,Both,In App|WhatsApp Outbound|WhatsApp Secondary,Google Search,anas|ecat-landing-page|ecat-web-app|ecat-web-signup,,2026-06-03,2026-06-04
++923433141963,hhhhhhhh,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-03,2026-06-04
++923277787762,Alhmdulliah🌸🌸,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,anas|ecat,120241069252280215,2026-06-03,2026-06-04
++923700342276,Ths.,,Uncategorized,WhatsApp,WhatsApp Primary|WhatsApp Secondary,Google Search,called|ecat-blog-leads|ecat-syllabus-page|umair,,2026-06-03,2026-06-04
++923317979312,Hamza,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-04
++923204612206,M.Raza,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-03,2026-06-04
++923362228213,Taha Ashfaq,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign,,2026-06-03,2026-06-04
++923048281921,GCS,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-03,2026-06-04
++923365391653,Amin,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-03,2026-06-04
 +923178345804,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-03,2026-06-03
-+923345408706,S.S.B,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-03,2026-06-03
-+923005851887,Irfan Ullah,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-03,2026-06-03
-+923029819214,Wajeeha,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,,2026-06-03,2026-06-03
-+923410050940,....,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-03,2026-06-03
-+923335677219,Muhammad Imad,,Male,WhatsApp,WhatsApp Primary,Other,ecat|anas,,2026-06-03,2026-06-03
-+923218172196,Ali Akbar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,,2026-06-03,2026-06-03
-+923337712129,Hamza AKBAR,,Male,WhatsApp,WhatsApp Primary,Meta Paid,ecat-meta-campaign|umair,862420569632957,2026-06-03,2026-06-03
-+923477498789,Bilal,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign|called,120238470645360215,2026-06-03,2026-06-03
-+923075506106,Sajida Qasim,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120237066664140215,2026-06-03,2026-06-03
-+923129847467,𝓣𝓪𝓻𝓲𝓺 𝓐𝓵𝓲      🏏,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238465807390215,2026-06-03,2026-06-03
-+923085946700,sial zada Engr,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120245349663340215,2026-06-03,2026-06-03
-+923318853090,,ashumaila051@gmail.com,Male,WhatsApp,WhatsApp Secondary,Other,ecat|anas,,2026-06-03,2026-06-03
-+923055850305,Akbar Jaan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-03,2026-06-03
-+923193905264,𝕞𝕚𝕜𝕖,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,ecat-landing-page|anas,,2026-06-03,2026-06-03
++923345408706,S.S.B,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-06-03,2026-06-04
++923005851887,Irfan Ullah,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-06-03,2026-06-04
++923029819214,Wajeeha,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,,2026-06-03,2026-06-04
++923410050940,....,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-06-03,2026-06-04
++923335677219,Muhammad Imad,,Male,WhatsApp,WhatsApp Primary,Other,anas|called|ecat,,2026-06-03,2026-06-04
++923218172196,Ali Akbar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,,2026-06-03,2026-06-04
++923337712129,Hamza AKBAR,,Male,WhatsApp,WhatsApp Primary,Meta Paid,ecat-meta-campaign|umair,862420569632957,2026-06-03,2026-06-04
++923477498789,Bilal,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign,120238470645360215,2026-06-03,2026-06-04
++923075506106,Sajida Qasim,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-06-03,2026-06-04
++923129847467,𝓣𝓪𝓻𝓲𝓺 𝓐𝓵𝓲      🏏,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-03,2026-06-04
++923085946700,sial zada Engr,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120245349663340215,2026-06-03,2026-06-04
++923318853090,,ashumaila051@gmail.com,Male,WhatsApp,WhatsApp Secondary,Other,anas|ecat,,2026-06-03,2026-06-04
++923055850305,Akbar Jaan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120238470645360215,2026-06-03,2026-06-04
++923193905264,𝕞𝕚𝕜𝕖,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,anas|ecat-landing-page,,2026-06-03,2026-06-04
 +923103020347,,,Uncategorized,WhatsApp,WhatsApp Outbound,Organic,ecat-socials-form,,2026-06-03,2026-06-03
-+923129453319,💰💰💰💰💰,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-03
-+923483107335,Hassan ⚡,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120245349663340215,2026-06-03,2026-06-03
-+923201689018,rashidkhanpuri,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120245349663340215,2026-06-03,2026-06-03
-+923368937199,,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Organic,anas|called|ecat|ecat-socials-form,,2026-06-03,2026-06-03
-+923292304060,😌,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120247444645670215,2026-06-03,2026-06-03
-+923181095577,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120247444645670215,2026-06-03,2026-06-03
-+923008370122,Engr. Gian Chand,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120237066664140215,2026-06-03,2026-06-03
-+923449519688,Sajid Mehmood,,Male,WhatsApp,WhatsApp Secondary,Other,anas|ecat|called,120237066664140215,2026-06-03,2026-06-03
-+923469826350,alih72540@gmail.com,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120237066664140215,2026-06-03,2026-06-03
-+923297364381,rana,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-03,2026-06-03
-+923337103769,Raza,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-03,2026-06-03
-+923083802202,..,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120247444645670215,2026-06-03,2026-06-03
-+923338302220,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,anas|ecat|called,120237066664140215,2026-06-03,2026-06-03
-+923004435990,Nisar M. Gilani,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-03,2026-06-03
-+923156856655,Farah,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat|ecat-meta-fast-campaign|called,120238470645360215,2026-06-03,2026-06-03
-+923347888059,Waqar Mehdi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign|called,120247444645670215,2026-06-03,2026-06-03
-+923161927424,Naeem khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238465807390215,2026-06-03,2026-06-03
-+923419781241,Eman,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-03,2026-06-03
-+923324243945,Fahmina Mohsin,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-03,2026-06-03
-+923481673285,~~Umaima🥀,,Female,WhatsApp,WhatsApp Secondary,Other,ecat|anas,120247444645670215,2026-06-03,2026-06-03
++923129453319,💰💰💰💰💰,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-04
++923483107335,Hassan ⚡,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120245349663340215,2026-06-03,2026-06-04
++923201689018,rashidkhanpuri,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120245349663340215,2026-06-03,2026-06-04
++923368937199,,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Organic,anas|called|ecat|ecat-socials-form,,2026-06-03,2026-06-04
++923292304060,😌,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923181095577,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923008370122,Engr. Gian Chand,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-06-03,2026-06-04
++923449519688,Sajid Mehmood,,Male,WhatsApp,WhatsApp Secondary,Other,anas|called|ecat,120237066664140215,2026-06-03,2026-06-04
++923469826350,alih72540@gmail.com,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-06-03,2026-06-04
++923297364381,rana,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120238470645360215,2026-06-03,2026-06-04
++923337103769,Raza,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120238470645360215,2026-06-03,2026-06-04
++923083802202,..,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923338302220,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,anas|called|ecat,120237066664140215,2026-06-03,2026-06-04
++923004435990,Nisar M. Gilani,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120238470645360215,2026-06-03,2026-06-04
++923156856655,Farah,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat|ecat-meta-fast-campaign,120238470645360215,2026-06-03,2026-06-04
++923347888059,Waqar Mehdi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923161927424,Naeem khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-03,2026-06-04
++923419781241,Eman,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120238470645360215,2026-06-03,2026-06-04
++923324243945,Fahmina Mohsin,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120238470645360215,2026-06-03,2026-06-04
++923481673285,~~Umaima🥀,,Female,WhatsApp,WhatsApp Secondary,Other,anas|ecat,120247444645670215,2026-06-03,2026-06-04
 +923222553402,,laraibiijf@gmail.com,Female,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-03,2026-06-03
-+923703147686,Nooshay,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign|called,120247444645670215,2026-06-03,2026-06-03
-+923139013900,Saad,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120247444645670215,2026-06-03,2026-06-03
-+923156051681,Education,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair|called,120245349790140215,2026-06-03,2026-06-03
-+923348887662,Waniya Gul,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-03,2026-06-03
-+923214008361,Nouman,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238464883480215,2026-06-03,2026-06-03
-+923492034643,~/~,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign|called,120247444645670215,2026-06-03,2026-06-03
-+923016803855,jamilahmadbhati@gmail.com,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign|called,120238470645360215,2026-06-03,2026-06-03
-+923184973635,Aariz Niazi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120247444645670215,2026-06-03,2026-06-03
-+923141849521,Miral 💞,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238465807390215,2026-06-03,2026-06-03
-+923273350078,Abdullah Ulro,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120245349719140215,2026-06-03,2026-06-03
-+923179847156,RAHAT Shah Pa,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120237066664140215,2026-06-03,2026-06-03
-+923096663979,Iftikhar HOD security BCL,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238465807390215,2026-06-03,2026-06-03
-+923018288728,Farzana Khan,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign|called,120238470645360215,2026-06-03,2026-06-03
-+923347405250,Ahmad Ghaffar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,,2026-06-03,2026-06-03
-+923068329834,🇾‌🇦‌🇸‌🇮‌🇷‌❤️‍🩹🚩,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120245349719140215,2026-06-03,2026-06-03
-+923469602260,𝑦𝑖𝑙𝑑𝑖𝑧🪄,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,,2026-06-03,2026-06-03
-+923159886738,zulqarnain khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-03,2026-06-03
-+923053293598,~Invalid User…,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,anas|ecat-landing-page|called,,2026-06-03,2026-06-03
-+923234063723,AbuBakar Saeed,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat|anas|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-03
-+923005800891,Khalid Yaqoob,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238465807390215,2026-06-03,2026-06-03
-+923363597455,Hamid,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign|called,120247444645670215,2026-06-03,2026-06-03
++923703147686,Nooshay,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923139013900,Saad,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923156051681,Education,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-uet-campaign|umair,120245349790140215,2026-06-03,2026-06-04
++923348887662,Waniya Gul,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120238470645360215,2026-06-03,2026-06-04
++923214008361,Nouman,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238464883480215,2026-06-03,2026-06-04
++923492034643,~/~,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923016803855,jamilahmadbhati@gmail.com,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign,120238470645360215,2026-06-03,2026-06-04
++923184973635,Aariz Niazi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923141849521,Miral 💞,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-03,2026-06-04
++923273350078,Abdullah Ulro,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-04
++923179847156,RAHAT Shah Pa,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-06-03,2026-06-04
++923096663979,Iftikhar HOD security BCL,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-03,2026-06-04
++923018288728,Farzana Khan,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-fast-campaign,120238470645360215,2026-06-03,2026-06-04
++923347405250,Ahmad Ghaffar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,,2026-06-03,2026-06-04
++923068329834,🇾‌🇦‌🇸‌🇮‌🇷‌❤️‍🩹🚩,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-04
++923469602260,𝑦𝑖𝑙𝑑𝑖𝑧🪄,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,,2026-06-03,2026-06-04
++923159886738,zulqarnain khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign,120238470645360215,2026-06-03,2026-06-04
++923053293598,~Invalid User…,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,anas|called|ecat-landing-page,,2026-06-03,2026-06-04
++923234063723,AbuBakar Saeed,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat|ecat-meta-nust-campaign|umair,120245349719140215,2026-06-03,2026-06-04
++923005800891,Khalid Yaqoob,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-giki-campaign|umair,120238465807390215,2026-06-03,2026-06-04
++923363597455,Hamid,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
 +923127864652,,m.h.tayyab56@gmail.com,Male,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-03,2026-06-03
-+923022129998,Ramsha,,Female,WhatsApp,WhatsApp Primary,Other,anas|ecat|called,,2026-06-03,2026-06-03
-+923234017875,✨,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,ecat|anas,120247444645670215,2026-06-03,2026-06-03
-+923313057567,Sohail Khaskhelii,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120247444645670215,2026-06-03,2026-06-03
-+923103460404,Rajput,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign|called,120247444645670215,2026-06-03,2026-06-03
-+923299969600,♡...《...Hizbullah...》...♡,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120237066664140215,2026-06-03,2026-06-03
-+923426266810,mhrliaqatsial,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120237066664140215,2026-06-03,2026-06-03
-+923282337310,03282337310,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120247444645670215,2026-06-03,2026-06-03
++923022129998,Ramsha,,Female,WhatsApp,WhatsApp Primary,Other,anas|called|ecat,,2026-06-03,2026-06-04
++923234017875,✨,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,anas|ecat,120247444645670215,2026-06-03,2026-06-04
++923313057567,Sohail Khaskhelii,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923103460404,Rajput,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|called|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
++923299969600,♡...《...Hizbullah...》...♡,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-06-03,2026-06-04
++923426266810,mhrliaqatsial,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|ecat-meta-nust-campaign|umair,120237066664140215,2026-06-03,2026-06-04
++923282337310,03282337310,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign,120247444645670215,2026-06-03,2026-06-04
 +923149900189,Abdus Samad Khan Adil,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238465807390215,2026-06-02,2026-06-03
++923455109497,مناہل,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-05,2026-06-05
++923373182254,Ewaz pasha,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120238466084490215,2026-06-05,2026-06-05
++923244425350,Abdar Nasir,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-05,2026-06-05
++923008401307,,wemmblemc@gmail.com,Uncategorized,Both,In App|WhatsApp Outbound,Other,anas|ecat-web-app|ecat-web-signup,,2026-06-05,2026-06-05
++923022559383,Zain🖤,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120245349663340215,2026-06-05,2026-06-05
++923093090810,Aftab,,Male,WhatsApp,WhatsApp Secondary,Google Search,ecat-landing-page|anas,,2026-06-05,2026-06-05
++923706315754,RiGhT,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,,2026-06-05,2026-06-05
++923461457534,ZAFI BHAI,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120245349719140215,2026-06-05,2026-06-05
++923003313382,,rajheghde@gmail.com,Uncategorized,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-05,2026-06-05
++923306668842,,khizrajabbar12@gmail.com,Female,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-05,2026-06-05
++923121310071,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-05,2026-06-05
++923303852750,saima kamran,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120238466084490215,2026-06-05,2026-06-05
++923426132843,👩‍❤️‍💋‍👩👩‍❤️‍💋‍👩,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,,2026-06-05,2026-06-05
++923083952010,yes,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,ecat-landing-page|anas,,2026-06-05,2026-06-05
++923324022036,Hafeez haleem,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120238465807390215,2026-06-05,2026-06-05
++923039110909,Maazul Haque,,Male,WhatsApp,WhatsApp Secondary,Other,ecat|anas,,2026-06-05,2026-06-05
++923305363741,ALIBABA,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120245349719140215,2026-06-05,2026-06-05
++923191718828,Mr.KHAN😎,eng.khankha2009@gmail.com,Male,WhatsApp,WhatsApp Secondary,Other,ecat-calculator-page|anas,,2026-06-05,2026-06-05
++923337063922,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,,2026-06-05,2026-06-05
++923004429972,a84010252,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-05,2026-06-05
++923284760348,Nassar Ahmad,,Male,WhatsApp,WhatsApp Secondary,Other,ecat|anas,120246555929610215,2026-06-05,2026-06-05
++923138728435,Ali Khan✌️✌️,,Male,WhatsApp,WhatsApp Outbound,Other,ecat|anas,120247601819760215,2026-06-05,2026-06-05
++923467738956,faqeer,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120245349719140215,2026-06-05,2026-06-05
++923067326348,Waqas,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120245350458020215,2026-06-05,2026-06-05
++923153131759,Huzafa,,Uncategorized,WhatsApp,WhatsApp Primary,Google Search,ecat|anas|ecat-blog-leads|umair,,2026-06-05,2026-06-05
++923239735604,Dr.Nadeem,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-05,2026-06-05
++923167189106,Awias 🇵🇰pakistani,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120245350458020215,2026-06-05,2026-06-05
++923334635357,,abdulmuqeetshaikh291@gmail.com,Male,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-05,2026-06-05
++923057007362,iibarhim223,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120245350458020215,2026-06-05,2026-06-05
++923450819433,najam,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120238466084490215,2026-06-05,2026-06-05
++923344119966,alhayat.edu.pk,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-05,2026-06-05
++923023845667,𝒜 𝒦  𝐵 𝒶 𝓁 🌺 𝒸 𝒽,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120245349719140215,2026-06-05,2026-06-05
++923285415115,Mahi Rana,,Female,WhatsApp,WhatsApp Secondary,Google Search,ecat-landing-page|anas,,2026-06-05,2026-06-05
++923349502488,abb7809@gmail.com,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-05,2026-06-05
++923129471993,Syed Ali Haider🥰🤭,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120238465807390215,2026-06-05,2026-06-05
++923341878220,Muhammad Majid Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120237066664140215,2026-06-04,2026-06-05
++923319094862,I K,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,ecat-landing-page|anas,,2026-06-05,2026-06-05
++923708528477,ghazimehdi157@gmail.com,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120246914210330215,2026-06-05,2026-06-05
++923172691926,Sheroz Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120246914210330215,2026-06-05,2026-06-05
++923428970591,there,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120246914210330215,2026-06-04,2026-06-04
++923006334606,,ayoob.qureshigeo456@gmail.com,Male,In App,In App,Other,anas|ecat-mobile-app,,2026-06-04,2026-06-04
++923425929359,Zia Prath,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120245349719140215,2026-06-04,2026-06-04
++923499816457,Abdul Hannan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120238466084490215,2026-06-04,2026-06-04
++923292004834,👀,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat|anas|mdcat-meta-lal-campaign|hassan,120247614657620215,2026-06-04,2026-06-04
++923428936804,The Archer♐,,Uncategorized,WhatsApp,WhatsApp Primary,Google Search,ecat-blog-leads|umair,,2026-06-04,2026-06-04
++923368464219,DعAا♥️✨,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,anas|ecat-landing-page|follow-up,,2026-06-04,2026-06-04
++923341253894,Sadia Shams,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-04,2026-06-04
++923116802384,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,ecat|anas,120238465807390215,2026-06-04,2026-06-04
++923342992813,Ziaullah School Mob,,Male,WhatsApp,WhatsApp Secondary,Other,ecat|anas,120238470645360215,2026-06-04,2026-06-04
++923328259245,~∆πham,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,ecat-calculator-page|anas,,2026-06-04,2026-06-04
++923084912423,Mano Billi,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-04,2026-06-04
++923263317696,"Appear as you are,",,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120238466084490215,2026-06-04,2026-06-04
++923091486627,Abeera,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-04,2026-06-04
++923441990759,sahalsubhan24,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120244051953390215,2026-06-04,2026-06-04
++923332512946,Raju Soni,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-04,2026-06-04
++923026905007,Umar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-04,2026-06-04
++923458512946,Gotam Das and Sons,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-04,2026-06-04
++923166007963,~Jonnu khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-04,2026-06-04
++923477103779,no more,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923479999222,Eng.M K,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign|umair,120245349790140215,2026-06-04,2026-06-04
++923189717201,❤,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120238465807390215,2026-06-04,2026-06-04
++923086522702,Madanphilla Recruiting Ag,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-04,2026-06-04
++923468533385,Farooq,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-04,2026-06-04
++923372377799,Vickyyy!!!!!!!,,Male,WhatsApp,WhatsApp Primary,Google Search,ecat-blog-leads|umair,,2026-06-04,2026-06-04
++923429419618,shaukat asm,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-04,2026-06-04
++923023683042,malookshar92,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120238466084490215,2026-06-04,2026-06-04
++923325791402,Rajput,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238465807390215,2026-06-04,2026-06-04
++923334276233,Furqan Danish,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120238465807390215,2026-06-04,2026-06-04
++923708641422,ajabburak87,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238465807390215,2026-06-04,2026-06-04
++966552952802,Syed saboor,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair,120237066664140215,2026-06-04,2026-06-04
++923189442472,W🌷,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120238465807390215,2026-06-04,2026-06-04
++923446777812,Numan😍,mianumank@gmail.com,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120238465807390215,2026-06-04,2026-06-04
++923454013864,basharatsolgi786,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120237066664140215,2026-06-04,2026-06-04
++923348813642,..,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120237066664140215,2026-06-04,2026-06-04
++923023844494,Naseeb Ullah,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238465807390215,2026-06-04,2026-06-04
++923008353988,Daud Khan,,Male,WhatsApp,WhatsApp Secondary,Other,anas|ecat|called,120238465807390215,2026-06-04,2026-06-04
++923001100322,cH.Khalid.Maken,,Male,WhatsApp,WhatsApp Secondary,Other,anas|ecat|called,120238465807390215,2026-06-04,2026-06-04
++923144463606,Tooba Hayat,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120238466084490215,2026-06-04,2026-06-04
++923330316411,🕸️,,Uncategorized,WhatsApp,WhatsApp Primary,Other,ecat|anas,,2026-06-04,2026-06-04
++923408383101,Saad Zahid Umarzai,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120237066664140215,2026-06-04,2026-06-04
++923196398055,SARMAD,,Male,WhatsApp,WhatsApp Secondary,Other,ecat|anas,120238470645360215,2026-06-04,2026-06-04
++923206798907,zahid Iqbal,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-04,2026-06-04
++923222203533,SA:),,Uncategorized,WhatsApp,WhatsApp Primary,Other,ecat|anas,,2026-06-04,2026-06-04
++923453097046,Muhammad Yaseen Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign|called,120238470645360215,2026-06-04,2026-06-04
++923455347255,Khuram Aurangzaib,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign|called,120238470645360215,2026-06-04,2026-06-04
++923131184869,sami138940,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120238466084490215,2026-06-04,2026-06-04
++923712140823,Yasir Abbasi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,,2026-06-04,2026-06-04
++923117403426,fraz ahmed,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120237066664140215,2026-06-04,2026-06-04
++923335207808,Raja,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238465807390215,2026-06-04,2026-06-04
++923129496407,Osama Ali,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238465807390215,2026-06-04,2026-06-04
++923149320520,Ayesha,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238465807390215,2026-06-04,2026-06-04
++923259434905,Bintehawa,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120237066664140215,2026-06-04,2026-06-04
++923708719278,meerabjawaid,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120238466084490215,2026-06-04,2026-06-04
++923059501689,Hazrat Gulab,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120238465807390215,2026-06-04,2026-06-04
++923337812244,Israr Hussain,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238465807390215,2026-06-04,2026-06-04
++923452175011,Hamza younas 321,aimanyounas841@gmail.com,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Google Search,anas|called|ecat-web-signup|ecat-website-leads,,2026-06-04,2026-06-04
++923286720447,Happy Life,,Male,WhatsApp,WhatsApp Secondary,Google Search,anas|ecat-landing-page|called,,2026-06-04,2026-06-04
++923454880654,hnhhhhh,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,ecat-landing-page|anas,,2026-06-04,2026-06-04
++923117738852,❤️‍🔥✨BALOCH✨❤️‍🔥,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,anas|ecat-landing-page|called,,2026-06-04,2026-06-04
++923067992511,احمد,,Male,WhatsApp,WhatsApp Secondary,Google Search,ecat-landing-page|anas,,2026-06-04,2026-06-04
++923217399595,Hamza Ali,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign|called,120238470645360215,2026-06-04,2026-06-04
++923469731188,🫥,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120237066664140215,2026-06-04,2026-06-04
++923214226801,Kamran Munir,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120245349719140215,2026-06-04,2026-06-04
++923018460293,Saima,,Female,WhatsApp,WhatsApp Secondary,Google Search,ecat-landing-page|anas,,2026-06-04,2026-06-04
++923302791166,Yousuf,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,ecat|anas,,2026-06-04,2026-06-04
++923037275284,JUTT QUEENS👑💖,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-04,2026-06-04
++923333435064,Rana Anss Asif,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120244051953390215,2026-06-04,2026-06-04
++923275216252,💫Onehope✨,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120237066664140215,2026-06-04,2026-06-04
++923345291669,mehwishsohail2023,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-fast-campaign|called,120238470645360215,2026-06-04,2026-06-04
++923107104243,AQDAS ALI CHUGHTAI,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120238465807390215,2026-06-04,2026-06-04
++923072131022,Muhammad Zahid,,Male,WhatsApp,WhatsApp Secondary,Other,ecat-syllabus-page|umair|called,,2026-06-04,2026-06-04
++923437434177,ALY3E,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,,2026-06-04,2026-06-04
++923329934211,zaid ullah,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120237066664140215,2026-06-04,2026-06-04
++923026634425,Job,,Male,WhatsApp,WhatsApp Secondary,Google Search,anas|ecat-landing-page|called,,2026-06-04,2026-06-04
++923455665825,Ibad Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,,2026-06-04,2026-06-04
++923336172993,saima masood,,Female,WhatsApp,WhatsApp Primary,Other,olevel-equivalency-page|ecat|aizah,,2026-06-04,2026-06-04
++923333656337,alone,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,anas|ecat-landing-page|called,,2026-06-04,2026-06-04
++923369288169,M_Farhan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238465807390215,2026-06-04,2026-06-04
++923249429466,Abdul Rehman,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238465807390215,2026-06-04,2026-06-04
++923418067228,khabdhu297,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign|anas,120244051953390215,2026-06-04,2026-06-04
++923151564408,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,anas|ecat-meta-ned-campaign|called,,2026-06-04,2026-06-04
++923259742657,😇REحMAن KحAN 804😡,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238465807390215,2026-06-04,2026-06-04
++923006407195,Shahid Riaz,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair,120238465807390215,2026-06-04,2026-06-04
++923367121442,ayan,ayann0800@gmail.com,Male,WhatsApp,WhatsApp Primary,Other,ecat|anas,,2026-06-04,2026-06-04
++923110681085,Murtaza Inayat,,Male,WhatsApp,WhatsApp Primary,Meta Paid,ecat-meta-campaign|umair|called,862420569632957,2026-06-04,2026-06-04
++923368337887,mohhussain549,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120237066664140215,2026-06-04,2026-06-04
++923339018838,Hameed Ullah,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign|anas,120238470645360215,2026-06-04,2026-06-04
++923369167872,,imranhyderrizvi@gmail.com,Male,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-04,2026-06-04
++923335352731,Noureen,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120238470645360215,2026-06-04,2026-06-04
++923011130470,Anjum 💝,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238465807390215,2026-06-04,2026-06-04
++923313423448,Junaid,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238464883480215,2026-06-04,2026-06-04
++923009341936,Engr. Rafat Sins,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|umair|called,120238465807390215,2026-06-04,2026-06-04
++923325207926,Farhat,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|umair|called,120237066664140215,2026-06-04,2026-06-04
++923335333597,,walijanoor81@gmail.com,Male,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-04,2026-06-04
++923036604343,,hussainjimi69@gmail.com,Male,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-04,2026-06-04
++923291000137,Malikabmalik,,Female,WhatsApp,WhatsApp Primary,Google Search,ecat-blog-leads|umair|called,,2026-06-04,2026-06-04
++923283784285,,pk.pinkykumari123@gmail.com,Female,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-04,2026-06-04
++923317178081,,moeenshah612@gmail.com,Male,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-04,2026-06-04
++923042993819,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-04,2026-06-04
++923068095395,,mrayansafdar8095@gmail.com,Male,WhatsApp,WhatsApp Outbound,Other,ecat-web-signup,,2026-06-04,2026-06-04
