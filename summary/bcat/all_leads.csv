@@ -167,7 +167,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923201899432,,,Uncategorized,WhatsApp,WhatsApp Outbound,Google Search,bcat-blog-form,,2026-05-08,2026-05-09
 +923002920512,یہ وقت بھی گزر جائے گا,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign,120243609256390215,2026-05-08,2026-05-09
 +923034947058,~~.🫥,sb4434528@gmail.com,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|affordability|free,120243609256390215,2026-05-08,2026-05-09
-+923218611006,Samina,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat|bcat-meta-iba-campaign|irrelevant|khizar,120243609256390215,2026-05-08,2026-06-07
++923218611006,Samina,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat|bcat-meta-iba-campaign|irrelevant|khizar,120243609256390215,2026-05-08,2026-06-08
 +923113578344,I am Stday in Hyderabad,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|a-levels,120243609256390215,2026-05-08,2026-05-09
 +923157518090,Malik IHan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign,120243609256390215,2026-05-08,2026-05-09
 +923287855080,online ............,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign,120243609256390215,2026-05-08,2026-05-09
@@ -184,7 +184,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923329142010,Faizan Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,affordability|bcat-meta-iba-campaign|called,,2026-05-09,2026-05-12
 +923043698955,Ꮆ卄ㄩㄥ卂爪 爪ㄩﾌㄒ卂乃卂 丂卂卄丨ㄒㄖ,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,affordability|bcat|called,120244545591340215,2026-05-10,2026-05-12
 +923003300786,Taufiquerajpoot Digri,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called,120243609256390215,2026-05-11,2026-05-12
-+923009163704,Baloch Sahiv,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,120243609256390215,2026-05-04,2026-06-08
++923009163704,Baloch Sahiv,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,120243609256390215,2026-05-04,2026-06-09
 +923337898464,“Too err is human”,,Female,WhatsApp,WhatsApp Secondary,Other,bcat|called,120243609256390215,2026-05-11,2026-05-12
 +923273680907,,rashidali1245@gamil.com,Female,WhatsApp,WhatsApp Outbound,Google Search,bcat-blog-form|called,,2026-05-09,2026-05-12
 +966536503185,,,Uncategorized,In App,In App,Other,bcat-web-app,,2026-05-11,2026-05-12
@@ -1606,7 +1606,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923333561717,S.Kazmi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called,,2026-02-02,2026-02-25
 +923302859842,,,Uncategorized,WhatsApp,WhatsApp Outbound,Organic,bcat-socials-form|called,,2026-02-24,2026-02-25
 +923048617775,Mamoona,,Female,WhatsApp,WhatsApp Secondary,Other,bcat|called,,2026-02-23,2026-02-25
-+923451710001,filzaa,fatimafilza314@gmail.com,Female,WhatsApp,WhatsApp Secondary,Other,bcat|bcat-meta-iba-campaign|called|khizar,120246555929610215,2026-02-15,2026-06-07
++923451710001,filzaa,fatimafilza314@gmail.com,Female,WhatsApp,WhatsApp Secondary,Other,bcat|bcat-meta-iba-campaign|called|khizar|maybe,120246555929610215,2026-02-15,2026-06-08
 +923078192838,سيد محمد شهير بن ناصر~🇵🇰,nshaheer84@gmail.com,Male,WhatsApp,WhatsApp Secondary,Other,a-levels|affordability|bcat|called|interested,,2026-01-28,2026-02-25
 +923718065144,Muneeb Ur Rehman,,Male,WhatsApp,WhatsApp Secondary,Other,bcat|called,,2026-02-23,2026-02-25
 +923104974854,,,Uncategorized,WhatsApp,WhatsApp Outbound,Google Search,bcat-landing-page-form|called,,2026-02-21,2026-02-25
@@ -3894,7 +3894,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923232779202,Jayesh dalwanii,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,affordability|bcat-meta-lums-campaign|bcat-outbounds,,2026-01-10,2026-01-29
 +923134400786,Syed Ali Onaiz,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,a-levels|bcat-meta-lums-campaign|bcat-outbounds|called|interested,,2026-01-27,2026-01-29
 +923098189243,ayesha,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,bcat-free-trial-access|bcat-meta-lums-campaign|bcat-outbounds|follow-up,,2025-10-25,2026-01-29
-+923051955667,الہام,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,affordability|bcat-free-trial-access|bcat-meta-iba-campaign|bcat-meta-lums-campaign|bcat-outbounds|follow-up|khizar,,2025-11-06,2026-06-07
++923051955667,الہام,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,affordability|bcat-free-trial-access|bcat-meta-iba-campaign|bcat-meta-lums-campaign|bcat-outbounds|follow-up|khizar,,2025-11-06,2026-06-08
 +923156460102,Fatima Shehbaz,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,bcat-meta-lums-campaign|bcat-outbounds,,2025-12-31,2026-01-29
 +923362228421,Arib,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,bcat-meta-lums-campaign|bcat-outbounds,,2025-12-10,2026-01-29
 +923558073531,Sana🥰,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,bcat-meta-lums-campaign|bcat-outbounds,,2026-01-12,2026-01-29
@@ -7142,7 +7142,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923327979131,Jeem Baloch,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,120246555929610215,2026-05-30,2026-05-31
 +923290276650,M,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,affordability|bcat-meta-iba-campaign|bcat-paid|khizar,,2026-05-29,2026-05-30
 +923329762976,Afridi Afridi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,,2026-05-29,2026-05-30
-+923000055580,Amroti,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,120246555929610215,2026-05-29,2026-05-30
++923000055580,Amroti,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,120246555929610215,2026-05-29,2026-06-08
 +923079283610,sajjad123ys62,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,,2026-05-29,2026-05-30
 +923133194041,prathna kukreja,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-05-29,2026-05-30
 +923363898423,Saifullah Bawany,,Male,WhatsApp,WhatsApp Secondary,Google Search,a-levels|bcat-landing-page|irrelevant|khizar,,2026-05-29,2026-05-30
@@ -7157,7 +7157,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923066321389,sheikhkhizarislam,,Male,WhatsApp,WhatsApp Primary,Google Search,bcat-blog-leads|khizar,,2026-05-30,2026-05-31
 +923073792524,princessiqra709,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-05-30,2026-05-31
 +923263486657,wwss,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-05-30,2026-05-31
-+923003107957,moosabaloch328,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-05-30,2026-05-31
++923003107957,moosabaloch328,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-05-30,2026-06-09
 +923312069062,AD Rattar,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-05-30,2026-05-31
 +923294304880,Jutt,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|irrelevant|khizar,120246555929610215,2026-05-30,2026-05-31
 +923713157554,Ali Raza Chhalgri,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,,2026-05-30,2026-05-31
@@ -7305,7 +7305,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923020433637,Abdulrehman Zeeshan,,Male,WhatsApp,WhatsApp Primary,Other,olevel-equivalency-page|bcat|aizah,,2026-06-04,2026-06-05
 +923475126574,mimran12122001b,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,,2026-06-05,2026-06-06
 +923307966327,༝꩜,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,bcat-landing-page|khizar,,2026-06-05,2026-06-06
-+923212437993,burdi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-06-05,2026-06-06
++923212437993,burdi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat|bcat-meta-iba-campaign|bcat-paid|khizar,120246555929610215,2026-06-05,2026-06-08
 +923234192981,abidli56432,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-06-05,2026-06-06
 +923080291392,Hira Khan,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-06-05,2026-06-06
 +923121040506,~*°＼(^-^)／,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,bcat|khizar,120247444645670215,2026-06-05,2026-06-06
@@ -7337,30 +7337,47 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923282251384,Furqan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-06-06,2026-06-07
 +923555968553,sadaqatullah225,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-06-06,2026-06-07
 +923273133935,varisha,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,affordability|bcat-meta-iba-campaign|intent-to-pay|khizar,120246555929610215,2026-06-06,2026-06-07
-+923323171103,Ali Akber,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar|called,120246555929610215,2026-06-08,2026-06-08
-+923298985465,Mujeeb khoso,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar|called,120246555929610215,2026-06-07,2026-06-08
-+923341166001,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,bcat-website-leads|khizar|called,,2026-06-07,2026-06-08
-+923365548045,Naseemkoko,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar|irrelevant,,2026-06-07,2026-06-08
-+923087643735,Shakeel,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar|irrelevant,120246555929610215,2026-06-07,2026-06-08
++923323171103,Ali Akber,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|interested|khizar,120246555929610215,2026-06-08,2026-06-08
++923298985465,Mujeeb khoso,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,120246555929610215,2026-06-07,2026-06-08
++923341166001,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,bcat-website-leads|called|khizar,,2026-06-07,2026-06-08
++923365548045,Naseemkoko,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|irrelevant|khizar,,2026-06-07,2026-06-08
++923087643735,Shakeel,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|irrelevant|khizar,120246555929610215,2026-06-07,2026-06-08
 +923174246292,Abdullah Omer,,Male,WhatsApp,WhatsApp Secondary,Other,a-levels|bcat-dm-to-whatsapp|called|khizar|maybe,,2026-06-07,2026-06-08
-+923496060865,Rafiullah Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar|called,120246555929610215,2026-06-07,2026-06-08
-+923122131365,Soomro ❤️💚❤️,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar|called,120246555929610215,2026-06-07,2026-06-08
-+923304094211,....,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar|called,120246555929610215,2026-06-07,2026-06-08
-+923111316368,🇲🇶Sheikh 🇲🇶,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar|called,120246555929610215,2026-06-07,2026-06-08
-+923096077900,MUMTAZ NIZAM MAHAR,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar|called,120243609256390215,2026-06-07,2026-06-08
-+923328219529,🌹🌹عشق طتب🌹🌹,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar|called,,2026-06-07,2026-06-08
-+923098166228,تجارت,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar|called,120246555929610215,2026-06-07,2026-06-08
-+923212314011,fk3541809,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar|called,120246555929610215,2026-06-07,2026-06-08
-+923265939413,rustan Khan,,Male,WhatsApp,WhatsApp Secondary,Other,bcat|called|khizar|irrelevant,,2026-06-07,2026-06-08
-+923263427916,Tarique Sattar Mahar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,affordability|bcat-meta-iba-campaign|khizar|called,,2026-06-07,2026-06-08
-+923333030839,ATiF W2,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar|irrelevant,120246555929610215,2026-06-08,2026-06-08
-+923032212894,jzjs,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar|called,,2026-06-08,2026-06-08
-+923140312335,Waljee Ram,,Male,WhatsApp,WhatsApp Secondary,Google Search,affordability|bcat-landing-page|free|khizar|called,,2026-06-08,2026-06-08
-+923368442679,Dhawani,,Male,WhatsApp,WhatsApp Secondary,Google Search,bcat-landing-page|called|khizar|irrelevant,,2026-06-08,2026-06-08
-+923011265197,tahar,,Male,WhatsApp,WhatsApp Secondary,Other,bcat|khizar|irrelevant,,2026-06-08,2026-06-08
++923496060865,Rafiullah Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,120246555929610215,2026-06-07,2026-06-08
++923122131365,Soomro ❤️💚❤️,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,120246555929610215,2026-06-07,2026-06-08
++923304094211,....,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,120246555929610215,2026-06-07,2026-06-08
++923111316368,🇲🇶Sheikh 🇲🇶,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,120246555929610215,2026-06-07,2026-06-08
++923096077900,MUMTAZ NIZAM MAHAR,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,120243609256390215,2026-06-07,2026-06-08
++923328219529,🌹🌹عشق طتب🌹🌹,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,,2026-06-07,2026-06-08
++923098166228,تجارت,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,120246555929610215,2026-06-07,2026-06-08
++923212314011,fk3541809,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,120246555929610215,2026-06-07,2026-06-08
++923265939413,rustan Khan,,Male,WhatsApp,WhatsApp Secondary,Other,bcat|called|irrelevant|khizar,,2026-06-07,2026-06-08
++923263427916,Tarique Sattar Mahar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,affordability|bcat-meta-iba-campaign|called|khizar,,2026-06-07,2026-06-08
++923333030839,ATiF W2,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|irrelevant|khizar,120246555929610215,2026-06-08,2026-06-08
++923032212894,jzjs,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar,,2026-06-08,2026-06-08
++923140312335,Waljee Ram,,Male,WhatsApp,WhatsApp Secondary,Google Search,affordability|bcat-landing-page|called|free|khizar,,2026-06-08,2026-06-08
++923368442679,Dhawani,,Male,WhatsApp,WhatsApp Secondary,Google Search,bcat-landing-page|called|irrelevant|khizar,,2026-06-08,2026-06-08
++923011265197,tahar,,Male,WhatsApp,WhatsApp Secondary,Other,bcat|irrelevant|khizar,,2026-06-08,2026-06-08
 +923407651691,Waseem Sajaad,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-06-08,2026-06-08
-+923104511853,Jalal Uddin,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar|irrelevant,120246555929610215,2026-06-08,2026-06-08
-+923259656572,Azan Anh,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-06-07,2026-06-07
-+923066427883,shahidjan902255,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar|irrelevant,120246555929610215,2026-06-07,2026-06-07
-+923207575630,zahida parveen,,Female,WhatsApp,WhatsApp Secondary,Google Search,bcat-landing-page|khizar,,2026-06-07,2026-06-07
-+923230329848,hjhvjbbjigjigh,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-06-07,2026-06-07
++923104511853,Jalal Uddin,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|irrelevant|khizar,120246555929610215,2026-06-08,2026-06-09
++923259656572,Azan Anh,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-06-07,2026-06-08
++923066427883,shahidjan902255,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|irrelevant|khizar,120246555929610215,2026-06-07,2026-06-08
++923207575630,zahida parveen,,Female,WhatsApp,WhatsApp Secondary,Google Search,bcat-landing-page|khizar,,2026-06-07,2026-06-08
++923230329848,hjhvjbbjigjigh,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-06-07,2026-06-08
++923374689164,ga1927181,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,,2026-06-09,2026-06-09
++923160601575,:),,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-06-09,2026-06-09
++923029444629,Minahil✨,,Female,WhatsApp,WhatsApp Secondary,Other,bcat|khizar,,2026-06-09,2026-06-09
++923338929108,M.Ishaq,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-06-09,2026-06-09
++923425143549,Sadaqat Shah,,Male,WhatsApp,WhatsApp Secondary,Other,bcat|khizar,120246555929610215,2026-06-09,2026-06-09
++923282150830,rashidchandio749,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,,2026-06-09,2026-06-09
++923112459639,College Boy,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-06-09,2026-06-09
++923008758811,marejam3,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,,2026-06-09,2026-06-09
++923288522338,Malik Sajjad ❣️,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-06-08,2026-06-09
++923439262571,Sajeel,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,,2026-06-08,2026-06-09
++923163822201,,fatimairshad0088@gmail.com,Female,WhatsApp,WhatsApp Secondary,Other,bcat|khizar|irrelevant,120246555929610215,2026-06-08,2026-06-09
++923289024130,,anasaziz2213@gmail.com,Female,In App,In App,Other,khizar|bcat-mobile-app,,2026-06-08,2026-06-08
++923064801965,unknown,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,bcat|called|others|technical-issue|hassan,,2026-06-08,2026-06-08
++923163808976,^\,,Uncategorized,WhatsApp,WhatsApp Primary,Other,bcat|khizar,,2026-06-08,2026-06-08
++923086451617,Umar Babar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,120246555929610215,2026-06-08,2026-06-08
++923276452982,yrututu,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|khizar|irrelevant,120246555929610215,2026-06-08,2026-06-08
++923163347022,rafiqueahamed671,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|khizar,,2026-06-08,2026-06-08
