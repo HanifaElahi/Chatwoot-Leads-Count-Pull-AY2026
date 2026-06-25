@@ -1644,7 +1644,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923333310940,abdulrazzaq53204,,Male,WhatsApp,WhatsApp Secondary,Other,bcat,,2026-02-17,2026-02-18
 +923467831764,yashwabhatti314,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,bcat-meta-lums-campaign|bcat-outbounds,,2026-01-18,2026-02-18
 +923347628242,Zarmeen Fatima,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,bcat|bcat-meta-lums-campaign,,2026-02-17,2026-02-18
-+923363234779,,anilarabia0123@gmail.com,Female,Both,In App|WhatsApp Secondary,Other,bcat|bcat-web-app|khizar,120238466084490215,2026-02-17,2026-06-23
++923363234779,,anilarabia0123@gmail.com,Female,Both,In App|WhatsApp Secondary,Other,bcat|bcat-web-app|khizar,120238466084490215,2026-02-17,2026-06-24
 +923486924359,jibocuxvi90,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,bcat,,2026-02-17,2026-02-18
 +923362443175,,,Uncategorized,WhatsApp,WhatsApp Outbound,Google Search,bcat-landing-page-form,,2026-02-16,2026-02-18
 +923168293112,Daskat Deals,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,bcat-app-banner|affordability,,2026-02-16,2026-02-18
@@ -7499,7 +7499,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923351241144,.,,Uncategorized,WhatsApp,WhatsApp OTP,Other,bcat|khizar,,2026-06-17,2026-06-19
 +923422966015,SAIN ATEEQ 🔥✨,,Male,WhatsApp,WhatsApp Secondary,Google Search,affordability|bcat-landing-page|khizar,,2026-06-17,2026-06-18
 +923424293341,Noman Joyia,,Male,WhatsApp,WhatsApp Secondary,Other,bcat|khizar,,2026-06-17,2026-06-18
-+923371241032,Amna,,Female,WhatsApp,WhatsApp Secondary,Other,bcat|khizar,120238466084490215,2026-06-17,2026-06-18
++923371241032,Amna,,Female,WhatsApp,WhatsApp Secondary,Other,affordability|bcat|khizar,120238466084490215,2026-06-17,2026-06-24
 +923411327434,Ameen,,Male,WhatsApp,WhatsApp OTP,Other,bcat|khizar,,2026-06-19,2026-06-20
 +923126476810,Anushi Jaan,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,bcat|khizar,,2026-06-18,2026-06-19
 +923458556911,monim,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,bcat|khizar,,2026-06-18,2026-06-19
@@ -7523,11 +7523,14 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923035551343,💫,gulshansajjad7430@gmail.com,Female,In App,In App,Other,bcat-mobile-app|umair,,2026-06-21,2026-06-22
 +923166726523,Zahra,,Female,WhatsApp,WhatsApp Secondary,Other,bcat|khizar,120238470645360215,2026-06-22,2026-06-23
 +923446290258,Abdullah,,Male,WhatsApp,WhatsApp Primary,Google Search,bcat-blog-leads|khizar,,2026-06-22,2026-06-23
-+923336488057,Arham khan,balochsahiy@gmail.com,Male,WhatsApp,WhatsApp Primary,Google Search,bcat-blog-leads|khizar,,2026-06-24,2026-06-24
-+923087461011,Unknown,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,bcat-landing-page|khizar,,2026-06-23,2026-06-24
-+923292036853,,ayubzunaira7@gmail.com,Male,In App,In App,Other,bcat-mobile-app|khizar,,2026-06-23,2026-06-23
-+923300251622,Fatima Mukhtar,,Female,WhatsApp,WhatsApp Secondary,Other,bcat|khizar|a-levels,,2026-06-23,2026-06-23
-+923100908377,,iqbalzubair9110@gmail.com,Male,In App,In App,Other,khizar|bcat-mobile-app,,2026-06-23,2026-06-23
-+923701804260,,emankashaf343@gmail.com,Female,In App,In App,Other,khizar|bcat-mobile-app,,2026-06-23,2026-06-23
-+923425837338,,ai0018183@gmail.com,Uncategorized,In App,In App,Other,khizar|bcat-mobile-app,,2026-06-23,2026-06-23
-+923022414182,A Khan,,Male,WhatsApp,WhatsApp Secondary,Other,bcat|khizar,,2026-06-23,2026-06-23
++923336488057,Arham khan,balochsahiy@gmail.com,Male,WhatsApp,WhatsApp Primary,Google Search,bcat-blog-leads|khizar,,2026-06-24,2026-06-25
++923087461011,Unknown,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,bcat-landing-page|khizar,,2026-06-23,2026-06-25
++923292036853,,ayubzunaira7@gmail.com,Male,In App,In App,Other,bcat-mobile-app|khizar,,2026-06-23,2026-06-24
++923300251622,Fatima Mukhtar,,Female,WhatsApp,WhatsApp Secondary,Other,a-levels|bcat|khizar,,2026-06-23,2026-06-24
++923100908377,,iqbalzubair9110@gmail.com,Male,In App,In App,Other,bcat-mobile-app|khizar,,2026-06-23,2026-06-24
++923701804260,,emankashaf343@gmail.com,Female,In App,In App,Other,bcat-mobile-app|khizar,,2026-06-23,2026-06-24
++923425837338,,ai0018183@gmail.com,Uncategorized,In App,In App,Other,bcat-mobile-app|khizar,,2026-06-23,2026-06-24
++923022414182,A Khan,,Male,WhatsApp,WhatsApp Secondary,Other,bcat|khizar,,2026-06-23,2026-06-24
++923184127366,,mamagmamag78654@gmail.com,Uncategorized,In App,In App,Other,khizar|bcat-mobile-app,,2026-06-24,2026-06-24
++923083020769,♛ 💸𝝦𝝘𝝞𝝥𝗖𝝨 𝝙𝗙𝝩𝝙𝝗🦅 ♛,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,bcat-website-leads|khizar,,2026-06-24,2026-06-24
++923247649254,تحریم فاطمہ,,Female,WhatsApp,WhatsApp Secondary,Other,bcat-app-banner|khizar,,2026-06-24,2026-06-24
