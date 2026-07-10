@@ -3,7 +3,6 @@
 
 Snapshot mode — overwrites a single tab each run with the current state:
   - Cumulative totals (MDCAT, ECAT, BCAT, All) — total / F / M / U / F % classified
-  - Past 7 days × product
 
 Required env vars (set in ../.env or GitHub Secrets):
   GOOGLE_SERVICE_ACCOUNT_EMAIL
@@ -66,19 +65,6 @@ def build_snapshot_rows():
     f, m, u = grand["Female"], grand["Male"], grand["Uncategorized"]
     cl = f + m; tot = f + m + u
     rows.append(["All (sum)", tot, f, m, u, f"{100*f/cl:.1f}%" if cl else "—"])
-    rows.append([])
-    # Past 7 days
-    rows.append(["Past 7 days (by first_seen)"])
-    rows.append(["Date", "MDCAT", "ECAT", "BCAT", "Total"])
-    prod_rows = {}
-    for p in ("mdcat", "ecat", "bcat"):
-        path = SUMMARY / p / "all_leads.csv"
-        prod_rows[p] = list(csv.DictReader(open(path))) if path.exists() else []
-    today = datetime.now(tz=PKT).date()
-    for i in range(6, -1, -1):
-        d = (today - timedelta(days=i)).isoformat()
-        counts = {p: sum(1 for r in prod_rows[p] if r.get("first_seen") == d) for p in ("mdcat","ecat","bcat")}
-        rows.append([d, counts["mdcat"], counts["ecat"], counts["bcat"], sum(counts.values())])
     return rows
 
 
@@ -116,12 +102,6 @@ def main():
     # "All (sum)" row (row 9) — bold
     ws.format("A9:F9", {"textFormat": {"bold": True},
                         "backgroundColor": {"red":0.98,"green":0.93,"blue":0.85}})
-    # Section header "Past 7 days" (row 11) — bold, light fill
-    ws.format("A11:E11", {"textFormat": {"bold": True, "fontSize": 11},
-                          "backgroundColor": {"red":0.93,"green":0.95,"blue":1.0}})
-    # 7-day column headers (row 12)
-    ws.format("A12:E12", {"textFormat": {"bold": True},
-                          "backgroundColor": {"red":0.95,"green":0.95,"blue":0.95}})
     # Freeze first 2 rows so header stays visible
     ws.freeze(rows=2)
     # Auto-resize columns A-F
