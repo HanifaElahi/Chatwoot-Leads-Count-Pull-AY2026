@@ -1837,7 +1837,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923490676977,junaidakbar2236,,Male,,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2025-10-14,2025-10-15
 +923442685801,samavia raqeeb,,Male,,WhatsApp Secondary,Other,follow-up|mdcat,,2025-10-14,2025-10-15
 +923330092624,mahgulkhattak440,,Female,,WhatsApp Secondary,Other,ecat|irrelevant,,2025-10-14,2025-12-24
-+923279828842,Rooh Ullah,,Male,,WhatsApp Primary,Other,affordability|discount|free|mdcat,,2025-10-14,2025-10-15
++923279828842,Rooh Ullah,,Male,WhatsApp,WhatsApp Primary,Other,affordability|discount|free|hassan|mdcat|mdcat-blog-leads,,2025-10-14,2026-07-29
 +923400316195,CR💞 Rathor 👑🫀,,Uncategorized,,WhatsApp Primary,Other,ecat,,2025-10-14,2025-10-15
 +923292789915,Abdul Aziz Kehar,,Male,,WhatsApp Primary,Other,ecat,,2025-10-14,2025-10-15
 +923213058895,mansoorjamali476,,Male,,WhatsApp Primary,Other,ecat,,2025-10-14,2025-10-15
@@ -4866,7 +4866,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923336562844,💫✨😇,,Uncategorized,,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2025-11-01,2025-11-02
 +923702704659,Addict,,Uncategorized,,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|follow-up,,2025-11-01,2025-11-04
 +923212046275,Atiya Batool,,Female,,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,mdcat-free-trial-access|mdcat-meta-dow-campaign,,2025-11-01,2025-11-19
-+923002885260,,pti99pak@gmail.com,Uncategorized,,WhatsApp Outbound,Google Search,mdcat-landing-page-form,,2025-11-01,2025-11-02
++923002885260,,pti99pak@gmail.com,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Google Search,mdcat-akhss|mdcat-landing-page-form,,2025-11-01,2026-07-29
 +923349279320,Abdullah💫,,Male,,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2025-11-01,2025-11-02
 +923320607006,🇵🇸,,Uncategorized,,WhatsApp Secondary,Meta Paid,a-levels|affordability|bcat-meta-iba-campaign|follow-up|session-booked,,2025-11-01,2025-11-08
 +923482726921,Mir Murtaza dal,,Male,,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|mdcat-meta-sindh-campaign,,2025-11-01,2026-05-10
@@ -7222,7 +7222,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923459252241,Saeed Khan,,Male,,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2025-11-11,2025-11-13
 +923073883372,Faiza Khurram,,Female,,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|follow-up,,2025-11-11,2025-11-13
 +923055982244,~,,Uncategorized,,WhatsApp Secondary,Meta Paid,bcat-meta-lums-campaign,,2025-11-11,2025-11-12
-+923003589967,Taslima Haroon,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,khizar|mdcat-free-trial-access|mdcat-meta-dow-campaign|mdcat-meta-lumhs-campaign|mdcat-meta-punjab-campaign|zubair,120248424097480215,2025-11-11,2026-07-28
++923003589967,Taslima Haroon,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,khizar|mdcat-free-trial-access|mdcat-meta-dow-campaign|mdcat-meta-lumhs-campaign|mdcat-meta-punjab-campaign|zubair,120248424097480215,2025-11-11,2026-07-29
 +923073383202,Zulfiqar Butt,,Male,,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2025-11-11,2025-11-12
 +923351883942,I Love Allah,,Male,,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign,,2025-11-11,2025-11-12
 +923339205766,,fakhurddinsoomro@gmail.com,Uncategorized,,WhatsApp Outbound,Other,mdcat,,2025-11-11,2025-11-12
@@ -9608,7 +9608,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923435992227,@the girl,,Uncategorized,,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,ecat-meta-giki-campaign|mdcat-free-trial-access,,2025-11-28,2025-12-03
 +923006366877,AR. M. KHALID CHAUHAN,,Male,,WhatsApp Secondary,Meta Paid,ecat-meta-fast-campaign,,2025-11-28,2025-11-30
 +923006536942,🪞𝓑𝓲𝓷𝓽-𝓮-𝓐𝓼𝓵𝓪𝓶❦,,Uncategorized,,WhatsApp Secondary,Meta Paid,mdcat-meta-punjab-campaign,,2025-11-28,2025-11-29
-+923152079544,Muhammad Aamir Ali🌹,,Male,,WhatsApp Secondary,Meta Paid,a-levels|bcat-meta-iba-campaign|mdcat,,2025-11-28,2026-04-15
++923152079544,Muhammad Aamir Ali🌹,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,a-levels|bcat-meta-iba-campaign|mdcat|zubair,,2025-11-28,2026-07-29
 +923294000168,HUZAIFA MOURA,,Male,,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign|follow-up,,2025-11-28,2025-11-29
 +923152921714,WAIZA HANIF,,Male,,WhatsApp OTP,Meta Paid,follow-up|karachi|meta-mec-mdcat-campaign,,2025-11-28,2025-12-08
 +923122839439,Alhamdulilla,,Uncategorized,,WhatsApp Secondary,Meta Paid,mdcat|mdcat-meta-punjab-campaign,,2025-11-28,2025-11-29
@@ -12010,7 +12010,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923209591474,Badar Tahirkheli,,Male,,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2025-12-10,2025-12-11
 +923122518834,zainabshafiq 💗,,Female,,WhatsApp Secondary,Meta Paid,affordability|called|follow-up|mdcat-meta-dow-campaign|relevant,,2025-12-10,2025-12-23
 +923072192821,Sawairafasial,,Female,,WhatsApp Secondary,Meta Paid,ecat-meta-uet-campaign,,2025-12-10,2026-02-01
-+923331264803,waqarroonjo,waqarroonjo@gmail.com,Male,WhatsApp,In App|WhatsApp Outbound|WhatsApp Secondary,Meta Paid,affordability|follow-up|form-filled|mdcat|mdcat-meta-balochistan-campaign|mdcat-outbounds|mdcat-web-app|relevant|zubair,,2025-12-10,2026-07-28
++923331264803,waqarroonjo,waqarroonjo@gmail.com,Male,WhatsApp,In App|WhatsApp Outbound|WhatsApp Secondary,Meta Paid,affordability|follow-up|form-filled|mdcat|mdcat-meta-balochistan-campaign|mdcat-outbounds|mdcat-web-app|relevant|zubair,,2025-12-10,2026-07-29
 +923105349706,,sabahathusaain234@gmail.com,Female,,WhatsApp Secondary,Meta Paid,mdcat-meta-punjab-campaign,,2025-12-10,2025-12-12
 +923426641019,_Rukhsar_,,Female,,WhatsApp Primary,Other,bcat,,2025-12-10,2025-12-11
 +923007632900,Hasnain Jaless,,Male,,WhatsApp Secondary,Meta Paid,a-levels|bcat-meta-lums-campaign|follow-up,,2025-12-10,2025-12-12
@@ -20459,7 +20459,7 @@ DO IT.",,Uncategorized,,WhatsApp Primary,Meta Paid,mdcat-meta-campaign,,2026-01-
 +923255944843,ali,,Male,,WhatsApp Secondary,Other,called|interested|mdcat,,2026-01-22,2026-01-23
 +923108609705,,laibaqqqeee@gmail.com,Female,,In App,Other,mdcat-mobile-app,,2026-01-22,2026-01-24
 +923088705066,Ahla'i waFa🥀💫,,Uncategorized,,WhatsApp Secondary,Meta Paid,bcat-meta-lums-campaign,,2026-01-22,2026-01-23
-+923272156385,Shahbaz Hussain,,Male,,WhatsApp Secondary,Meta Paid,called|installment|interested|mdcat-meta-punjab-campaign|mdcat-meta-sindh-campaign|relevant,,2026-01-22,2026-02-24
++923272156385,Shahbaz Hussain,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|hassan|installment|interested|mdcat-landing-page-2026|mdcat-meta-punjab-campaign|mdcat-meta-sindh-campaign|relevant,,2026-01-22,2026-07-30
 +923158198196,...,,Uncategorized,,WhatsApp Secondary,Meta Paid,affordability|free|mdcat-meta-kpk-campaign,,2026-01-22,2026-01-23
 +923463208150,,,Uncategorized,,WhatsApp Outbound|WhatsApp Secondary,Google Search,bcat-blog-form|ecat-meta-ned-campaign,,2026-01-22,2026-04-26
 +923479984798,Uswa Fatima,,Female,,WhatsApp Secondary,Other,bcat-dm-to-whatsapp|called,,2026-01-22,2026-01-23
@@ -22204,7 +22204,7 @@ DO IT.",,Uncategorized,,WhatsApp Primary,Meta Paid,mdcat-meta-campaign,,2026-01-
 +923420195738,King Heart,,Uncategorized,,WhatsApp Secondary,Meta Paid,called|mdcat-meta-lal-campaign,,2026-01-29,2026-01-31
 +923449873135,New,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Other,called|mdcat|mdcat-outbounds,,2026-01-29,2026-06-15
 +923033887667,Kamranmirani,,Male,,WhatsApp Secondary,Meta Paid,ecat-meta-ned-campaign,,2026-01-29,2026-01-30
-+923245120801,dr.dreemer...,queenkhanpti804@gmail.com,Uncategorized,WhatsApp,In App|WhatsApp Primary|WhatsApp Secondary,Other,affordability|called|free|mdcat|mdcat-mobile-app|zubair,,2026-01-29,2026-07-28
++923245120801,dr.dreemer...,queenkhanpti804@gmail.com,Uncategorized,WhatsApp,In App|WhatsApp Primary|WhatsApp Secondary,Other,affordability|called|free|mdcat|mdcat-mobile-app|zubair,,2026-01-29,2026-07-29
 +923022493295,khansahabkhan6749,,Female,,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,2026-01-29,2026-01-30
 +923122065535,gamnak,,Female,,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign,,2026-01-29,2026-01-30
 +923180167927,Imran😘Malik,,Male,,WhatsApp Secondary,Other,ecat,,2026-01-29,2026-01-30
@@ -30956,7 +30956,7 @@ Sana ullah Dilsoz",,Female,,WhatsApp Secondary,Meta Paid,called|mdcat-meta-kpk-c
 +923352638170,Shahzain Baloch ❣️,,Male,,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called,,2026-04-01,2026-04-03
 +923459443919,Umar Rajpoot,ru260138@gmail.com,Male,,In App|WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|bcat-mobile-app|free|irrelevant,,2026-04-01,2026-04-02
 +923209537218,.,,Uncategorized,,WhatsApp Secondary,Meta Paid,a-levels|bcat-meta-iba-campaign|called|intent-to-pay,,2026-04-01,2026-04-02
-+923360387453,mahrukhkareem539,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,affordability|mdcat|mdcat-meta-2027-campaign|mdcat-meta-balochistan-campaign|zubair,120249592446240215,2026-04-01,2026-07-28
++923360387453,mahrukhkareem539,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,affordability|mdcat|mdcat-meta-2027-campaign|mdcat-meta-balochistan-campaign|zubair,120249592446240215,2026-04-01,2026-07-29
 +923232750445,Alhamdulillah,,Uncategorized,,WhatsApp Secondary,Meta Paid,affordability|mdcat-meta-dow-campaign,,2026-04-01,2026-04-02
 +923119371058,Guleena Amjad,,Female,,WhatsApp Secondary,Other,called|mdcat,,2026-04-01,2026-04-02
 +923344009153,Sana Khan 🎀,,Female,,WhatsApp Secondary,Meta Paid,ecat-meta-uet-refresher-campaign,,2026-04-01,2026-04-02
@@ -37872,7 +37872,7 @@ Mahnoor javed",,Female,,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,20
 +923142142216,Ali Muhammad,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,aizah|mdcat-meta-kpk-campaign,,2026-05-21,2026-05-23
 +923007516876,msaleem687721,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,aizah|bcat|khizar|mdcat-meta-kpk-campaign,120246449058670215,2026-05-21,2026-05-23
 +923083156388,lasharikhanimarn,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,aizah|mdcat-meta-kpk-campaign,120246449058670215,2026-05-21,2026-05-23
-+923037181588,it's khanii...,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,mdcat-meta-2027-campaign|mdcat-meta-dow-campaign|zubair,120250039119140215,2026-05-21,2026-07-28
++923037181588,it's khanii...,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,mdcat-meta-2027-campaign|mdcat-meta-dow-campaign|zubair,120250039119140215,2026-05-21,2026-07-29
 +923289894001,Hafiz Hafiz,,Male,WhatsApp,WhatsApp Outbound,Other,mdcat|zubair,120246449058670215,2026-05-21,2026-05-23
 +923141339991,Khaan,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120246448980730215,2026-05-21,2026-05-23
 +923140365889,ameerkhanbaloch547,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,aizah|mdcat-meta-kpk-campaign,,2026-05-21,2026-05-23
@@ -39459,7 +39459,7 @@ Mahnoor javed",,Female,,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,20
 +923130267742,Picture,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120246448980730215,2026-05-25,2026-05-27
 +923494147365,Maryam Jutt,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120246448980730215,2026-05-26,2026-05-27
 +923088989375,Usman,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120246448980730215,2026-05-26,2026-05-27
-+923438375272,Basharat  ali🌹,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-kemu-campaign|mdcat-meta-sindh-campaign|zubair,120246448980730215,2026-05-25,2026-07-28
++923438375272,Basharat  ali🌹,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-kemu-campaign|mdcat-meta-sindh-campaign|zubair,120246448980730215,2026-05-25,2026-07-29
 +923218396383,khanfarhanali186,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,,2026-05-25,2026-05-26
 +923356758226,Dilawer Jutt,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120246448980730215,2026-05-26,2026-05-27
 +923091408030,ra3925403,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,aizah|mdcat-meta-punjab-campaign,120246449017510215,2026-05-26,2026-05-27
@@ -43263,7 +43263,7 @@ Mahnoor javed",,Female,,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,20
 +923285591577,afzaalkharal053,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lumhs-campaign|zubair,120241069252280215,2026-06-03,2026-06-04
 +923059591981,Hamza Salam,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lumhs-campaign|zubair,120241069252280215,2026-06-03,2026-06-04
 +923705315757,Shahzad,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lumhs-campaign|zubair,120241069252280215,2026-06-03,2026-06-04
-+923443100191,mehralia4,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,affordability|mdcat-meta-dow-campaign|zubair,120244546952030215,2026-06-03,2026-07-28
++923443100191,mehralia4,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,affordability|mdcat-meta-dow-campaign|zubair,120244546952030215,2026-06-03,2026-07-29
 +923339123456,Amir,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lumhs-campaign|zubair,120241069252280215,2026-06-03,2026-06-04
 +923360149806,Udais Zandgi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lumhs-campaign|zubair,120241069252280215,2026-06-03,2026-06-04
 +923362524475,💓Mainaz❤️‍🔥       💝  jan❣️,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120244546952030215,2026-06-03,2026-06-04
@@ -43407,7 +43407,7 @@ Mahnoor javed",,Female,,WhatsApp Secondary,Meta Paid,ecat-meta-nust-campaign,,20
 +923205802062,yakhya,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,called|hassan|intent-to-pay|mdcat-date-page,,2026-06-05,2026-06-06
 +923191600140,Hilal Khan,,Female,WhatsApp,WhatsApp Secondary,Other,affordability|mdcat|zubair,,2026-06-05,2026-06-06
 +923121324455,WANIA KHAN,,Female,WhatsApp,WhatsApp Primary,Google Search,free|hassan|mdcat-blog-leads,,2026-06-05,2026-06-06
-+923262907870,~,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Meta Paid,affordability|hassan|mdcat-akhss|mdcat-meta-balochistan-campaign,120247612547820215,2026-06-05,2026-07-28
++923262907870,~,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Meta Paid,affordability|hassan|mdcat-akhss|mdcat-meta-balochistan-campaign,120247612547820215,2026-06-05,2026-07-29
 +923032318883,Hammad Faheem,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,called|hassan|mdcat-meta-dow-campaign|mdcat-meta-lal-campaign|zubair,120247602010230215,2026-06-04,2026-07-13
 +923053922186,,gm308@gmail.com,Uncategorized,WhatsApp,WhatsApp Secondary,Other,affordability|mdcat-app-banner|zubair,120244546162160215,2026-06-05,2026-06-06
 +923020031891,gulzarahmedmaitlo29,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lumhs-campaign|zubair,120241069252280215,2026-06-05,2026-06-06
@@ -45883,7 +45883,7 @@ sain",,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campa
 +923408393506,arsalankhan80411q,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|mdcat-meta-women-campaign,,2026-06-13,2026-06-14
 +923123350598,,noumanbinmaaz@gmail.com,Male,WhatsApp,WhatsApp Outbound,Other,called|mdcat-web-signup,,2026-06-13,2026-06-13
 +923708152929,,gulhijab679@gmail.com,Uncategorized,WhatsApp,WhatsApp Outbound,Other,called|mdcat-web-signup,,2026-06-13,2026-06-13
-+923702482637,BABA JAAN,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-2027-campaign|mdcat-meta-balochistan-campaign|zubair,120240041280890215,2026-06-13,2026-07-28
++923702482637,BABA JAAN,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-2027-campaign|mdcat-meta-balochistan-campaign|zubair,120240041280890215,2026-06-13,2026-07-29
 +923007933225,~Maimoona Saqib~,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120242280351230215,2026-06-13,2026-06-14
 +923255997078,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup|hassan,,2026-06-14,2026-06-15
 +923554427078,Zaid Ahmad ♥️,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|mdcat-meta-women-campaign,120245696633150215,2026-06-15,2026-06-16
@@ -48832,7 +48832,7 @@ Muhammad Talha",,Male,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,,2026-06-20
 +923459216961,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,called|intent-to-pay|khizar|mdcat-web-signup,,2026-06-22,2026-06-23
 +923365353443,jawaria Noor,,Female,WhatsApp,WhatsApp OTP,Other,called|mdcat|zubair,,2026-06-22,2026-06-23
 +923153014040,jabal nizamani,,Male,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-06-22,2026-06-23
-+923493072168,Saira,,Female,WhatsApp,WhatsApp OTP|WhatsApp Outbound,Other,khizar|mdcat|mdcat-web-signup|zubair,,2026-06-22,2026-07-28
++923493072168,Saira,,Female,WhatsApp,WhatsApp OTP|WhatsApp Outbound,Other,khizar|mdcat|mdcat-web-signup|zubair,,2026-06-22,2026-07-29
 +923432924371,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,called|mdcat-web-signup,,2026-06-22,2026-06-22
 +923062207210,Mrs Naeem,,Female,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Google Search,called|hassan|khizar|mdcat-landing-page-2026|mdcat-web-signup,,2026-06-22,2026-06-23
 +923347172280,حبيبرحمان.اتل,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat|zubair,120248423982770215,2026-06-22,2026-06-23
@@ -49020,7 +49020,7 @@ Muhammad Talha",,Male,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,,2026-06-20
 +923405002593,Ibrahim Malik,,Male,WhatsApp,WhatsApp Secondary,Other,hassan|mdcat-syllabus-page,,2026-06-23,2026-06-24
 +923169966581,Muhammadii,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-06-23,2026-06-24
 +923267835440,Shahzad,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-06-23,2026-06-24
-+923472217763,kashifuddin com,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,120248691325120215,2026-06-22,2026-07-28
++923472217763,kashifuddin com,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,120248691325120215,2026-06-22,2026-07-29
 +923470179462,Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-balochistan-campaign,120244546597930215,2026-06-23,2026-06-24
 +923337779228,Khan Jee,,Male,WhatsApp,WhatsApp Primary,Other,mdcat|zubair,,2026-06-23,2026-06-24
 +923173770128,,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Other,free|khizar|mdcat-web-app|mdcat-web-signup|zubair,,2026-06-23,2026-06-24
@@ -50180,7 +50180,7 @@ berry",,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-pa
 +923286067984,hk9654542,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-08,2026-07-09
 +923487778824,aliakbaraliakbar12335,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120249591926210215,2026-07-08,2026-07-09
 +923312644947,Haadia Rab Nawaz🍁,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-08,2026-07-09
-+923133748787,rahibMagsi,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|mdcat-meta-punjab-campaign,120248423982770215,2026-07-08,2026-07-28
++923133748787,rahibMagsi,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|mdcat-meta-punjab-campaign,120248423982770215,2026-07-08,2026-07-29
 +923203712541,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,khizar|mdcat-web-signup,,2026-07-08,2026-07-09
 +923160578312,studies 💫💫,,Uncategorized,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-08,2026-07-09
 +923037198715,Arfan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-lal-campaign,120240773006930215,2026-07-08,2026-07-09
@@ -50776,7 +50776,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923264976810,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,called|khizar|mdcat-web-signup,,2026-07-13,2026-07-14
 +923322290558,sajid,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120249962671050215,2026-07-13,2026-07-14
 +923439118520,Ihsan Ali,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-13,2026-07-14
-+923285485418,Lik Altaf,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-13,2026-07-28
++923285485418,Lik Altaf,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-13,2026-07-29
 +923072489485,haaaa,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|mdcat-meta-punjab-campaign,120248423982770215,2026-07-12,2026-07-13
 +923303354023,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-13,2026-07-13
 +923446885774,bnbbnb173,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-13,2026-07-14
@@ -51689,7 +51689,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923443509434,lala bahi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120247612803570215,2026-07-14,2026-07-15
 +923375218163,ISHTIAQ BETTANI,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,hassan|mdcat-syllabus-page,,2026-07-14,2026-07-15
 +923086742577,Afah,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-14,2026-07-15
-+923214176799,Ali Chand Gujjar,,Male,WhatsApp,WhatsApp Secondary,Other,affordability|mdcat|zubair,,2026-07-14,2026-07-15
++923214176799,Ali Chand Gujjar,,Male,WhatsApp,WhatsApp Secondary,Other,affordability|mdcat|zubair,,2026-07-14,2026-07-29
 +923180402219,MuhmmadBilal,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120249591926210215,2026-07-14,2026-07-15
 +923141310210,,badshabenam219@gmail.com,Uncategorized,In App,In App,Other,affordability|mdcat-mobile-app|zubair,,2026-07-14,2026-07-15
 +923151541462,Ahmad Abdullah Mughal,,Male,WhatsApp,WhatsApp Secondary,Google Search,called|mdcat-website-leads,,2026-07-14,2026-07-15
@@ -51808,7 +51808,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923297838532,Shazib Munir,,Female,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-15,2026-07-16
 +923466044512,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,affordability|form-filled|khizar|mdcat-web-signup,,2026-07-16,2026-07-18
 +923480059133,munaalamtofan,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,khizar|mdcat-meta-women-campaign,120245696949950215,2026-07-16,2026-07-17
-+923337181028,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,affordability|khizar|mdcat|mdcat-web-signup|zubair,120248423982770215,2026-07-16,2026-07-28
++923337181028,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,affordability|khizar|mdcat|mdcat-web-signup|zubair,120248423982770215,2026-07-16,2026-07-29
 +923352345856,y56271038,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,khizar|mdcat-meta-women-campaign,120249939119160215,2026-07-16,2026-07-17
 +923472752243,shahnawazali6374he,,Male,WhatsApp,WhatsApp Outbound,Other,mdcat|zubair,120245696949950215,2026-07-16,2026-07-17
 +923310411652,,m42840309@gmail.com,Uncategorized,In App,In App,Other,mdcat-mobile-app|zubair,,2026-07-16,2026-07-17
@@ -51939,7 +51939,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923157467449,Mehza!B,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-lal-campaign,120247614657620215,2026-07-15,2026-07-16
 +923026854531,Bxduddyhxxug Jxucgo G,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-lal-campaign,120247614657620215,2026-07-15,2026-07-16
 +923283269029,Sajid Ali Jatoi,,Male,WhatsApp,WhatsApp Secondary,Other,free|hassan|mdcat-syllabus-page,,2026-07-15,2026-07-16
-+923172178847,~Shadow Reaper~,,Male,WhatsApp,WhatsApp Secondary,Other,affordability|interested|mdcat|zubair,,2026-07-15,2026-07-28
++923172178847,~Shadow Reaper~,,Male,WhatsApp,WhatsApp Secondary,Other,affordability|interested|mdcat|zubair,,2026-07-15,2026-07-29
 +923469057274,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-15,2026-07-16
 +923481103176,M🫀,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,affordability|hassan|mdcat-landing-page-2026,,2026-07-15,2026-07-16
 +923275724880,Afsheen Ashfaq,,Female,WhatsApp,WhatsApp Secondary,Other,affordability|interested|mdcat|zubair,,2026-07-15,2026-07-16
@@ -52190,7 +52190,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923231584270,Akm,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,120247614657620215,2026-07-16,2026-07-17
 +923262050540,Umarali,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-16,2026-07-17
 +923481540290,Shahid Nadeem,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-lal-campaign,120247614657620215,2026-07-16,2026-07-17
-+923228644556,Khadija,,Female,WhatsApp,WhatsApp Secondary,Other,hassan|intent-to-pay|mdcat|mdcat-syllabus-page|zubair,,2026-07-16,2026-07-28
++923228644556,Khadija,,Female,WhatsApp,WhatsApp Secondary,Other,hassan|intent-to-pay|mdcat|mdcat-syllabus-page|zubair,,2026-07-16,2026-07-29
 +923453469639,salarkhan879878,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249938968210215,2026-07-16,2026-07-17
 +923103154536,Asif Mari,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-kemu-campaign,120241660270370215,2026-07-16,2026-07-17
 +923086436547,car investor,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-16,2026-07-17
@@ -52370,7 +52370,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923184174948,Mohammed Ali,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|mdcat-meta-punjab-campaign,120248423982770215,2026-07-18,2026-07-19
 +19294517017,Ali,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|intent-to-pay|mdcat-landing-page-2026,,2026-07-18,2026-07-20
 +923284884924,Momina🕊️💗✨,,Female,WhatsApp,WhatsApp Primary,Google Search,affordability|hassan|intent-to-pay|mdcat-blog-leads,,2026-07-18,2026-07-19
-+923087452114,Abdulhaque,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,120240626382600215,2026-07-18,2026-07-19
++923087452114,Abdulhaque,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat|mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-18,2026-07-29
 +923702089228,F,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249937174740215,2026-07-18,2026-07-19
 +923499438442,waslim khokhar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-18,2026-07-19
 +923428666743,Tahir Alam,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-18,2026-07-19
@@ -52485,7 +52485,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923198805799,Twins 🤩,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120245820317620215,2026-07-17,2026-07-18
 +923177304545,★~~...,,Uncategorized,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-17,2026-07-18
 +923183761755,Safik Rahman,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-17,2026-07-18
-+923112560883,Marvi,,Uncategorized,WhatsApp,WhatsApp Primary,Other,hassan|mdcat-akhss,,2026-07-17,2026-07-18
++923112560883,Marvi,,Uncategorized,WhatsApp,WhatsApp Primary,Other,hassan|mdcat|mdcat-akhss|verify-payment-ss|zubair,,2026-07-17,2026-07-29
 +923006162212,Azia Tariq,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,120247612686680215,2026-07-17,2026-07-18
 +923178424349,Hafiz.M.Aayaan saleem,,Male,WhatsApp,WhatsApp Secondary,Other,interested|mdcat|zubair,,2026-07-17,2026-07-18
 +923333357631,,reham.mukhtar.3361@gmail.com,Female,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-17,2026-07-17
@@ -52750,7 +52750,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923110490407,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,khizar|mdcat-web-signup,,2026-07-18,2026-07-19
 +923242110193,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,khizar|mdcat-web-signup,,2026-07-18,2026-07-19
 +923333629230,Muhammad Hamdan,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,khizar|mdcat-meta-lumhs-campaign,120247612686680215,2026-07-18,2026-07-19
-+923492961671,sunflower 🌻,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,intent-to-pay|interested|mdcat|zubair,,2026-07-18,2026-07-28
++923492961671,sunflower 🌻,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,intent-to-pay|interested|mdcat|verify-payment-ss|zubair,,2026-07-18,2026-07-29
 +923037609668,,samiasafdar18@gmail.com,Female,WhatsApp,WhatsApp Outbound,Other,khizar|mdcat-web-signup,,2026-07-18,2026-07-19
 +923332140757,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,khizar|mdcat-web-signup,,2026-07-18,2026-07-19
 +923173522623,Arif,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,khizar|mdcat-meta-women-campaign,120249939119160215,2026-07-18,2026-07-19
@@ -52884,7 +52884,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923349598327,Hammad lodhra😎,,Male,WhatsApp,WhatsApp Secondary,Google Search,affordability|hassan|mdcat-landing-page-2026,,2026-07-20,2026-07-21
 +923061970982,Rehan Malk Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-20,2026-07-26
 +923267197265,Ayesha Sajal,,Female,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-20,2026-07-21
-+923253628537,Talaha,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-20,2026-07-28
++923253628537,Talaha,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-kemu-campaign,120241660270370215,2026-07-20,2026-07-29
 +923160678031,Intelligent Boy ✨✨✨,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,affordability|hassan|mdcat-landing-page-2026,,2026-07-20,2026-07-21
 +923163246634,Suleman,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|mdcat-meta-punjab-campaign,120248423982770215,2026-07-20,2026-07-21
 +923130281714,R🪐,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-20,2026-07-21
@@ -52935,7 +52935,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923712090048,Syed Muhammad Aliyan Ali,aliyansyed125@gmail.com,Female,WhatsApp,WhatsApp Primary,Other,interested|mdcat-akhss|zubair,,2026-07-19,2026-07-20
 +923193538327,muammadtaha0,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-19,2026-07-20
 +923222040674,Eshal,,Female,WhatsApp,WhatsApp Primary,Other,hassan|mdcat-akhss,,2026-07-19,2026-07-20
-+923442289401,~,,Uncategorized,WhatsApp,WhatsApp Primary,Other,interested|mdcat-akhss|zubair,,2026-07-19,2026-07-20
++923442289401,~,,Uncategorized,WhatsApp,WhatsApp Primary,Other,interested|mdcat|mdcat-akhss|zubair,,2026-07-19,2026-07-29
 +923303754098,Mujahid Khan,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120250039119140215,2026-07-19,2026-07-20
 +923233699087,Abdullah,,Male,WhatsApp,WhatsApp Primary,Other,interested|mdcat-akhss|zubair,,2026-07-19,2026-07-20
 +923167290182,Allah Is Great,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-19,2026-07-20
@@ -53150,7 +53150,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923017621944,IRFAN,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-20,2026-07-21
 +923714200606,mehroseshafaqat,,Female,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-21,2026-07-22
 +923007418172,samia ejaz,,Female,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-21,2026-07-22
-+923373168592,#Muhammad Umer💯💘,,Male,WhatsApp,WhatsApp Primary,Other,hassan|mdcat|mdcat-akhss|zubair,,2026-07-20,2026-07-28
++923373168592,#Muhammad Umer💯💘,,Male,WhatsApp,WhatsApp Primary,Other,hassan|mdcat|mdcat-akhss|zubair,,2026-07-20,2026-07-29
 +923285353772,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-21,2026-07-21
 +923254198724,faryadali,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-lal-campaign,120247614657620215,2026-07-21,2026-07-22
 +923243917592,ناد،دل,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120249938385040215,2026-07-21,2026-07-22
@@ -53187,7 +53187,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923318196394,Fahmeed,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-20,2026-07-21
 +923088683880,Rashid Ali,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-20,2026-07-21
 +923220118218,*Ammer Haider Ali*.....,,Male,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Google Search,free|hassan|mdcat|mdcat-landing-page-2026|zubair,,2026-07-20,2026-07-21
-+923086477250,Bilal,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat|mdcat-landing-page-2026|zubair,,2026-07-20,2026-07-28
++923086477250,Bilal,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat|mdcat-landing-page-2026|zubair,,2026-07-20,2026-07-29
 +923362886811,Allahamdulliah,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,hassan|mdcat-syllabus-page,,2026-07-20,2026-07-21
 +923705591776,~ Introvert ♠,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,affordability|hassan|mdcat-syllabus-page,,2026-07-20,2026-07-21
 +923272199731,G Q,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,affordability|hassan|mdcat-date-page,,2026-07-20,2026-07-21
@@ -53232,7 +53232,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923073973885,Business Whatsapp,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-lal-campaign,120247614657620215,2026-07-20,2026-07-21
 +923351377579,Jan ❣️👈,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120250039119140215,2026-07-20,2026-07-21
 +923276495863,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-20,2026-07-20
-+923343207266,Erum Mujeeb,,Female,WhatsApp,WhatsApp Primary,Other,form-filled|hassan|mdcat|mdcat-akhss|zubair,,2026-07-20,2026-07-28
++923343207266,Erum Mujeeb,,Female,WhatsApp,WhatsApp Primary,Other,form-filled|hassan|mdcat|mdcat-akhss|zubair,,2026-07-20,2026-07-29
 +923708389995,alishassanskp786cy,,Female,WhatsApp,WhatsApp Outbound,Other,mdcat|zubair,120248419180440215,2026-07-20,2026-07-21
 +923704592121,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,khizar|mdcat-web-signup,,2026-07-20,2026-07-21
 +923499547120,Ikram,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-20,2026-07-21
@@ -53544,7 +53544,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923416649096,Faizan Abbsi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-21,2026-07-22
 +923102386579,Jaan Mohammed,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-21,2026-07-22
 +923087919036,Wewe,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-kemu-campaign,120241660270370215,2026-07-21,2026-07-22
-+923021227686,✨,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat|mdcat-meta-2027-campaign|mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-21,2026-07-28
++923021227686,✨,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat|mdcat-meta-2027-campaign|mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-21,2026-07-29
 +923248173390,⚔️🥷Abdullah Khan ♥️⚔️🥷,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-21,2026-07-22
 +923360308130,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-21,2026-07-21
 +923206094984,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-21,2026-07-21
@@ -53656,7 +53656,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923109062225,zainullah8130,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249937174740215,2026-07-22,2026-07-23
 +923262547674,Abdul Satar,,Male,WhatsApp,WhatsApp Outbound,Other,mdcat|zubair,120248423982770215,2026-07-22,2026-07-23
 +923037670750,sunaina 🫶🏻✨🌷,,Female,WhatsApp,WhatsApp Secondary,Other,intent-to-pay|interested|mdcat|zubair,,2026-07-22,2026-07-23
-+923335300514,~,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,hassan|mdcat|mdcat-date-page|zubair,,2026-07-22,2026-07-27
++923335300514,~,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,hassan|mdcat|mdcat-date-page|zubair,,2026-07-22,2026-07-29
 +923090327378,Hashim Khan,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-22,2026-07-23
 +923349309103,,farhaddarya998@gmail.com,Male,In App,In App,Other,mdcat-mobile-app|zubair,,2026-07-22,2026-07-23
 +923163550091,naziralijattak51,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-22,2026-07-23
@@ -53734,7 +53734,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923416847115,dry-silence-411,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|mdcat-meta-punjab-campaign,120248423982770215,2026-07-22,2026-07-23
 +923159949826,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,khizar|mdcat-web-signup,,2026-07-22,2026-07-23
 +923327398814,fajar khan,,Female,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-22,2026-07-23
-+923472194257,.,ashmalgulzar99@gmail.com,Male,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,hassan|mdcat-akhss|mdcat-web-signup,,2026-07-22,2026-07-23
++923472194257,.,ashmalgulzar99@gmail.com,Male,WhatsApp,WhatsApp Outbound|WhatsApp Primary,Other,hassan|mdcat|mdcat-akhss|mdcat-web-signup|verify-payment-ss|zubair,,2026-07-22,2026-07-29
 +923084628774,ADEEL GUJJAR 7,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-22,2026-07-23
 +923082009419,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-22,2026-07-22
 +923326103310,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-22,2026-07-22
@@ -53966,7 +53966,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923076653549,,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,,2026-07-23,2026-07-24
 +923326376086,b,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|mdcat-meta-punjab-campaign,120248423982770215,2026-07-23,2026-07-24
 +923302654314,آیان داودانی,,Male,WhatsApp,WhatsApp Primary|WhatsApp Secondary,Other,mdcat|mdcat-akhss|zubair,,2026-07-23,2026-07-27
-+923359862072,00000,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-23,2026-07-28
++923359862072,00000,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-23,2026-07-29
 +923003682412,😘 S Koko 🥰,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-23,2026-07-24
 +923190781567,Mudassir,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-23,2026-07-24
 +923703010496,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-23,2026-07-23
@@ -53994,7 +53994,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923281198115,Chal Hat,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-25,2026-07-26
 +923284035465,juttsarfraz677,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-25,2026-07-26
 +923283313874,Waqar,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,,2026-07-25,2026-07-26
-+923105074622,wazir wazir m i m i,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|mdcat-meta-2027-campaign|mdcat-meta-punjab-campaign|zubair,120249592446240215,2026-07-25,2026-07-28
++923105074622,wazir wazir m i m i,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|mdcat-meta-2027-campaign|mdcat-meta-punjab-campaign|zubair,120249592446240215,2026-07-25,2026-07-29
 +923135646024,zinasdv,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|irrelevant|mdcat-meta-punjab-campaign,120248423982770215,2026-07-25,2026-07-26
 +923204641422,ranasajidr268,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-25,2026-07-26
 +923713235136,Ghazi Khan,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-25,2026-07-26
@@ -54187,7 +54187,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923455456171,Danyal Khan,,Male,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-26,2026-07-27
 +923087912780,F.  S,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,hassan|mdcat-calculator-page,,2026-07-26,2026-07-27
 +923017548338,mirzaaamirali9634,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-lal-campaign,120248422429430215,2026-07-26,2026-07-27
-+923166521513,,a31118481@gmail.com,Uncategorized,In App,In App,Other,mdcat-mobile-app|zubair,,2026-07-26,2026-07-27
++923166521513,,a31118481@gmail.com,Uncategorized,In App,In App,Other,mdcat-mobile-app|zubair,,2026-07-26,2026-07-30
 +923702747022,sohail meer,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,affordability|hassan|mdcat-meta-kemu-campaign,120247612803570215,2026-07-26,2026-07-27
 +923318384494,baloch,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,hassan|mdcat-syllabus-page,,2026-07-25,2026-07-26
 +923237209963,Online Assignments Work,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-25,2026-07-26
@@ -54531,7 +54531,7 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923306716395,Muhammad Faisal,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-26,2026-07-27
 +923284227749,zαяα,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120250039119140215,2026-07-26,2026-07-27
 +923252172038,032521378,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-26,2026-07-27
-+923082946772,Atiya Hussain,,Female,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-26,2026-07-27
++923082946772,Atiya Hussain,,Female,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-26,2026-07-29
 +923402578556,Aneel,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-26,2026-07-27
 +923322006685,M🌹🌹🌹,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,120247614657620215,2026-07-26,2026-07-27
 +923206609767,khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-26,2026-07-27
@@ -54572,36 +54572,36 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923297032258,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-26,2026-07-26
 +923292742506,ibrarkolachi8,,Male,WhatsApp,WhatsApp Secondary,Google Search,anas|ecat|hassan|mdcat-landing-page-2026,,2026-07-26,2026-07-27
 +923358729351,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-26,2026-07-26
-+923359917460,🥰🥰🥰,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-28,2026-07-28
-+923239548564,abdul452845,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120250039119140215,2026-07-28,2026-07-28
-+923321537742,خدیجہ کامران,,Female,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,120247612686680215,2026-07-28,2026-07-28
-+923347271641,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,khizar|mdcat-web-signup,,2026-07-28,2026-07-28
++923359917460,🥰🥰🥰,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-28,2026-07-29
++923239548564,abdul452845,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120250039119140215,2026-07-28,2026-07-29
++923321537742,خدیجہ کامران,,Female,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,120247612686680215,2026-07-28,2026-07-29
++923347271641,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,khizar|mdcat-web-signup,,2026-07-28,2026-07-29
 +923703525340,Natik Kumar,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|mdcat-meta-punjab-campaign,120248423982770215,2026-07-27,2026-07-28
-+923328549821,Basitajeeb,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
++923328549821,Basitajeeb,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
 +923339862320,A S K A R  K H A N,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,mdcat-web-app|zubair,,2026-07-27,2026-07-28
-+923295691996,A,,Uncategorized,WhatsApp,WhatsApp Primary,Google Search,free|hassan|intent-to-pay|mdcat-blog-leads,,2026-07-28,2026-07-28
-+923058103810,سفي لله ڪاڪيپو,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
-+923163903630,,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Other,hassan|mdcat-landing-page-2026|mdcat-web-signup,,2026-07-27,2026-07-28
-+923047236618,Summar Khan,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
++923295691996,A,,Uncategorized,WhatsApp,WhatsApp Primary,Google Search,free|hassan|intent-to-pay|mdcat-blog-leads,,2026-07-28,2026-07-29
++923058103810,سفي لله ڪاڪيپو,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
++923163903630,,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Other,hassan|mdcat-landing-page-2026|mdcat-web-signup,,2026-07-27,2026-07-29
++923047236618,Summar Khan,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
 +923073562332,Ahasn Ali,,Male,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-27,2026-07-28
-+923440914671,awiskhan153098,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249937174740215,2026-07-28,2026-07-28
++923440914671,awiskhan153098,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249937174740215,2026-07-28,2026-07-29
 +923147525206,zain ali,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|irrelevant|mdcat-meta-punjab-campaign,120248423982770215,2026-07-27,2026-07-29
-+923312697411,Saidhasan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
-+923141560372,Sheraz,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
-+923491519537,Roqiea Roqiea,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-28,2026-07-28
-+923319793077,lishyyy🫀,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,free|mdcat-web-app|zubair,,2026-07-28,2026-07-28
-+923082987496,ShahzadAli,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
-+923409018240,Anas Tanoli,,Male,WhatsApp,WhatsApp Secondary,Other,hassan|mdcat-syllabus-page,,2026-07-28,2026-07-28
-+923251649813,ALI USMAN 786,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
-+923061922818,Abdul Rahman,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
-+923330537590,MAHAM⁷,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120250039119140215,2026-07-28,2026-07-28
-+923241533035,Adnanmultani,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
-+923096176796,Allah,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
++923312697411,Saidhasan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
++923141560372,Sheraz,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
++923491519537,Roqiea Roqiea,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-28,2026-07-29
++923319793077,lishyyy🫀,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,free|mdcat-web-app|zubair,,2026-07-28,2026-07-29
++923082987496,ShahzadAli,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
++923409018240,Anas Tanoli,,Male,WhatsApp,WhatsApp Secondary,Other,hassan|mdcat-syllabus-page,,2026-07-28,2026-07-29
++923251649813,ALI USMAN 786,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
++923061922818,Abdul Rahman,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
++923330537590,MAHAM⁷,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120250039119140215,2026-07-28,2026-07-29
++923241533035,Adnanmultani,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
++923096176796,Allah,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
 +923420091092,awaisalishha,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-27,2026-07-28
 +923706575735,Ahmad,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-27,2026-07-28
-+923289712311,asgira165,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
-+923262243698,Akhtar Abbas,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
-+923476250773,Pervaiz Ali,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|irrelevant|mdcat-landing-page-2026,,2026-07-28,2026-07-28
++923289712311,asgira165,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
++923262243698,Akhtar Abbas,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
++923476250773,Pervaiz Ali,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|irrelevant|mdcat-landing-page-2026,,2026-07-28,2026-07-29
 +923234110689,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-28,2026-07-28
 +923465032860,say me chintu,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-27,2026-07-28
 +923205510810,Sattar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-27,2026-07-28
@@ -54747,148 +54747,242 @@ busy",,Uncategorized,WhatsApp,WhatsApp OTP|WhatsApp Secondary,Other,intent-to-pa
 +923333789666,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-27,2026-07-27
 +923350389842,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup|khizar|free,,2026-07-26,2026-07-27
 +923019278680,B,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,120249937174740215,2026-07-28,2026-07-29
-+923178523384,Abdul Aziz,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair|affordability,,2026-07-29,2026-07-29
-+923081962669,✨~@,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lumhs-campaign|khizar,120247612686680215,2026-07-29,2026-07-29
-+923445209327,~Fizza,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lumhs-campaign|khizar,120247612686680215,2026-07-29,2026-07-29
-+923554708138,sm5188580,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair|intent-to-pay|affordability,120249592446240215,2026-07-29,2026-07-29
-+923555357629,Babu Kaka,,Male,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan,,2026-07-29,2026-07-29
-+923453038259,baba ki jan,,Male,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan|affordability,,2026-07-29,2026-07-29
++923178523384,Abdul Aziz,,Male,WhatsApp,WhatsApp Secondary,Other,affordability|mdcat|zubair,,2026-07-29,2026-07-29
++923081962669,✨~@,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,khizar|mdcat-meta-lumhs-campaign,120247612686680215,2026-07-29,2026-07-29
++923445209327,~Fizza,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,khizar|mdcat-meta-lumhs-campaign,120247612686680215,2026-07-29,2026-07-29
++923554708138,sm5188580,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,affordability|intent-to-pay|mdcat-meta-2027-campaign|zubair,120249592446240215,2026-07-29,2026-07-29
++923555357629,Babu Kaka,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-29,2026-07-29
++923453038259,baba ki jan,,Male,WhatsApp,WhatsApp Secondary,Google Search,affordability|hassan|mdcat-landing-page-2026,,2026-07-29,2026-07-29
 +923102591033,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-29,2026-07-29
-+923471326805,ajeebgulllanjo,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan,,2026-07-29,2026-07-29
-+923554852639,ماں کا شہزادہ 🫀,,Uncategorized,WhatsApp,WhatsApp Primary,Other,mdcat-akhss|hassan,,2026-07-28,2026-07-29
++923471326805,ajeebgulllanjo,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-29,2026-07-29
++923554852639,ماں کا شہزادہ 🫀,,Uncategorized,WhatsApp,WhatsApp Primary,Other,hassan|mdcat-akhss,,2026-07-28,2026-07-29
 +923108207264,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-29,2026-07-29
 +923437908557,👉👉👉💔💔💔💔💔💔💔💔🤫🤫🤫🤫🤫🤫🤫🫀🫀🫀🫀,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-29,2026-07-29
-+923407040750,nadeemtanoli7600,,Male,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan,,2026-07-29,2026-07-29
++923407040750,nadeemtanoli7600,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|irrelevant|mdcat-landing-page-2026,,2026-07-29,2026-07-29
 +923150292016,habibashafi6543,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-29,2026-07-29
 +923054295763,muhammadahmadmusla99,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,,2026-07-29,2026-07-29
-+923439214156,Ahrsad Khan,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-punjab-campaign|hassan,120247613634910215,2026-07-29,2026-07-29
-+923332338951,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup|khizar,,2026-07-29,2026-07-29
-+923226095693,waqashfdeivzmh,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-29,2026-07-29
++923439214156,Ahrsad Khan,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|irrelevant|mdcat-meta-punjab-campaign,120247613634910215,2026-07-29,2026-07-29
++923332338951,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,khizar|mdcat-web-signup,,2026-07-29,2026-07-29
++923226095693,waqashfdeivzmh,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-29,2026-07-29
 +923302460804,Muskan Panhwer,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-28,2026-07-29
-+923420037898,Hafeezullosal Ugi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-29,2026-07-29
-+923428490783,momal151287,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-29,2026-07-29
-+923213134013,Islam,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
-+923332629385,RiayzhAmde,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120249592446240215,2026-07-28,2026-07-28
-+923003887305,arfar,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-28,2026-07-28
-+923708507768,Añushä,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120249592446240215,2026-07-28,2026-07-28
-+923282645431,Seetal Kumar,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,o-level|aizah|mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-28,2026-07-28
-+923234306337,Sehar Sajid,,Female,WhatsApp,WhatsApp Secondary,Other,mdcat-syllabus-page|hassan|free,,2026-07-28,2026-07-28
++923420037898,Hafeezullosal Ugi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-29,2026-07-29
++923428490783,momal151287,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-29,2026-07-29
++923213134013,Islam,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
++923332629385,RiayzhAmde,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120249592446240215,2026-07-28,2026-07-29
++923003887305,arfar,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-kemu-campaign,120241660270370215,2026-07-28,2026-07-29
++923708507768,Añushä,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120249592446240215,2026-07-28,2026-07-29
++923282645431,Seetal Kumar,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,aizah|mdcat-meta-sindh-campaign|o-level|zubair,120248419180440215,2026-07-28,2026-07-29
++923234306337,Sehar Sajid,,Female,WhatsApp,WhatsApp Secondary,Other,free|hassan|mdcat-syllabus-page,,2026-07-28,2026-07-29
 +923335141704,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-28,2026-07-28
-+923024446482,laden Patel 🫡🫡🤬😈👿👊✌️✌️,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-28,2026-07-28
-+923022372412,Zahidali,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-28,2026-07-28
-+923209128438,"abdullahkhan76055,",,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-28,2026-07-28
-+923021650186,Moin Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-28,2026-07-28
-+923305619197,Dani,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-balochistan-campaign|hassan,120240356137520215,2026-07-28,2026-07-28
++923024446482,laden Patel 🫡🫡🤬😈👿👊✌️✌️,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-kemu-campaign,120241660270370215,2026-07-28,2026-07-29
++923022372412,Zahidali,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-28,2026-07-29
++923209128438,"abdullahkhan76055,",,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-kemu-campaign,120241660270370215,2026-07-28,2026-07-29
++923021650186,Moin Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-28,2026-07-29
++923305619197,Dani,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-balochistan-campaign,120240356137520215,2026-07-28,2026-07-29
 +923277024321,,,Uncategorized,WhatsApp,WhatsApp Outbound,Google Search,mdcat-blog-form,,2026-07-28,2026-07-28
-+923102918333,,emmansaleem222.gmail@gmail.com,Female,In App,In App,Other,zubair|mdcat-mobile-app,,2026-07-28,2026-07-28
++923102918333,,emmansaleem222.gmail@gmail.com,Female,In App,In App,Other,mdcat-mobile-app|zubair,,2026-07-28,2026-07-29
 +923041277277,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-28,2026-07-28
-+923212694196,yousaf qureshi 🤗,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,,2026-07-28,2026-07-28
-+923149659971,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup|khizar,120250039119140215,2026-07-28,2026-07-28
-+923280621110,🕋,,Uncategorized,WhatsApp,WhatsApp Primary,Other,mdcat|zubair|affordability,,2026-07-28,2026-07-28
-+923320803538,fareesamad🍁,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lal-campaign|hassan,120247614657620215,2026-07-28,2026-07-28
-+923013396412,"Nazeer,khan",,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-punjab-campaign|hassan,120245956926930215,2026-07-28,2026-07-28
-+923142232878,~Sadia~,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120250039119140215,2026-07-28,2026-07-28
-+923169841773,ulhaqikram351,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,mdcat-website-leads|zubair|affordability,,2026-07-28,2026-07-28
-+923420521563,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-28,2026-07-28
-+923340558728,Hamza Ilyas,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249937174740215,2026-07-28,2026-07-28
-+923284123452,mY LiFe mY MoM DaD 💚💚🤲🏻🤲🏻,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249937174740215,2026-07-28,2026-07-28
-+923040510972,.,,Uncategorized,WhatsApp,WhatsApp Primary,Other,mdcat|zubair,,2026-07-28,2026-07-28
-+923337422253,Sahiv Jan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120244546912460215,2026-07-28,2026-07-28
-+923073472213,Doctor,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan,,2026-07-28,2026-07-28
-+923291303283,amairah,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lumhs-campaign|khizar,120247612686680215,2026-07-28,2026-07-28
-+923190115580,⚔️Vijahs ♥️⚔️👿👿👿,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-28,2026-07-28
-+923353215508,PRIVATE,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair|affordability,120250039119140215,2026-07-28,2026-07-28
-+923113503059,Am Buk,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120249592446240215,2026-07-28,2026-07-28
-+923140173906,SAJIDA JAWWAD,,Female,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-28,2026-07-28
-+923217954360,irfankamboh948,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-28,2026-07-28
-+923330290241,🕋,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,,2026-07-28,2026-07-28
-+923293738331,myaqoobs779,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat|zubair,120248423982770215,2026-07-28,2026-07-28
-+923160333542,.....,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120250039119140215,2026-07-28,2026-07-28
-+923287039300,Hazufai Khan,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120250039119140215,2026-07-28,2026-07-28
-+923450133482,Ramesh Kumar,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,120241660270370215,2026-07-28,2026-07-28
-+923213567978,nusrullah,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249937174740215,2026-07-28,2026-07-28
-+923418995875,Mehwish,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair|affordability,120249592446240215,2026-07-28,2026-07-28
-+923372831313,Malik Naveed,,Male,WhatsApp,WhatsApp Secondary,Google Search,mdcat-website-leads|zubair,,2026-07-28,2026-07-28
-+923406183098,Ahmad  AA❤️❤️🥰🥰🥰,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
-+923072807637,03072807637,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-28,2026-07-28
-+923158341445,Awan Zada,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249937174740215,2026-07-28,2026-07-28
-+923019018407,Alhamdulillah 🥰🥰😍,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,mdcat-web-app|zubair,,2026-07-28,2026-07-28
-+923446162969,Rimsha♡,,Female,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-28,2026-07-28
-+923122745468,Xumaila Bukhari,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,120249938461040215,2026-07-28,2026-07-28
-+923425770885,~••••🖤,,Uncategorized,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-28,2026-07-28
-+923313390849,𝓐𝓵𝓲𝓼𝓱𝓫𝓪𝓱𝓝𝓪𝓭𝓮𝓮𝓶...,alishbahnadeem3105@gmail.com,Female,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-28,2026-07-28
-+923242386671,عثمان انصاری 💫,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-28,2026-07-28
-+923216103479,M,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
-+923142745215,MuzsammiI,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-28,2026-07-28
-+923407120155,lnam Ullah,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
-+923483076474,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup|khizar,,2026-07-28,2026-07-28
++923212694196,yousaf qureshi 🤗,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-kemu-campaign,,2026-07-28,2026-07-29
++923149659971,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,khizar|mdcat-web-signup,120250039119140215,2026-07-28,2026-07-29
++923280621110,🕋,,Uncategorized,WhatsApp,WhatsApp Primary,Other,affordability|mdcat|zubair,,2026-07-28,2026-07-29
++923320803538,fareesamad🍁,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-lal-campaign,120247614657620215,2026-07-28,2026-07-29
++923013396412,"Nazeer,khan",,Male,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|irrelevant|mdcat-meta-punjab-campaign,120245956926930215,2026-07-28,2026-07-29
++923142232878,~Sadia~,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120250039119140215,2026-07-28,2026-07-29
++923169841773,ulhaqikram351,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,affordability|mdcat-website-leads|zubair,,2026-07-28,2026-07-29
++923420521563,,,Male,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-28,2026-07-28
++923340558728,Hamza Ilyas,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249937174740215,2026-07-28,2026-07-29
++923284123452,mY LiFe mY MoM DaD 💚💚🤲🏻🤲🏻,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249937174740215,2026-07-28,2026-07-29
++923040510972,.,,Uncategorized,WhatsApp,WhatsApp Primary,Other,mdcat|zubair,,2026-07-28,2026-07-29
++923337422253,Sahiv Jan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120244546912460215,2026-07-28,2026-07-29
++923073472213,Doctor,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-28,2026-07-29
++923291303283,amairah,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,khizar|mdcat-meta-lumhs-campaign,120247612686680215,2026-07-28,2026-07-29
++923190115580,⚔️Vijahs ♥️⚔️👿👿👿,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-28,2026-07-29
++923353215508,PRIVATE,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,affordability|mdcat-meta-2027-campaign|zubair,120250039119140215,2026-07-28,2026-07-29
++923113503059,Am Buk,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120249592446240215,2026-07-28,2026-07-29
++923140173906,SAJIDA JAWWAD,,Female,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-28,2026-07-29
++923217954360,irfankamboh948,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-28,2026-07-29
++923330290241,🕋,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,,2026-07-28,2026-07-29
++923293738331,myaqoobs779,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat|zubair,120248423982770215,2026-07-28,2026-07-29
++923160333542,.....,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120250039119140215,2026-07-28,2026-07-29
++923287039300,Hazufai Khan,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120250039119140215,2026-07-28,2026-07-29
++923450133482,Ramesh Kumar,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,120241660270370215,2026-07-28,2026-07-29
++923213567978,nusrullah,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249937174740215,2026-07-28,2026-07-29
++923418995875,Mehwish,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,affordability|mdcat-meta-2027-campaign|zubair,120249592446240215,2026-07-28,2026-07-29
++923372831313,Malik Naveed,,Male,WhatsApp,WhatsApp Secondary,Google Search,mdcat-website-leads|zubair,,2026-07-28,2026-07-29
++923406183098,Ahmad  AA❤️❤️🥰🥰🥰,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
++923072807637,03072807637,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-28,2026-07-29
++923158341445,Awan Zada,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249937174740215,2026-07-28,2026-07-29
++923019018407,Alhamdulillah 🥰🥰😍,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,mdcat-web-app|zubair,,2026-07-28,2026-07-29
++923446162969,Rimsha♡,,Female,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-28,2026-07-29
++923122745468,Xumaila Bukhari,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,120249938461040215,2026-07-28,2026-07-29
++923425770885,~••••🖤,,Uncategorized,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-28,2026-07-29
++923313390849,𝓐𝓵𝓲𝓼𝓱𝓫𝓪𝓱𝓝𝓪𝓭𝓮𝓮𝓶...,alishbahnadeem3105@gmail.com,Female,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-28,2026-07-29
++923242386671,عثمان انصاری 💫,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-28,2026-07-29
++923216103479,M,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
++923142745215,MuzsammiI,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-28,2026-07-29
++923407120155,lnam Ullah,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
++923483076474,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,khizar|mdcat-web-signup,,2026-07-28,2026-07-29
 +923327263333,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-28,2026-07-28
-+923165011715,Sudais Khan,,Male,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan|affordability,,2026-07-28,2026-07-28
++923165011715,Sudais Khan,,Male,WhatsApp,WhatsApp Secondary,Google Search,affordability|hassan|mdcat-landing-page-2026,,2026-07-28,2026-07-29
 +923469528296,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-28,2026-07-28
-+923220390998,Ily🎀,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan,,2026-07-28,2026-07-28
++923220390998,Ily🎀,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-28,2026-07-29
 +923342799952,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-28,2026-07-28
-+923012873453,AD Solangi,,Uncategorized,WhatsApp,WhatsApp Primary,Google Search,mdcat-blog-leads|hassan,,2026-07-28,2026-07-28
-+923111822838,Jan,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-women-campaign|khizar,120249939119160215,2026-07-28,2026-07-28
++923012873453,AD Solangi,,Uncategorized,WhatsApp,WhatsApp Primary,Google Search,hassan|mdcat-blog-leads,,2026-07-28,2026-07-29
++923111822838,Jan,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,khizar|mdcat-meta-women-campaign,120249939119160215,2026-07-28,2026-07-29
 +923129381524,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-28,2026-07-28
-+923496676328,Na🦅d💸ee🚩m⚜️,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-28,2026-07-28
-+923190472262,NOOR,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-punjab-campaign|hassan,120248423982770215,2026-07-28,2026-07-28
-+923064446975,Ayeشha Nawaz,,Male,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan|affordability,,2026-07-28,2026-07-28
-+923085945473,ullahhasseb062,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lal-campaign|hassan,120248422429430215,2026-07-28,2026-07-28
-+923164942467,Abdul MALIK,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lal-campaign|hassan,120247614657620215,2026-07-28,2026-07-28
-+923404143919,Imran Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-28,2026-07-28
-+923053915357,Aries..🌟,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan|affordability|free,,2026-07-28,2026-07-28
-+923084698791,𝘊𝘳𝘪𝘮𝘪𝘯𝘢𝘭𝘴 𝘖𝘸𝘯𝘦𝘳,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan|affordability,,2026-07-28,2026-07-28
-+923076817327,S. A,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-28,2026-07-28
-+923200336193,na6999023,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-28,2026-07-28
-+923189662924,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup|khizar,,2026-07-28,2026-07-28
-+923370395547,kahn,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-28,2026-07-28
-+923405111147,azharabbas377373,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026|irrelevant,,2026-07-28,2026-07-28
++923496676328,Na🦅d💸ee🚩m⚜️,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-28,2026-07-29
++923190472262,NOOR,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|mdcat-meta-punjab-campaign,120248423982770215,2026-07-28,2026-07-29
++923064446975,Ayeشha Nawaz,,Male,WhatsApp,WhatsApp Secondary,Google Search,affordability|hassan|mdcat-landing-page-2026,,2026-07-28,2026-07-29
++923085945473,ullahhasseb062,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-lal-campaign,120248422429430215,2026-07-28,2026-07-29
++923164942467,Abdul MALIK,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-lal-campaign,120247614657620215,2026-07-28,2026-07-29
++923404143919,Imran Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-28,2026-07-29
++923053915357,Aries..🌟,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,affordability|free|hassan|mdcat-landing-page-2026,,2026-07-28,2026-07-29
++923084698791,𝘊𝘳𝘪𝘮𝘪𝘯𝘢𝘭𝘴 𝘖𝘸𝘯𝘦𝘳,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,affordability|hassan|mdcat-landing-page-2026,,2026-07-28,2026-07-29
++923076817327,S. A,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-kemu-campaign,120241660270370215,2026-07-28,2026-07-29
++923200336193,na6999023,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-kemu-campaign,120241660270370215,2026-07-28,2026-07-29
++923189662924,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,khizar|mdcat-web-signup,,2026-07-28,2026-07-29
++923370395547,kahn,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-kemu-campaign,120241660270370215,2026-07-28,2026-07-29
++923405111147,azharabbas377373,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|irrelevant|mdcat-landing-page-2026,,2026-07-28,2026-07-29
 +923097464630,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-28,2026-07-28
-+923234546504,: >,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lumhs-campaign|khizar,120247612686680215,2026-07-28,2026-07-28
-+923436123339,m rashid,,Male,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan,,2026-07-28,2026-07-28
-+923469460453,killer eyes,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan,,2026-07-28,2026-07-28
-+923001730617,umardrazzumardrazz1,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-28,2026-07-28
-+923242129020,M~💫,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan|affordability,,2026-07-28,2026-07-28
-+923486118310,Mateenbabar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-28,2026-07-28
-+923046863160,Qasim javed,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Other,affordability|hassan|intent-to-pay|mdcat|zubair,,2026-07-28,2026-07-28
-+923244575406,waheed Ramn,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-28,2026-07-28
-+923709954085,❤️❤️,,Uncategorized,WhatsApp,WhatsApp Primary,Google Search,mdcat-blog-leads|hassan,,2026-07-28,2026-07-28
-+923313972402,Serish Baloch,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-balochistan-campaign|hassan,,2026-07-28,2026-07-28
-+923219900879,IHK,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,mdcat-calculator-page|hassan,,2026-07-28,2026-07-28
-+923489937822,MT jani,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan,,2026-07-28,2026-07-28
-+923223313162,Malik Sawal,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|mdcat-meta-punjab-campaign|irrelevant,120248423982770215,2026-07-28,2026-07-28
-+923161762661,Haseeb,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-punjab-campaign|hassan,,2026-07-28,2026-07-28
++923234546504,: >,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,khizar|mdcat-meta-lumhs-campaign,120247612686680215,2026-07-28,2026-07-29
++923436123339,m rashid,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-28,2026-07-29
++923469460453,killer eyes,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-28,2026-07-29
++923001730617,umardrazzumardrazz1,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-kemu-campaign,120241660270370215,2026-07-28,2026-07-29
++923242129020,M~💫,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,affordability|hassan|mdcat-landing-page-2026,,2026-07-28,2026-07-29
++923486118310,Mateenbabar,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-28,2026-07-29
++923046863160,Qasim javed,,Male,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Other,affordability|hassan|intent-to-pay|mdcat|zubair,,2026-07-28,2026-07-29
++923244575406,waheed Ramn,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-28,2026-07-29
++923709954085,❤️❤️,,Uncategorized,WhatsApp,WhatsApp Primary,Google Search,hassan|mdcat-blog-leads,,2026-07-28,2026-07-29
++923313972402,Serish Baloch,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-balochistan-campaign,,2026-07-28,2026-07-29
++923219900879,IHK,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,hassan|mdcat-calculator-page,,2026-07-28,2026-07-29
++923489937822,MT jani,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-28,2026-07-29
++923223313162,Malik Sawal,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|irrelevant|mdcat-meta-punjab-campaign,120248423982770215,2026-07-28,2026-07-29
++923161762661,Haseeb,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|mdcat-meta-punjab-campaign,,2026-07-28,2026-07-29
 +923222842560,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-28,2026-07-28
-+923476101657,Fezan jutt,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-punjab-campaign|hassan,120245956926930215,2026-07-28,2026-07-28
-+923003325690,rashidrahu810,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign|irrelevant,120241660270370215,2026-07-28,2026-07-28
++923476101657,Fezan jutt,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|mdcat-meta-punjab-campaign,120245956926930215,2026-07-28,2026-07-29
++923003325690,rashidrahu810,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-kemu-campaign,120241660270370215,2026-07-28,2026-07-29
 +923087352120,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-28,2026-07-28
-+923018658284,G,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-28,2026-07-28
++923018658284,G,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-28,2026-07-29
 +923009371184,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-28,2026-07-28
-+923282789049,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup|khizar,,2026-07-28,2026-07-28
-+923109801431,Huma Nawaz,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lal-campaign|hassan,120247614657620215,2026-07-28,2026-07-28
-+923458996837,rahimoonnaveed75,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat-web-app|zubair,120249937174740215,2026-07-28,2026-07-28
-+923490931535,shehbaz72872,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
-+923460373496,ganesdas802MAILUK03403601,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249937174740215,2026-07-28,2026-07-28
-+923340398683,M Zahid M Zahid,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
-+923023168263,samarshah009gamil com,,Female,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-28,2026-07-28
-+923296945884,Gujjar,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120241660270370215,2026-07-28,2026-07-28
-+923043639212,jajahskkarj 💋💋💋💋❤️❤️,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
-+923472920144,jahangirlahanri957,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-28,2026-07-28
-+923373523163,amjad Ali,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-28
-+923060460699,Ali,,Male,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-28,2026-07-28
-+923492911195,Doctor Zoya,syshsshsbss@gmail.com,Female,In App,In App,Other,zubair|mdcat-mobile-app,,2026-07-28,2026-07-28
-+923465260410,Malik Di Jaan ❣️,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-28,2026-07-28
-+923454168520,M Ahmer,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair|free,120247612686680215,2026-07-28,2026-07-28
-+923298783869,.,,Uncategorized,WhatsApp,WhatsApp OTP,Other,mdcat|zubair|affordability,,2026-07-28,2026-07-28
-+923142728433,AS Brand collection,,Uncategorized,WhatsApp,WhatsApp Primary,Google Search,mdcat-blog-leads|hassan,,2026-07-28,2026-07-28
++923282789049,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,khizar|mdcat-web-signup,,2026-07-28,2026-07-29
++923109801431,Huma Nawaz,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-lal-campaign,120247614657620215,2026-07-28,2026-07-29
++923458996837,rahimoonnaveed75,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat-web-app|zubair,120249937174740215,2026-07-28,2026-07-29
++923490931535,shehbaz72872,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
++923460373496,ganesdas802MAILUK03403601,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249937174740215,2026-07-28,2026-07-29
++923340398683,M Zahid M Zahid,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
++923023168263,samarshah009gamil com,,Female,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-28,2026-07-29
++923296945884,Gujjar,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120241660270370215,2026-07-28,2026-07-29
++923043639212,jajahskkarj 💋💋💋💋❤️❤️,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
++923472920144,jahangirlahanri957,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-28,2026-07-29
++923373523163,amjad Ali,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-28,2026-07-29
++923060460699,Ali,,Male,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-28,2026-07-29
++923492911195,Doctor Zoya,syshsshsbss@gmail.com,Female,In App,In App,Other,mdcat-mobile-app|zubair,,2026-07-28,2026-07-29
++923465260410,Malik Di Jaan ❣️,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign,120241660270370215,2026-07-28,2026-07-29
++923454168520,M Ahmer,,Male,WhatsApp,WhatsApp Secondary,Other,free|mdcat|zubair,120247612686680215,2026-07-28,2026-07-29
++923298783869,.,,Uncategorized,WhatsApp,WhatsApp OTP,Other,affordability|mdcat|zubair,,2026-07-28,2026-07-29
++923142728433,AS Brand collection,,Uncategorized,WhatsApp,WhatsApp Primary,Google Search,hassan|mdcat-blog-leads,,2026-07-28,2026-07-29
 +923429699955,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-28,2026-07-28
-+923368309420,anamta,,Female,WhatsApp,WhatsApp Primary,Other,mdcat-akhss|hassan,,2026-07-28,2026-07-28
-+923013505514,𝚃𝚊𝚕𝚒𝚋 𝙷𝚞𝚜𝚜𝚊𝚒𝚗,,Male,WhatsApp,WhatsApp Primary,Google Search,mdcat-blog-leads|hassan,,2026-07-28,2026-07-28
-+923127640032,uq03251,,Uncategorized,WhatsApp,WhatsApp Primary,Google Search,mdcat-blog-leads|hassan|affordability|free,,2026-07-28,2026-07-28
++923368309420,anamta,,Female,WhatsApp,WhatsApp Primary,Other,hassan|mdcat-akhss,,2026-07-28,2026-07-29
++923013505514,𝚃𝚊𝚕𝚒𝚋 𝙷𝚞𝚜𝚜𝚊𝚒𝚗,,Male,WhatsApp,WhatsApp Primary,Google Search,hassan|mdcat-blog-leads,,2026-07-28,2026-07-29
++923127640032,uq03251,,Uncategorized,WhatsApp,WhatsApp Primary,Google Search,affordability|free|hassan|mdcat-blog-leads,,2026-07-28,2026-07-29
 +923702351358,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-28,2026-07-28
-+923022440703,Shahbaz ail,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|mdcat-meta-kemu-campaign|irrelevant,120241660270370215,2026-07-28,2026-07-28
-+923006267710,Ehan Baba,,Male,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan,,2026-07-28,2026-07-28
-+923024776085,RaoKashif,rameezrao752@gmail.com,Male,In App,In App,Other,zubair|mdcat-mobile-app,,2026-07-28,2026-07-28
++923022440703,Shahbaz ail,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,hassan|irrelevant|mdcat-meta-kemu-campaign,120241660270370215,2026-07-28,2026-07-29
++923006267710,Ehan Baba,,Male,WhatsApp,WhatsApp Secondary,Google Search,hassan|mdcat-landing-page-2026,,2026-07-28,2026-07-29
++923024776085,RaoKashif,rameezrao752@gmail.com,Male,In App,In App,Other,mdcat-mobile-app|zubair,,2026-07-28,2026-07-29
 +16317477710,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-28,2026-07-28
-+923072266212,😎,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120249592446240215,2026-07-28,2026-07-28
-+923238588477,,tanveerahmadanjum705@gmail.com,Male,In App,In App,Other,zubair|mdcat-mobile-app,,2026-07-28,2026-07-28
++923072266212,😎,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120249592446240215,2026-07-28,2026-07-29
++923238588477,,tanveerahmadanjum705@gmail.com,Male,Both,In App|WhatsApp Secondary,Other,affordability|hassan|mdcat-landing-page-2026|mdcat-mobile-app|zubair,,2026-07-28,2026-07-29
++923171756241,Shama Jutt,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-30,2026-07-30
++923410375520,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup|khizar,,2026-07-30,2026-07-30
++923211324420,,duadero702@gmail.com,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lal-campaign|hassan,120248422429430215,2026-07-30,2026-07-30
++923455897261,sardarnii😊,,Male,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan,,2026-07-30,2026-07-30
++923309448575,Muhammad Saad,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat-web-app|zubair,,2026-07-30,2026-07-30
++923556211040,RAshiD AhMeD,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120247606740810215,2026-07-30,2026-07-30
++923098709582,...,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair|affordability,,2026-07-29,2026-07-30
++923002779336,khalidkhaskhli5,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249937174740215,2026-07-30,2026-07-30
++923409329911,abudllah829,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-30,2026-07-30
++923390119491,Sherkhan Shoro,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-balochistan-campaign|hassan,,2026-07-30,2026-07-30
++923141914558,ABID SHAH,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120247612803570215,2026-07-30,2026-07-30
++923355248409,mmellat635💞💞💞💋💋💋,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,,2026-07-30,2026-07-30
++923244549032,umerrr55565,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249937174740215,2026-07-30,2026-07-30
++923168017152,shivenkhan68,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-30,2026-07-30
++923000350714,Nawabnasir Abbas janjua,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-30,2026-07-30
++923073275195,Wahidsamoon,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-30,2026-07-30
++923362295951,MUAWWIZ,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat-web-app|zubair,,2026-07-30,2026-07-30
++923256399771,Khalib,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-punjab-campaign|hassan,120248423982770215,2026-07-30,2026-07-30
++923332143861,Mahnoor Anas,,Female,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,120248422429430215,2026-07-29,2026-07-29
++923103266768,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-29,2026-07-29
++923096776545,M .Shabaz..,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-29,2026-07-29
++923129571116,~~~~~~,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120249938549640215,2026-07-29,2026-07-29
++923367805722,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-29,2026-07-29
++923019789626,Jutt,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-29,2026-07-29
++923313701351,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup|khizar,,2026-07-29,2026-07-29
++923555729109,Shareed,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120249592446240215,2026-07-29,2026-07-29
++923442635791,Ray Hafeez,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120249592446240215,2026-07-29,2026-07-29
++923170246181,jn,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-29,2026-07-29
++923333384021,aminullah,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-balochistan-campaign|hassan,120249938461040215,2026-07-29,2026-07-29
++923360912415,iqra Malik 51412,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-29,2026-07-29
++923013309499,muhammadalamgmail com,,Male,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan,,2026-07-29,2026-07-29
++923137447354,"S,♥️♥️🥀♥️♥️",,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-29,2026-07-29
++923198483158,aliahmed2459,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-29,2026-07-29
++923555456115,Hassan muntazri ❤️❤️🫀,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair|intent-to-pay,120250039119140215,2026-07-29,2026-07-29
++923160871416,.,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,mdcat-syllabus-page|hassan,,2026-07-29,2026-07-29
++923282624162,😇,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-punjab-campaign|hassan,120247613634910215,2026-07-29,2026-07-29
++923335990297,seemab GIna,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lal-campaign|hassan,120248422429430215,2026-07-29,2026-07-29
++923095104831,Rabia Jamsher,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120247612603140215,2026-07-29,2026-07-29
++923379227636,Mohammad Ishtiaq,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lumhs-campaign|khizar,120247612686680215,2026-07-29,2026-07-29
++923023999454,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup|khizar|affordability|intent-to-pay,,2026-07-29,2026-07-29
++923461732880,Aliya Wali,,Female,WhatsApp,WhatsApp Outbound,Other,mdcat|zubair,120245956926950215,2026-07-29,2026-07-29
++923048219146,Basharat Prince,,Male,WhatsApp,WhatsApp OTP,Other,mdcat|zubair|free|affordability,,2026-07-29,2026-07-29
++923430234712,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-29,2026-07-29
++923418762983,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-29,2026-07-29
++923710478476,punhalbahrani,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120248419180440215,2026-07-29,2026-07-29
++923455659467,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup|khizar|free,,2026-07-29,2026-07-29
++923113168117,M.Umair✨,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair|free|affordability,,2026-07-29,2026-07-29
++923177264128,<Nayyab💝>,,Female,WhatsApp,WhatsApp Secondary,Other,mdcat-web-app|zubair|interested,,2026-07-29,2026-07-29
++923095985157,dream docter,,Uncategorized,WhatsApp,WhatsApp OTP,Other,mdcat|zubair,,2026-07-29,2026-07-29
++923122106964,~,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat|zubair|mdcat-meta-2027-campaign,120250039119140215,2026-07-29,2026-07-29
++923475016559,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-29,2026-07-29
++923480902781,♛┈Queen of dreams⛧┈•༶,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120250039119140215,2026-07-29,2026-07-29
++923408723935,خالدہ رمضان 😍,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,,2026-07-29,2026-07-29
++923420242082,adnankhanakr71,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat-app-banner|zubair,,2026-07-29,2026-07-29
++923022648599,👿👿👿👿👿👿👿👿,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kpk-campaign|zubair,120240626382600215,2026-07-29,2026-07-29
++923169191031,Hafisa b@tool,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,,2026-07-29,2026-07-29
++923146056453,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup|khizar|affordability,,2026-07-29,2026-07-29
++923138388504,♥️👀,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lumhs-campaign|khizar,120248424097480215,2026-07-29,2026-07-29
++923554707003,eshal•_•,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lumhs-campaign|khizar,120247612686680215,2026-07-29,2026-07-29
++923482088892,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-29,2026-07-29
++923235089392,🖤,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,mdcat-syllabus-page|hassan,,2026-07-29,2026-07-29
++923303617542,..,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan,,2026-07-29,2026-07-29
++923329448947,ma9117518,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120241660270370215,2026-07-29,2026-07-29
++923148413585,M.N.,afyburiro@gmail.com,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat|zubair,120249938420650215,2026-07-29,2026-07-29
++923190222608,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-29,2026-07-29
++923340021992,eeee,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat|zubair,120250039119140215,2026-07-29,2026-07-29
++923002721774,..,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair|affordability,,2026-07-29,2026-07-29
++923054340186,JuttSab,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120249592446240215,2026-07-29,2026-07-29
++923099014848,waseemtuba285,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|mdcat-meta-punjab-campaign|irrelevant,120248423982770215,2026-07-29,2026-07-29
++923102796525,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup|khizar,,2026-07-29,2026-07-29
++923435423437,it's me Ardis🌷,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat|zubair,120250039119140215,2026-07-29,2026-07-29
++923121437441,Haneef,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120249592446240215,2026-07-29,2026-07-29
++923333479092,..,,Uncategorized,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-sindh-campaign|zubair,120249938385040215,2026-07-29,2026-07-29
++923099127687,M Hammad Ali,,Male,WhatsApp,WhatsApp Secondary,Other,mdcat-syllabus-page|hassan,,2026-07-29,2026-07-29
++923361283703,,rch006567@gmail.com,Uncategorized,In App,In App,Other,zubair|mdcat-mobile-app,,2026-07-29,2026-07-29
++923366880412,Mrs Meghani,,Female,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249937174740215,2026-07-29,2026-07-29
++923295937647,Sahar,,Female,WhatsApp,WhatsApp Outbound,Meta Paid,mdcat-meta-2027-campaign|zubair,120250039119140215,2026-07-29,2026-07-29
++923480276709,Arwah,,Female,WhatsApp,WhatsApp Secondary,Other,mdcat-web-app|zubair|affordability,,2026-07-29,2026-07-29
++923125898250,,doctorahmadkhan1234567@gmail.com,Male,In App,In App,Other,zubair|mdcat-mobile-app,,2026-07-29,2026-07-29
++923120215902,MTM,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,mdcat|zubair,120249643237330215,2026-07-29,2026-07-29
++923220549281,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-29,2026-07-29
++923431414706,Aslam Khan,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-dow-campaign|zubair,120249937174740215,2026-07-29,2026-07-29
++93708726717,اغاملنګ اغاملنګ,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-kemu-campaign|hassan,120247612803570215,2026-07-29,2026-07-29
++923423481931,MUHAMMAD AMEEN MAGSI,,Male,WhatsApp,WhatsApp Secondary,Google Search,mdcat|zubair|mdcat-landing-page-2026|hassan|affordability|free,,2026-07-29,2026-07-29
++923327956441,noo9,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,mdcat-syllabus-page|hassan,,2026-07-29,2026-07-29
++923001088949,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup|khizar,,2026-07-29,2026-07-29
++923073664944,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-29,2026-07-29
++923215273580,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-29,2026-07-29
++19162983199,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-29,2026-07-29
++923254914917,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-29,2026-07-29
++923154623288,Suhail. Ahmed. Magsi🇵🇰🇵🇰,,Male,WhatsApp,WhatsApp Outbound,Meta Paid,hassan|mdcat-meta-punjab-campaign|irrelevant,120248423982770215,2026-07-29,2026-07-29
++923337974522,Zaib,,Female,WhatsApp,WhatsApp Secondary,Google Search,mdcat-landing-page-2026|hassan,,2026-07-29,2026-07-29
++923372096656,Tawasal Abbasi,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,mdcat-meta-lumhs-campaign|khizar,120247612686680215,2026-07-29,2026-07-29
++923154224307,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,mdcat-web-signup,,2026-07-29,2026-07-29
