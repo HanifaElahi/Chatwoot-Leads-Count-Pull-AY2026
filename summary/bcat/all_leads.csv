@@ -957,7 +957,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923109256003,muhammadrafaqatrafaqatahm,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called,,2026-04-01,2026-04-02
 +923442836940,Yasir Ali,,Male,WhatsApp,WhatsApp Secondary,Other,bcat|called|irrelevant,,2026-04-01,2026-04-02
 +923011210756,Nasir Abbas,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|irrelevant,,2026-04-01,2026-04-02
-+923554212339,zawar Kazim💔,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called,,2026-04-01,2026-04-02
++923554212339,zawar Kazim💔,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat|bcat-meta-iba-campaign|called|khizar,,2026-04-01,2026-08-14
 +923152494291,Waqar Ahmad Mir,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called,,2026-04-01,2026-04-02
 +923012134141,Mirha rana,,Male,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|maybe,,2026-04-01,2026-04-02
 +923465343918,At Work 👤,,Uncategorized,WhatsApp,WhatsApp Secondary,Meta Paid,bcat-meta-iba-campaign|called|irrelevant,,2026-03-31,2026-04-02
@@ -7669,6 +7669,10 @@ JutT",,Male,WhatsApp,WhatsApp Secondary,Google Search,bcat-website-leads|khizar,
 +923171080794,,ansharaimran89@gmail.com,Male,Both,In App|WhatsApp Secondary,Other,bcat-app-banner|bcat-mobile-app|khizar,,2026-08-12,2026-08-13
 +923401564731,Hafiz Zain Ali,abduljabar1775@gmail.com,Male,In App,In App,Other,bcat-mobile-app|khizar,,2026-08-12,2026-08-13
 +923332827758,Tahira soomro,,Female,WhatsApp,WhatsApp Secondary,Other,bcat-app-banner|khizar,,2026-08-12,2026-08-13
-+923400840712,,ff1012147@gmail.com,Uncategorized,WhatsApp,WhatsApp Primary,Google Search,bcat-blog-leads|khizar|session-booked,,2026-08-13,2026-08-13
-+923402327371,Danish Ali,,Male,WhatsApp,WhatsApp Primary,Other,alevel-equivalency-page|bcat|aizah,,2026-08-13,2026-08-13
-+923108635445,Abrar,,Female,WhatsApp,WhatsApp Secondary,Other,bcat|khizar,,2026-08-13,2026-08-13
++923400840712,,ff1012147@gmail.com,Uncategorized,WhatsApp,WhatsApp Primary,Google Search,bcat-blog-leads|khizar|session-booked,,2026-08-13,2026-08-14
++923402327371,Danish Ali,,Male,WhatsApp,WhatsApp Primary,Other,aizah|alevel-equivalency-page|bcat,,2026-08-13,2026-08-14
++923108635445,Abrar,,Female,WhatsApp,WhatsApp Secondary,Other,bcat|khizar,,2026-08-13,2026-08-14
++923349314675,Kiran Tariq,,Female,WhatsApp,WhatsApp Secondary,Google Search,bcat-landing-page|khizar|a-levels,,2026-08-15,2026-08-15
++923497518950,,sharirfan37@gmail.com,Female,In App,In App,Other,khizar|bcat-mobile-app,,2026-08-14,2026-08-14
++923431654370,,khalidsamia51@gmail.com,Male,In App,In App,Other,khizar|bcat-mobile-app,,2026-08-14,2026-08-14
++923427420561,Piyush,,Male,WhatsApp,WhatsApp Secondary,Google Search,bcat-landing-page|khizar,,2026-08-14,2026-08-14
