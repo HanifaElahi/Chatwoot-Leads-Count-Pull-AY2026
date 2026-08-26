@@ -5888,7 +5888,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923302312990,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,bcat-outbounds,,2026-01-02,2026-01-02
 +923288269019,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,bcat-outbounds,,2026-01-02,2026-01-02
 +923260855979,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,bcat-outbounds,,2026-01-02,2026-01-02
-+923213607559,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,bcat-outbounds,,2026-01-02,2026-01-02
++923213607559,,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Other,a-levels|bcat|bcat-outbounds|hassan|khizar,,2026-01-02,2026-08-25
 +923212694859,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,bcat-outbounds,,2026-01-02,2026-01-02
 +923181018223,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,bcat-outbounds,,2026-01-02,2026-01-02
 +923155508690,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,bcat-outbounds,,2026-01-02,2026-01-02
@@ -7715,7 +7715,10 @@ JutT",,Male,WhatsApp,WhatsApp Secondary,Google Search,bcat-website-leads|khizar,
 +923241239959,Ayaan,,Male,WhatsApp,WhatsApp Secondary,Other,bcat|umair,120250494822550215,2026-08-23,2026-08-24
 +923118306330,,aimandurrani560@gmail.com,Female,In App,In App,Other,bcat-mobile-app|umair,,2026-08-23,2026-08-24
 +923278843746,Yousuf,,Male,WhatsApp,WhatsApp Secondary,Google Search,bcat-landing-page|umair,,2026-08-23,2026-08-24
-+923214100810,Adnan Mughal,,Male,WhatsApp,WhatsApp Primary,Google Search,bcat-blog-leads|khizar,,2026-08-25,2026-08-25
-+923145875442,,ma0677063@gmail.com,Uncategorized,In App,In App,Other,khizar|bcat-mobile-app,,2026-08-24,2026-08-24
-+923219252109,Usman Zahid,,Male,WhatsApp,WhatsApp Outbound,Other,bcat-syllabus-page|umair,,2026-08-24,2026-08-24
-+923240465908,Birjees Asif,,Male,WhatsApp,WhatsApp Secondary,Google Search,bcat-landing-page|umair,,2026-08-24,2026-08-24
++923214100810,Adnan Mughal,,Male,WhatsApp,WhatsApp Primary,Google Search,bcat-blog-leads|khizar|umair,,2026-08-25,2026-08-25
++923145875442,,ma0677063@gmail.com,Uncategorized,In App,In App,Other,bcat-mobile-app|khizar,,2026-08-24,2026-08-25
++923219252109,Usman Zahid,,Male,WhatsApp,WhatsApp Outbound,Other,bcat-syllabus-page|umair,,2026-08-24,2026-08-25
++923240465908,Birjees Asif,,Male,WhatsApp,WhatsApp Secondary,Google Search,bcat-landing-page|umair,,2026-08-24,2026-08-25
++923117225605,,nomankanju815@gmail.com,Male,In App,In App,Other,khizar|bcat-mobile-app,,2026-08-26,2026-08-26
++923450122844,PARSHANT MUKHI,,Male,WhatsApp,WhatsApp Outbound,Other,bcat-syllabus-page|umair,,2026-08-25,2026-08-25
++923425266531,😀,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,bcat|umair,,2026-08-25,2026-08-25
