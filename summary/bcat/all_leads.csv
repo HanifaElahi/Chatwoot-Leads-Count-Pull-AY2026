@@ -1607,7 +1607,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923302859842,,,Uncategorized,WhatsApp,WhatsApp Outbound,Organic,bcat-socials-form|called,,2026-02-24,2026-02-25
 +923048617775,Mamoona,,Female,WhatsApp,WhatsApp Secondary,Other,bcat|called,,2026-02-23,2026-02-25
 +923451710001,filzaa,fatimafilza314@gmail.com,Female,WhatsApp,WhatsApp Secondary,Other,bcat|bcat-meta-iba-campaign|called|khizar|maybe,120246555929610215,2026-02-15,2026-06-09
-+923078192838,سيد محمد شهير بن ناصر~🇵🇰,nshaheer84@gmail.com,Male,WhatsApp,WhatsApp Secondary,Other,a-levels|affordability|bcat|called|interested,,2026-01-28,2026-02-25
++923078192838,سيد محمد شهير بن ناصر~🇵🇰,nshaheer84@gmail.com,Male,WhatsApp,WhatsApp Secondary,Other,a-levels|affordability|bcat|called|interested|umair,120250849882910215,2026-01-28,2026-08-27
 +923718065144,Muneeb Ur Rehman,,Male,WhatsApp,WhatsApp Secondary,Other,bcat|called,,2026-02-23,2026-02-25
 +923104974854,,,Uncategorized,WhatsApp,WhatsApp Outbound,Google Search,bcat-landing-page-form|called,,2026-02-21,2026-02-25
 +923330635410,Jaj Khan,,Male,WhatsApp,WhatsApp Secondary,Other,bcat,,2026-02-24,2026-02-25
@@ -5888,7 +5888,7 @@ phone,name,email,gender,channel,inboxes,source_type,labels,ad_ids,first_seen,las
 +923302312990,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,bcat-outbounds,,2026-01-02,2026-01-02
 +923288269019,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,bcat-outbounds,,2026-01-02,2026-01-02
 +923260855979,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,bcat-outbounds,,2026-01-02,2026-01-02
-+923213607559,,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Other,a-levels|bcat|bcat-outbounds|hassan|khizar,,2026-01-02,2026-08-25
++923213607559,,,Uncategorized,WhatsApp,WhatsApp Outbound|WhatsApp Secondary,Other,a-levels|bcat|bcat-outbounds|hassan|khizar,,2026-01-02,2026-08-26
 +923212694859,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,bcat-outbounds,,2026-01-02,2026-01-02
 +923181018223,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,bcat-outbounds,,2026-01-02,2026-01-02
 +923155508690,,,Uncategorized,WhatsApp,WhatsApp Outbound,Other,bcat-outbounds,,2026-01-02,2026-01-02
@@ -7715,10 +7715,12 @@ JutT",,Male,WhatsApp,WhatsApp Secondary,Google Search,bcat-website-leads|khizar,
 +923241239959,Ayaan,,Male,WhatsApp,WhatsApp Secondary,Other,bcat|umair,120250494822550215,2026-08-23,2026-08-24
 +923118306330,,aimandurrani560@gmail.com,Female,In App,In App,Other,bcat-mobile-app|umair,,2026-08-23,2026-08-24
 +923278843746,Yousuf,,Male,WhatsApp,WhatsApp Secondary,Google Search,bcat-landing-page|umair,,2026-08-23,2026-08-24
-+923214100810,Adnan Mughal,,Male,WhatsApp,WhatsApp Primary,Google Search,bcat-blog-leads|khizar|umair,,2026-08-25,2026-08-25
++923214100810,Adnan Mughal,,Male,WhatsApp,WhatsApp Primary,Google Search,bcat-blog-leads|khizar|umair,,2026-08-25,2026-08-26
 +923145875442,,ma0677063@gmail.com,Uncategorized,In App,In App,Other,bcat-mobile-app|khizar,,2026-08-24,2026-08-25
 +923219252109,Usman Zahid,,Male,WhatsApp,WhatsApp Outbound,Other,bcat-syllabus-page|umair,,2026-08-24,2026-08-25
 +923240465908,Birjees Asif,,Male,WhatsApp,WhatsApp Secondary,Google Search,bcat-landing-page|umair,,2026-08-24,2026-08-25
-+923117225605,,nomankanju815@gmail.com,Male,In App,In App,Other,khizar|bcat-mobile-app,,2026-08-26,2026-08-26
-+923450122844,PARSHANT MUKHI,,Male,WhatsApp,WhatsApp Outbound,Other,bcat-syllabus-page|umair,,2026-08-25,2026-08-25
-+923425266531,😀,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,bcat|umair,,2026-08-25,2026-08-25
++923117225605,,nomankanju815@gmail.com,Male,In App,In App,Other,bcat-mobile-app|khizar,,2026-08-26,2026-08-27
++923450122844,PARSHANT MUKHI,,Male,WhatsApp,WhatsApp Outbound,Other,bcat-syllabus-page|umair,,2026-08-25,2026-08-26
++923425266531,😀,,Uncategorized,WhatsApp,WhatsApp Secondary,Other,bcat|umair,,2026-08-25,2026-08-26
++923271428503,....🖤...??,,Uncategorized,WhatsApp,WhatsApp Secondary,Google Search,bcat-landing-page|umair,,2026-08-27,2026-08-27
++923041257770,Kainat,,Female,WhatsApp,WhatsApp Outbound,Other,bcat|umair,120250039119140215,2026-08-26,2026-08-26
